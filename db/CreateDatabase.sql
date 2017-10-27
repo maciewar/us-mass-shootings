@@ -62,6 +62,7 @@ CREATE TABLE IF NOT EXISTS `mass-shootings`.`Attackers` (
   `id` INT NOT NULL,
   `FirstName` VARCHAR(50) NULL,
   `LastName` VARCHAR(50) NULL,
+  `Age` INT NULL,
   `Sex` ENUM('M', 'F', 'UNKNOWN') NULL DEFAULT 'UNKNOWN',
   `MentalHealthIssues` ENUM('YES', 'NO', 'UNCLEAR', 'UNKNOWN') NULL DEFAULT 'UNKNOWN',
   `Race` VARCHAR(45) NULL,
