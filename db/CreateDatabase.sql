@@ -62,8 +62,10 @@ CREATE TABLE IF NOT EXISTS `mass-shootings`.`Attackers` (
   `id` INT NOT NULL,
   `FirstName` VARCHAR(50) NULL,
   `LastName` VARCHAR(50) NULL,
+  `Age` INT NULL,
   `Sex` ENUM('M', 'F', 'UNKNOWN') NULL DEFAULT 'UNKNOWN',
   `MentalHealthIssues` ENUM('YES', 'NO', 'UNCLEAR', 'UNKNOWN') NULL DEFAULT 'UNKNOWN',
+  `Race` VARCHAR(45) NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `id_UNIQUE` (`id` ASC),
   CONSTRAINT `IncidentId`
@@ -90,6 +92,24 @@ CREATE TABLE IF NOT EXISTS `mass-shootings`.`Victims` (
   CONSTRAINT `IncidentId`
     FOREIGN KEY (`id`)
     REFERENCES `mass-shootings`.`Incidents` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB;
+
+
+-- -----------------------------------------------------
+-- Table `mass-shootings`.`Races`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `mass-shootings`.`Races` ;
+
+CREATE TABLE IF NOT EXISTS `mass-shootings`.`Races` (
+  `id` INT NOT NULL,
+  `RaceName` VARCHAR(50) NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE INDEX `id_UNIQUE` (`id` ASC),
+  CONSTRAINT `AttackerId`
+    FOREIGN KEY (`id`)
+    REFERENCES `mass-shootings`.`Attackers` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
