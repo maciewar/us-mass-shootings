@@ -1,317 +1,318 @@
-S#,Title,Date,Fatalities,Injured,Total victims,Mental Health Issues,Race,Gender,Latitude,Longitude,Cities,State,Gun law,Party affiliation
-1,Las Vegas Strip mass shooting,10/1/2017,58,527,585,Unknown,White,M,36.181271,-115.13413200000001,Las Vegas,Nevada,C,Democrat
-150,Nellis Plaza,6/8/2014,5,0,3,No,White,Unknown,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat
-160,Sparks Middle School,10/21/2013,2,2,3,Unknown,Unknown,M,39.54058388,-119.748291,Sparks,Nevada,C,Democrat
-190,IHOP shooting,9/6/2011,5,7,12,Yes,Latino,M,39.1637984,-119.76740339999999,Carson City,Nevada,C,Democrat
-212,Mojave High School Bus,12/11/2007,0,6,6,No,Black,M,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat
-310,Valley High School,3/19/1982,1,2,3,Yes,White,M,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat
-2,San Francisco UPS shooting,6/14/2017,3,2,5,Yes,Asian,M,,,San Francisco,California,A,Democrat
-6,Fresno downtown shooting,4/18/2017,3,0,3,Unknown,Black,M,,,Fresno,California,A,Democrat
-19,Long Beach Street murder,4/18/2016,0,3,4,Unknown,Unknown,Unknown,33.77005,-118.193739,,California,A,Democrat
-46,Riverside restaurant shooting,2/28/2016,1,3,4,Unknown,Unknown,M,33.997197,-117.48548000000001,,California,A,Democrat
-59,"Vallejo, CA car shooting",2/19/2016,2,2,4,Unknown,Unknown,Unknown,38.104085999999995,-122.25663700000001,,California,A,Democrat
-72,Los Angeles Drive-by,1/23/2016,2,2,4,Unknown,Unknown,Unknown,34.052234000000006,-118.24368500000001,,California,A,Democrat
-78,San Bernardino mass shooting,12/2/2015,14,21,35,Unknown,Unknown,Unknown,,,San Bernardino,California,A,Democrat
-79,"San Bernardino, California",12/2/2015,16,21,35,Unknown,Asian,Unknown,34.13973446,-117.29424440000001,San Bernardino,California,A,Democrat
-152,Isla Vista mass murder,5/23/2014,6,13,19,Yes,White,M,,,Santa Barbara,California,A,Democrat
-156,San Francisco Tenderloin,3/23/2014,0,8,8,No,Black,M,37.75457839,-122.44243429999999,San Francisco,California,A,Democrat
-157,Cedarville Rancheria Tribe,2/20/2014,4,2,6,No,Native,F,41.4911123,-120.54909099999999,Alturas,California,A,Democrat
-159,Los Angeles International Airport (LAX),11/1/2013,1,3,4,No,White,M,34.17622092,-118.53995420000001,Los Angeles,California,A,Democrat
-166,Santa Monica College,6/7/2013,6,3,8,Yes,White,M,34.02319149,-118.48156440000001,Santa Monica,California,A,Democrat
-170,"Ladera Ranch, Santa Ana, Tustin and Orange",2/19/2013,4,3,6,Yes,White,M,33.54961059,-117.64157069999999,Ladera Ranch,California,A,Democrat
-171,Los Angeles Police Department,2/3/2013,4,2,7,Yes,Black,M,33.67803464,-117.773628,Irvine,California,A,Democrat
-185,Oikos University killings,4/2/2012,7,3,10,Yes,Asian,M,37.8043808,-122.2708166,Oakland,California,A,Democrat
-189,Salon Meritage,10/12/2011,8,1,9,Yes,White,M,33.75432632,-118.0715378,Seal Beach,California,A,Democrat
-202,"Rivermark, Santa Clara, California",3/29/2009,6,1,6,No,Asian,M,37.36463172,-121.96793149999999,Santa Clara,California,A,Democrat
-205,"Covina, California",12/24/2008,10,2,11,No,White,M,34.09026669,-117.88199579999998,Covina,California,A,Democrat
-227,Goleta Post Office,1/30/2006,8,0,7,Yes,White,F,34.43606107,-119.8593619,Goleta,California,A,Democrat
-238,Santana High School,3/5/2001,2,13,15,No,White,M,32.86357277,-117.1281628,"Santee, San Diego",California,A,Democrat
-248,Riverside City Hall,10/6/1998,0,6,6,No,Black,M,33.93814348,-117.3948409,Riverside,California,A,Democrat
-254,Caltrans Maintenance Yard,12/18/1997,5,2,6,No,Unknown,M,33.78935598,-117.820412,Orange,California,A,Democrat
-259,San Diego State University,8/15/1996,3,0,3,No,White,M,32.86357277,-117.1281628,San Diego,California,A,Democrat
-276,Offices of Pettit & Martin in San Francisco,7/1/1993,9,6,14,No,White,M,37.75457839,-122.44243429999999,San Francisco,California,A,Democrat
-278,Dana Point Post Office,5/6/1993,1,5,6,Yes,White,M,33.47316083,-117.696399,Dana Point,California,A,Democrat
-282,Lindhurst High School,5/1/1992,4,10,14,Yes,White,M,39.08174985,-121.55495390000002,Olivehurst,California,A,Democrat
-290,Orange Glenn Post Office,8/10/1989,4,1,4,No,White,M,33.13439925,-117.07225279999999,Escondido,California,A,Democrat
-291,Cleveland Elementary School,1/17/1989,6,30,35,Yes,White,M,37.96631812,-121.30187749999999,Stockton,California,A,Democrat
-296,Electromagnetic Systems Laboratory (ESL),2/16/1988,7,4,11,Yes,White,M,37.38344257,-122.02561850000001,Sunnyvale,California,A,Democrat
-304,McDonald's restaurant in San Ysidro,7/18/1984,22,19,40,Yes,White,M,32.555556,-117.047656,San Ysidro,California,A,Democrat
-306,49th Street Elementary School,2/24/1984,3,12,14,Yes,Black,M,34.17622092,-118.53995420000001,Los Angeles,California,A,Democrat
-312,Grover Cleveland Elementary School,1/29/1979,2,9,11,Yes,White,F,32.86357277,-117.1281628,San Diego,California,A,Democrat
-313,Cal State Fullerton,7/12/1976,7,2,9,Yes,White,M,33.88404244,-117.92785,Fullerton,California,A,Democrat
-314,Los Angeles Computer Learning Center,2/19/1976,1,7,8,Unknown,White,M,34.17622092,-118.53995420000001,Los Angeles,California,A,Democrat
-3,Pennsylvania supermarket shooting,6/7/2017,3,0,3,Unknown,White,M,,,Tunkhannock,Pennsylvania,C,Democrat
-37,"Pittsburgh, Pennsylvania",3/9/2016,6,3,9,Unknown,Unknown,M,40.440625,-79.995886,Pittsburgh,Pennsylvania,C,Democrat
-38,Wilkinsburg BBQ cookout shootout,3/9/2016,5,3,8,Unknown,Unknown,M,40.441736,-79.88199399999999,,Pennsylvania,C,Democrat
-135,Monroeville Macy's,2/7/2015,0,3,3,No,Black,M,40.425745500000005,-79.76092565,Monroeville,Pennsylvania,C,Democrat
-144,"Pennsburg, Souderton, Lansdale, Harleysville",12/15/2014,7,1,7,Yes,White,M,40.39359306,-75.49640881,"Pennsburg, Souderton, Lansdale, Harleysville",Pennsylvania,C,Democrat
-164,Ross Township Supervisor Council Meeting,8/5/2013,3,3,6,No,White,M,39.75344279,-79.08435956,Salisbury ,Pennsylvania,C,Democrat
-221,Amish school shooting,10/2/2006,6,5,11,No,White,M,39.9589,-76.0806,Lancaster County,Pennsylvania,C,Democrat
-222,West Nickel Mines Amish School,10/2/2006,6,5,10,Unknown,White,M,40.04214385,-76.30100872,"Nickel Mines, Lancaster",Pennsylvania,C,Democrat
-223,Duquesne University,9/17/2006,0,5,5,Unknown,Black,M,40.43948548,-79.97631581,Pittsburgh,Pennsylvania,C,Democrat
-250,Parker Middle School Dance,4/24/1998,1,3,4,Yes,White,M,41.87617136,-80.12459632,Edinboro,Pennsylvania,C,Democrat
-4,Florida awning manufacturer shooting,6/5/2017,5,0,5,Unknown,Unknown,M,,,Orlando,Florida,F,Democrat
-7,Fort Lauderdale airport shooting,1/6/2017,5,6,11,Yes,Latino,M,,,Fort Lauderdale,Florida,F,Democrat
-11,Orlando nightclub massacre,6/12/2016,49,53,102,Unknown,Unknown,M,,,Orlando,Florida,F,Democrat
-30,"Plantation, Florida",3/19/2016,1,4,5,Unknown,Unknown,Unknown,26.127585999999997,-80.233104,Plantation,Florida,F,Democrat
-33,Florida Family celebration ends in shooting,3/13/2016,0,4,4,Unknown,Unknown,Unknown,26.640628000000003,-81.87230799999999,,Florida,F,Democrat
-57,Florida Hookah Bar Shooting,2/20/2016,1,3,4,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,F,Democrat
-61,"Orlando, Florida",2/7/2016,2,10,12,Unknown,Unknown,M,28.4541,-81.4646,Orlando,Florida,F,Democrat
-63,"Tampa, FL Strip club shooting",2/6/2016,2,6,8,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,F,Democrat
-71,Florida family murder,1/23/2016,3,0,3,Unknown,White,M,30.754181,-86.572799,,Florida,F,Democrat
-76,"Residence in Lakeland, Florida",1/6/2016,3,1,4,Unknown,Black,M,28.039465000000003,-81.949804,,Florida,F,Democrat
-84,"Jacksonville, Florida",11/13/2015,4,1,4,Unknown,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,F,Democrat
-91,"Inglis, Florida",10/1/2015,3,1,3,Unknown,White,M,29.03270634,-82.65919302,Inglis,Florida,F,Democrat
-105,Miami Gardens,6/16/2015,0,4,4,Unknown,Black,M,25.94326707,-80.24253243,Miami Gardens,Florida,F,Democrat
-120,Daytona Beach,4/3/2015,0,4,4,No,Black,M,29.19313443,-81.10173014,Daytona Beach,Florida,F,Democrat
-122,Panama City Beach,3/28/2015,0,7,7,No,Black,M,30.22540212,-85.87371301,Panama City Beach,Florida,F,Democrat
-134,Moon Lake,2/9/2015,3,1,4,No,White,Unknown,28.24653304,-82.71690259,New Port Richey,Florida,F,Democrat
-146,Florida State University,11/19/2014,1,3,3,Yes,Black,M,30.454939399999997,-84.25264151,Tallahassee,Florida,F,Democrat
-165,Hialeah apartment shooting,7/26/2013,7,0,7,Unknown,Latino,M,25.867010500000003,-80.29146268,Hialeah,Florida,F,Democrat
-177,The Spot Nightclub,9/28/2012,0,15,15,Unknown,Black,M,25.79653943,-80.20840397,Miami,Florida,F,Democrat
-241,Radisson Bay Harbor Inn,12/30/1999,5,3,8,No,Unknown,M,27.99601861,-82.44503769,Tampa,Florida,F,Democrat
-260,Fort Lauderdale revenge shooting,2/9/1996,6,1,7,Yes,Black,M,26.122308399999998,-80.14337859999999,Fort Lauderdale,Florida,F,Democrat
-288,GMAC Loan Office,6/17/1990,12,6,17,No,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,F,Democrat
-297,Pinellas Park High School,2/11/1988,1,2,3,No,White,M,27.84887061,-82.71058000000001,Pinellas Park,Florida,F,Democrat
-298,Palm Bay Shopping Centers,4/23/1987,6,14,20,Yes,White,M,27.98388983,-80.66662713,Palm Bay,Florida,F,Democrat
-309,Welding shop in Miami,8/20/1982,9,3,11,Yes,White,M,25.79653943,-80.20840397,Miami,Florida,F,Democrat
-5,Rural Ohio nursing home shooting,5/12/2017,3,0,3,Yes,White,M,,,Kirkersville,Ohio,D,Republican
-81,"Columbus, Ohio",11/23/2015,4,1,4,Unknown,White,M,39.98861445,-82.98904135,Columbus,Ohio,D,Republican
-88,"Colerain Township, Ohio",10/21/2015,2,1,3,Unknown,White,M,39.253268,-84.599655,Colerain Township,Ohio,D,Republican
-108,Cleveland,5/31/2015,3,1,3,Unknown,Unknown,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican
-186,Chardon High School,2/27/2012,3,3,6,Yes,White,M,41.58025541,-81.20812625,Chardon,Ohio,D,Republican
-193,Youngstown State University,2/6/2011,1,11,12,Unknown,Black,M,41.09933958,-80.64631705,Youngstown,Ohio,D,Republican
-216,SuccessTech Academy,10/11/2007,1,4,4,Yes,White,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican
-231,Damageplan show at the Alrosa Villa Nightclub,12/8/2004,5,7,11,Yes,White,M,39.98861445,-82.98904135,Columbus,Ohio,D,Republican
-235,Case Western Reserve University,5/9/2003,1,2,3,No,Asian,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican
-267,Wickliffe Middle School,11/7/1994,1,3,4,Yes,White,M,41.60713735,-81.46902046,Wickliffe,Ohio,D,Republican
-8,Cascade Mall shooting,9/23/2016,5,0,5,Yes,Unknown,M,,,Burlington,Washington,B,Democrat
-48,"Belfair, Washington",2/26/2016,5,0,4,Unknown,White,M,47.5033,-122.931,Belfair,Washington,B,Democrat
-51,"Belfair, WA Family murder-suicide",2/25/2016,5,0,4,Unknown,White,M,47.451459,-122.82694599999999,,Washington,B,Democrat
-147,Marysville-Pilchuck High School,10/24/2014,5,1,5,No,Native,M,48.04802409,-122.1359622,Marysville,Washington,B,Democrat
-151,Seattle Pacific University,6/5/2014,1,2,3,Yes,Unknown,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat
-161,Washington Navy Yard,9/16/2013,13,3,15,Yes,Black,M,38.90480894,-77.01629717,Washington,Washington,B,Democrat
-168,Pinewood Village Apartments,4/21/2013,5,0,4,Unknown,Black,M,47.30909721,-122.3357553,Federal Way,Washington,B,Democrat
-182,Cafe in Seattle,5/30/2012,6,1,6,Yes,White,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat
-183,Seattle cafe shooting,5/20/2012,6,1,7,Yes,White,M,47.6038321,-122.3300624,Seattle,Washington,B,Democrat
-197,Coffee shop police killings,11/29/2009,4,1,5,Yes,Black,M,47.155846000000004,-122.437031,Parkland,Washington,B,Democrat
-198,Parkland Coffee Shop,11/29/2009,5,0,4,Yes,Black,M,47.16267579,-122.5296574,Lakewood,Washington,B,Democrat
-211,"Carnation, Washington",12/24/2007,6,0,6,No,White,Unknown,47.64628742,-121.9088524,Carnation,Washington,B,Democrat
-226,Capitol Hill massacre,3/25/2006,7,2,9,No,White,M,47.6229,-122.3165,Seattle,Washington,B,Democrat
-261,Frontier Junior High School,2/2/1996,3,1,4,Yes,White,M,47.12189424,-119.2750699,Moses Lake,Washington,B,Democrat
-268,Fairchild Air Force Base Hospital,6/20/1994,5,23,27,Yes,White,M,47.618456,-117.644099,Fairchild Air Force Base,Washington,B,Democrat
-308,Wah Mee Club in Seattle,2/18/1983,13,1,14,Unknown,Asian,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat
-318,St. Aloysius Church,11/11/1971,2,4,5,Yes,White,M,47.67367375,-117.41598429999999,Spokane,Washington,B,Democrat
-9,Baton Rouge police shooting,7/17/2016,3,3,6,Yes,Black,M,,,Baton Rouge,Louisiana,F,Democrat
-40,"Lafayette, LA drive by",3/7/2016,0,4,4,Unknown,Unknown,Unknown,30.224090000000004,-92.01984300000001,,Louisiana,F,Democrat
-66,New Orleans gas station shoot-out,1/31/2016,0,3,3,Unknown,Black,M,29.951065999999997,-90.07153199999999,,Louisiana,F,Democrat
-99,"Grand 16 Theatre, Louisiana",7/23/2015,3,9,11,Yes,White,M,30.21233538,-92.0316453,Lafayette,Louisiana,F,Democrat
-149,Bourbon Street New Orleans,6/29/2014,1,9,10,No,Mixed,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat
-292,New Orleans Downtown Post Office,12/14/1988,0,4,4,Unknown,Unknown,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat
-317,New Orleans Police Shootings,12/31/1972,10,13,22,Yes,Black,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat
-10,Dallas police shooting,7/7/2016,5,11,16,Unknown,Black,M,,,Dallas,Texas,F,Democrat
-17,Texas family murder-suicide,4/19/2016,4,0,4,Unknown,White,M,29.785784999999997,-95.824396,,Texas,F,Democrat
-28,"Sherman, Texas Family Murder-Suicide",3/21/2016,4,0,3,Unknown,Unknown,M,33.635661999999996,-96.60888,Sherman,Texas,F,Democrat
-54,Houston Drive-by,2/21/2016,0,5,5,Unknown,Unknown,Unknown,29.760427000000004,-95.369803,,Texas,F,Democrat
-65,Texas teen commits family murder suicide,2/6/2016,4,0,3,Unknown,White,M,29.209684000000003,-99.786168,,Texas,F,Democrat
-83,"Tennessee Colony, Texas",11/15/2015,6,0,6,Unknown,White,M,31.8076,-95.8069,Tennessee Colony,Texas,F,Democrat
-98,"Houston, Texas",8/8/2015,8,0,8,Unknown,Black,M,29.79705548,-95.36763856,Houston,Texas,F,Democrat
-116,Killeen,4/21/2015,2,3,5,Unknown,Black,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat
-132,Killeen,2/22/2015,4,1,4,No,Black,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat
-154,Fort Hood shooting 2,4/3/2014,3,12,15,Unknown,Latino,M,,,Fort Hood,Texas,F,Democrat
-155,Fort Hood,4/2/2014,4,16,19,Yes,Unknown,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat
-163,Homes in Desoto and Dallas,8/7/2013,4,4,8,Unknown,Black,M,32.79480596,-96.76631094,Dallas,Texas,F,Democrat
-199,Fort Hood Army Base,11/5/2009,13,32,45,Yes,White,M,31.13814354,-97.77797804,Fort Hood,Texas,F,Democrat
-230,Tyler Courthouse,2/24/2005,3,4,6,Unknown,Unknown,M,32.3154272,-95.30501087,Tyler,Texas,F,Democrat
-244,Wedgwood Baptist Church,9/15/1999,8,7,14,Yes,White,M,32.74802142,-97.31305148,Fort Worth,Texas,F,Democrat
-263,Walter Rossler Company,4/3/1995,6,0,5,No,Unknown,M,27.73907518,-97.43073352,Corpus Christi,Texas,F,Democrat
-281,Palo Duro High School,9/11/1992,0,6,6,Unknown,Unknown,M,35.18322484,-101.88056879999999,Amarillo,Texas,F,Democrat
-285,"Luby's Cafeteria in Killeen, Texas",10/16/1991,24,20,43,Yes,White,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat
-305,Ianni's Club in Dallas,6/29/1984,6,1,7,Yes,White,M,32.79480596,-96.76631094,Dallas,Texas,F,Democrat
-320,University of Texas at Austin,8/1/1966,17,32,48,Yes,White,M,30.198887300000003,-97.84415949,Austin,Texas,F,Democrat
-12,"Ferguson, MO Drive by",4/29/2016,0,4,4,Unknown,Unknown,Unknown,38.744217,-90.305391,Ferguson,Missouri,F,Democrat
-53,Missouri Highway shooting,2/21/2016,1,3,4,Unknown,Black,M,38.771440000000005,-90.370949,,Missouri,F,Democrat
-129,Tyrone,2/26/2015,8,1,8,No,White,M,37.204442,-91.876583,Tyrone,Missouri,F,Democrat
-210,Kirkwood City Hall,2/7/2008,6,2,7,No,Black,M,38.57889169,-90.42023754,Kirkwood,Missouri,F,Democrat
-13,"Forestville, Maryland Drive-by",4/26/2016,1,4,5,Unknown,Unknown,Unknown,38.845113,-76.874972,,Maryland,A,Democrat
-15,Tire-Slashing revenge escalation,4/21/2016,0,4,4,Unknown,Black,M,39.290385,-76.612189,,Maryland,A,Democrat
-14,"Halifax County, VA",4/24/2016,0,6,6,Unknown,Black,M,36.765971,-78.928344,,Virginia,D,Republican
-24,"Richmond, Virginia",3/31/2016,2,2,3,Unknown,Black,M,37.540725,-77.436048,Richmond,Virginia,D,Republican
-47,"Woodbridge, Virginia",2/27/2016,2,2,4,Unknown,Black,M,38.6697,-77.3524,Woodbridge,Virginia,D,Republican
-68,"Caroline County, VA Family Murder Suicide",1/29/2016,2,2,3,Unknown,Unknown,M,38.044556,-77.286488,,Virginia,D,Republican
-69,"Chesapeake, Virginia",1/27/2016,6,0,5,Yes,White,M,36.7921,-76.3293,Chesapeake,Virginia,D,Republican
-73,"Gloucester County, VA, House Party",1/17/2016,1,3,4,Unknown,Black,M,37.402640000000005,-76.458559,,Virginia,D,Republican
-96,Virginia WDBJ live TV interview shooting,8/26/2015,3,1,3,Unknown,Black,M,37.27823366,-79.95816104,Roanoke,Virginia,D,Republican
-218,Virginia Tech massacre,4/16/2007,32,23,55,Yes,Asian,M,37.2295733,-80.4139393,Blacksburg,Virginia,D,Republican
-237,Appalachian School of Law,1/16/2002,3,3,6,No,Black,M,37.27537712,-82.09877234,Grundy,Virginia,D,Republican
-16,Chicago Rap video Shootout,4/19/2016,1,4,5,Unknown,Unknown,Unknown,41.878114000000004,-87.629798,,Illinois,B,Democrat
-22,Chicago Birthday Party Bus Shooting,4/7/2016,0,5,5,Unknown,Unknown,Unknown,41.878114000000004,-87.629798,,Illinois,B,Democrat
-102,River Forest,7/12/2015,2,3,4,Unknown,Unknown,M,41.89499946,-87.81941392,River Forest,Illinois,B,Democrat
-110,Club Maxey's,5/25/2015,1,4,5,Unknown,Black,M,39.85566372,-88.93346458,Decatur,Illinois,B,Democrat
-167,Village of Manchester in Illinois,4/24/2013,7,1,7,Unknown,White,M,39.54231335,-90.33029852,Manchester,Illinois,B,Democrat
-209,Northern Illinois University shooting,2/14/2008,5,21,26,Yes,White,M,41.9294736,-88.7503647,DeKalb,Illinois,B,Democrat
-233,Windy City Core Supply Warehouse,8/27/2003,7,0,6,No,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat
-239,Navistar International,2/5/2001,6,4,9,No,Black,M,41.90289602,-87.86430209999999,Melrose Park,Illinois,B,Democrat
-294,Comet Auto Parts and Montefiore School,9/22/1988,5,2,6,No,Black,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat
-295,Hubbard Woods Elementary School,5/20/1988,2,7,8,Yes,White,F,42.10648807,-87.74211141,Winnetka,Illinois,B,Democrat
-316,Clara Barton Elementary School,1/17/1974,1,3,4,Yes,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat
-20,"Albuquerque, NM House party shooting",4/9/2016,0,4,4,Unknown,White,M,35.085334,-106.605553,,New Mexico,F,Democrat
-23,"Albuquerque, NM Family restaurant shooting",4/1/2016,3,1,3,Unknown,Asian,M,35.085334,-106.605553,,New Mexico,F,Democrat
-123,Little Water,3/19/2015,2,2,3,Unknown,Unknown,M,36.443290000000005,-108.723281,Little Water,New Mexico,F,Democrat
-148,Albuquerque Auto Shop,8/8/2014,2,3,4,No,Unknown,M,35.15290522,-106.7791378,Albuquerque,New Mexico,F,Democrat
-173,South Valley Residence,1/19/2013,5,0,5,Yes,Unknown,M,35.15290522,-106.7791378,"South Valley, Albuquerque",New Mexico,F,Democrat
-21,"Memphis, TN gas station shooting",4/9/2016,0,4,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,F,Republican
-26,"Lawrenceburg, Tennessee",3/25/2016,2,2,3,Unknown,Unknown,M,35.242302,-87.334739,Lawrenceburg,Tennessee,F,Republican
-75,"Roadside in Memphis, Tennessee",1/7/2016,1,3,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,F,Republican
-95,"Bristol, Tennessee",8/29/2015,3,1,4,Unknown,White,M,36.55605824,-82.21429551,Bristol,Tennessee,F,Republican
-101,"Amnicola Training Center, Chattanooga",7/16/2015,5,3,7,Yes,White,M,35.09318123,-85.23676751,Chattanooga,Tennessee,F,Republican
-143,Memphis,1/1/2015,0,5,5,No,Black,M,35.10528976,-89.97734924,Memphis,Tennessee,F,Republican
-262,Richland High School,11/15/1995,2,1,3,Yes,White,M,35.37810374,-87.00610559,Lynnville,Tennessee,F,Republican
-25,"Louisburg, North Carolina",3/26/2016,3,0,3,Unknown,Black,M,36.099039000000005,-78.301106,Louisburg,North Carolina,D,Democrat
-103,Boom Boom Room,6/20/2015,0,4,4,Unknown,Black,M,34.86379864,-79.9996781,Morven,North Carolina,D,Democrat
-127,Tarboro,2/28/2015,4,0,3,Yes,Black,M,35.90434471,-77.55639964,Tarboro,North Carolina,D,Democrat
-130,Charlotte,2/24/2015,3,0,3,No,Unknown,M,35.226354,-80.836788,Charlotte,North Carolina,D,Democrat
-133,Chapel Hill,2/10/2015,3,0,3,No,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,D,Democrat
-137,"King, North Carolina",2/4/2015,4,0,3,Unknown,White,M,36.27617912,-80.35501402,King,North Carolina,D,Democrat
-201,Carthage nursing home shooting,3/29/2009,8,3,11,Yes,White,M,35.345802,-79.41705429999999,Carthage,North Carolina,D,Democrat
-203,Pinelake Health and Rehab nursing home,3/29/2009,8,2,10,Yes,White,M,35.33985609,-79.41381725,Carthage,North Carolina,D,Democrat
-224,Orange High School,8/30/2006,1,2,3,Yes,Unknown,M,36.04099857,-79.09701201,Hillsborough,North Carolina,D,Democrat
-265,Downtown Chapel Hill,1/26/1995,2,2,4,Yes,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,D,Democrat
-274,Luigi's Restaurant in Fayetteville,8/6/1993,4,8,12,No,White,M,35.07997086,-79.03796125,Fayetteville,North Carolina,D,Democrat
-27,"Greenhill, AL Family murder-suicide",3/25/2016,2,2,3,Yes,White,M,34.759257,-86.60249300000001,,Alabama,F,Republican
-31,Wetumpka Drive-by,3/19/2016,2,2,4,Unknown,Black,M,32.543745,-86.211913,Wetumpka,Alabama,F,Republican
-125,Cottonwood,3/15/2015,3,1,3,No,White,M,31.054968699999996,-85.30100084,Cottonwood,Alabama,F,Republican
-128,Birmingham's Washington Park,2/27/2015,1,2,3,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,F,Republican
-158,Centennial Hill Bar & Grill,12/28/2013,3,5,8,No,Black,M,32.34729571,-86.26730242,Montgomery,Alabama,F,Republican
-181,University Heights Apartments in Auburn,6/9/2012,3,3,6,Unknown,Black,M,32.60598014,-85.48989253,Auburn,Alabama,F,Republican
-188,Ensley Birmingham,1/29/2012,5,0,5,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,F,Republican
-192,Southern Union State Community College,4/6/2011,1,3,4,Yes,White,M,32.66240106,-85.37706931,Opelika,Alabama,F,Republican
-196,University of Alabama in Huntsville,2/12/2010,0,3,6,No,White,F,34.72827538,-86.67230550000001,Huntsville,Alabama,F,Republican
-204,"Geneva County, Alabama",3/10/2009,11,6,16,No,White,M,31.04367594,-85.87634659999999,Geneva,Alabama,F,Republican
-29,"Louisville, KY Family Murder-Suicide",3/20/2016,4,0,3,Yes,White,M,38.252665,-85.75845600000001,Louisville,Kentucky,F,Republican
-208,Atlantis Plastics,6/25/2008,7,1,7,No,White,M,37.84040411,-87.57853755,Henderson,Kentucky,F,Republican
-255,Heath High School,12/1/1997,3,5,8,Yes,White,M,37.08506,-88.74422,West Paducah,Kentucky,F,Republican
-269,"Residence in Union, Kentucky",5/26/1994,4,0,4,No,White,M,38.95130818,-84.67066339,Union,Kentucky,F,Republican
-289,Standard Gravure Corporation,9/14/1989,9,12,20,Yes,White,M,38.249432,-85.72624300000001,Louisville,Kentucky,F,Republican
-32,Atlanta Nightclub shooting,3/15/2016,0,4,4,Unknown,Unknown,Unknown,33.748995,-84.387982,,Georgia,F,Neutral
-34,"Elberton, Georgia murder-suicide",3/12/2016,2,2,3,Unknown,Unknown,M,34.111222999999995,-82.86708399999999,,Georgia,F,Neutral
-43,"Roswell, GA Hookah shootout",3/6/2016,0,4,4,Unknown,Black,M,34.023243,-84.36155600000001,,Georgia,F,Neutral
-85,"Waycross, GA",11/7/2015,1,2,3,Yes,Black,M,31.21094544,-82.35793452,Waycross,Georgia,F,Neutral
-92,Hill Haven Event Center (Formerly Club CJ's),9/27/2015,0,10,10,Unknown,Black,M,33.02912644,-84.7143335,Greenville,Georgia,F,Neutral
-100,Suwanee,7/22/2015,4,1,4,Unknown,White,M,34.05057545,-84.06872262,Suwanee,Georgia,F,Neutral
-109,Conyers,5/31/2015,3,2,4,Unknown,White,M,33.66086267,-84.02688527,Conyers,Georgia,F,Neutral
-118,Rome,4/7/2015,1,3,4,No,Black,M,34.26779152,-85.18822422,Rome,Georgia,F,Neutral
-131,Clarkesville,2/22/2015,3,2,4,No,White,M,34.61025711,-83.52918091,Clarkesville,Georgia,F,Neutral
-136,Douglasville,2/7/2015,5,2,6,No,Black,M,33.71059292,-84.71564276,Douglasville,Georgia,F,Neutral
-139,LaGrange,1/28/2015,5,0,5,No,White,M,33.03607062,-85.0287065,LaGrange,Georgia,F,Neutral
-153,Kennesaw FedEx,4/29/2014,1,6,6,No,White,M,34.02529674,-84.61766831,Kennesaw,Georgia,F,Neutral
-187,Su Jung Health Sauna shooting,2/22/2012,5,0,5,Yes,Asian,M,33.9412127,-84.2135309,Norcross,Georgia,F,Neutral
-245,Offices of All-Tech Investment Group and Momentum Securities,7/29/1999,10,12,21,Yes,White,M,33.7629969,-84.4231328,Atlanta,Georgia,F,Neutral
-246,Heritage High School,5/20/1999,0,6,6,No,White,M,33.66086267,-84.02688527,Conyers,Georgia,F,Neutral
-302,Atlanta Post Office,3/6/1985,2,1,3,Yes,Black,M,33.7629969,-84.4231328,Atlanta,Georgia,F,Neutral
-36,Detroit Drive-by,3/11/2016,2,2,4,Unknown,Unknown,Unknown,42.331427000000005,-83.045754,,Michigan,C,Democrat
-45,Detroit Strip Club Shootout,2/28/2016,0,5,5,Unknown,Black,M,42.331427000000005,-83.045754,,Michigan,C,Democrat
-55,Kalamazoo shooting spree,2/20/2016,6,2,8,Unknown,White,M,,,Kalamazoo County,Michigan,C,Democrat
-58,Kalamazoo Uber Driver Spree Killing,2/20/2016,6,2,8,No,White,M,42.291707,-85.58722900000001,,Michigan,C,Democrat
-60,Michigan school shooting,2/9/2016,0,3,3,Unknown,Black,M,43.201126,-86.238946,,Michigan,C,Democrat
-191,Residences in Grand Rapids,7/7/2011,8,2,9,Yes,Black,M,42.96920434,-85.66008902,Grand Rapids,Michigan,C,Democrat
-215,South Middle School Football Game,10/25/2007,0,4,4,No,Black,M,43.41929117,-83.95032759,Saginaw,Michigan,C,Democrat
-270,Chelsea High School,12/16/1993,1,2,3,Yes,White,M,42.31319376,-84.01868108,Chelsea,Michigan,C,Democrat
-277,Dearborn Post Office,5/6/1993,2,2,3,Unknown,Unknown,M,42.31269522,-83.21293244,Dearborn,Michigan,C,Democrat
-283,Royal Oak Post Office,11/14/1991,5,5,9,Yes,White,M,42.50840203,-83.15387427,Royal Oak,Michigan,C,Democrat
-39,"Kansas City, Kansas",3/7/2016,5,0,5,Unknown,Unknown,M,39.114053000000006,-94.627464,Kansas City,Kansas,F,Republican
-41,Kansas City Home Invasion,3/7/2016,4,0,4,Unknown,Unknown,M,39.114053000000006,-94.627464,,Kansas,F,Republican
-44,Wichita Nightclub shooting,3/5/2016,0,4,4,Unknown,Unknown,Unknown,37.687176,-97.330053,,Kansas,F,Republican
-49,Excel Industries mass shooting,2/25/2016,3,14,17,Unknown,Black,M,,,Hesston,Kansas,F,Republican
-50,"Hesston, Kansas",2/25/2016,4,14,17,Unknown,Black,M,38.1368,-97.4268,Hesston,Kansas,F,Republican
-303,Goddard Junior High School,1/21/1985,1,3,4,Yes,White,M,37.67129418,-97.55070476,Goddard,Kansas,F,Republican
-42,"Chelsea, MA empty apartment party shooting",3/6/2016,1,6,7,Unknown,Unknown,M,42.391764,-71.03282800000001,Chelsea,Massachusetts,A,Democrat
-240,Wakefield massacre,12/26/2000,7,0,7,Yes,White,M,42.506484,-71.0728306,Wakefield,Massachusetts,A,Democrat
-266,Massachusetts Abortion Clinic,12/30/1994,2,5,7,Yes,White,M,42.32427392,-71.14080012,Brookline,Massachusetts,A,Democrat
-279,Simon's Rock College of Bard,12/14/1992,2,4,6,No,Asian,M,42.19358268,-73.36216339,Great Barrington,Massachusetts,A,Democrat
-52,Arizona Family Murder,2/23/2016,5,0,4,Unknown,White,M,33.448377,-112.074037,Glendale,Arizona,F,Republican
-67,"Glendale, AZ House Party shooting",1/30/2016,3,5,8,Unknown,Unknown,M,33.538652,-112.18598700000001,,Arizona,F,Republican
-89,Northern Arizona University at Flagstaff Campus,10/9/2015,1,3,4,Unknown,White,M,35.1725658,-111.65854350000001,Flagstaff,Arizona,F,Republican
-111,Tucson,5/12/2015,5,0,4,Yes,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,F,Republican
-117,Phoenix,4/16/2015,5,0,4,Unknown,Unknown,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican
-124,Mesa,3/18/2015,1,5,6,No,White,M,33.42268696,-111.8163202,Mesa,Arizona,F,Republican
-172,Phoenix Law Firm,1/30/2013,3,1,3,Unknown,White,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican
-194,Tucson shooting,1/8/2011,6,13,19,Yes,White,M,32.2217429,-110.926479,Tucson,Arizona,F,Republican
-207,South Mountain Community College,7/24/2008,0,3,3,No,Black,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican
-236,University of Arizona College of Nursing,10/28/2002,4,0,3,No,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,F,Republican
-287,Wat Promkunaram Buddhist Temple,8/9/1991,9,0,9,No,Asian,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican
-319,Rose-Mar College of Beauty,11/12/1966,5,1,6,Yes,White,M,33.42268696,-111.8163202,Mesa,Arizona,F,Republican
-56,"Iuka, Mississippi",2/20/2016,2,3,4,Unknown,White,M,34.7404,-88.1383,Iuka,Mississippi,F,Republican
-126,Brookhaven,3/13/2015,2,3,5,Unknown,Black,M,31.58036482,-90.44323475,Brookhaven,Mississippi,F,Republican
-234,Lockheed Martin shooting,7/8/2003,7,8,15,Yes,White,M,32.376081,-88.68978002,Meridian,Mississippi,F,Republican
-256,Pearl High School,10/1/1997,2,7,9,Yes,White,M,32.27492783,-90.09470655,Pearl,Mississippi,F,Republican
-62,Nightclub fight turns into shootout,2/7/2016,1,7,8,Unknown,Unknown,Unknown,43.16103,-77.610922,,New York,A,Democrat
-97,Parking lot near Boys and Girls Club,8/19/2015,3,4,7,Unknown,Black,M,43.16968370000001,-77.614337,Rochester,New York,A,Democrat
-115,Gates Pub,4/25/2015,1,6,7,Unknown,Black,M,43.15693027,-77.69300856,Gates,New York,A,Democrat
-138,McAvan's Pub,2/1/2015,0,6,6,No,Black,M,43.04093416,-76.14376763,Syracuse,New York,A,Democrat
-140,Queens,1/24/2015,4,1,4,No,Black,M,40.68996411,-73.8720502,New York City,New York,A,Democrat
-169,Mohawk and Herkimer Villages in New York,3/13/2013,5,2,6,No,White,M,43.0104011,-75.00751190000001,Mohawk,New York,A,Democrat
-200,Binghamton shootings,4/3/2009,14,4,18,Yes,Asian,M,42.0986867,-75.9179738,Binghamton,New York,A,Democrat
-272,Long Island Rail Road Commuter Train,12/7/1993,6,19,25,No,Black,M,40.72662266,-73.644712,Garden City,New York,A,Democrat
-280,Schuyler County Office Building,10/15/1992,5,0,4,No,White,M,42.38013875,-76.86724659,Watkins Glen,New York,A,Democrat
-301,New York Technical College,8/12/1986,1,4,5,Yes,Black,M,40.679276,-73.939513,Brooklyn,New York,A,Democrat
-315,Olean High School,12/30/1974,3,7,10,No,White,M,42.08185369,-78.43213922,Olean,New York,A,Democrat
-74,"Wilmington, DE robbery",1/11/2016,1,4,5,Unknown,Black,M,39.739072,-75.539788,,Delaware,B,Democrat
-77,"Omaha, Nebraska",12/6/2015,2,3,5,Unknown,Black,M,41.3138,-96.0814,Omaha,Nebraska,D,Republican
-141,Omaha,1/24/2015,3,5,8,No,Black,M,41.265921999999996,-96.05381421,Omaha,Nebraska,D,Republican
-214,Westroads Mall shooting,12/5/2007,9,4,13,Yes,White,M,41.258731700000006,-95.93787320000001,Omaha,Nebraska,D,Republican
-80,Planned Parenthood clinic,11/27/2015,3,9,12,Unknown,White,M,,,Colorado Springs,Colorado,C,Democrat
-87,Colorado Springs,10/31/2015,4,0,3,Unknown,White,M,38.86730659,-104.7572279,Colorado Springs,Colorado,C,Democrat
-180,Aurora theater shooting,7/20/2012,12,70,82,Yes,White,M,39.709283,-104.823488,Aurora,Colorado,C,Democrat
-213,Youth With A Mission and New Life Church,12/9/2007,5,5,9,No,White,M,39.81087474,-105.17371499999999,Arvada,Colorado,C,Democrat
-247,Columbine High School,4/20/1999,15,24,37,Yes,White,M,39.59358263,-105.0152112,Littleton,Colorado,C,Democrat
-271,Chuck E. Cheese in Aurora,12/14/1993,4,1,5,Yes,Black,M,39.69892933,-104.7871863,Aurora,Colorado,C,Democrat
-82,"Minneapolis, Minnesota",11/23/2015,0,5,5,Unknown,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,C,Democrat
-94,"Clearbrook (Greenwood), Minnesota",9/10/2015,5,0,4,Yes,White,M,47.69618799,-95.42844094,Clearbrook (Greenwood),Minnesota,C,Democrat
-178,Accent Signage Systems in Minneapolis,9/27/2012,7,2,8,Yes,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,C,Democrat
-228,Red Lake High School,3/21/2005,10,5,14,Yes,Native,M,47.87067289,-95.00529009,Red Lake,Minnesota,C,Democrat
-86,"Oakland, Maine",11/4/2015,4,0,3,Unknown,Unknown,M,44.54994725,-69.70782299,Oakland,Maine,F,Democrat
-90,Umpqua Community College,10/1/2015,10,7,16,Unknown,Mixed,M,43.22205555,-123.3522367,Roseburg,Oregon,C,Democrat
-175,Clackamas Town Center,12/11/2012,3,1,3,No,Unknown,M,45.44853107,-122.54401329999999,Happy Valley,Oregon,C,Democrat
-219,Springwater Trail High School,4/10/2007,0,10,10,No,Unknown,M,45.50216511,-122.44127590000001,Gresham,Oregon,C,Democrat
-249,Thurston High School,5/21/1998,4,25,29,Yes,White,M,44.05489698,-123.0075562,Springfield,Oregon,C,Democrat
-93,"Platte, South Dakota",9/17/2015,6,0,5,Unknown,White,M,43.38682722,-98.84357239,Platte,South Dakota,F,Republican
-104,Charleston Church Shooting,6/17/2015,9,1,10,Unknown,White,M,32.788387,-79.933143,Charleston,South Carolina,F,Republican
-257,R.E. Phelon Company,9/15/1997,4,3,7,No,Black,M,33.47524551,-81.72595949,Aiken,South Carolina,F,Republican
-293,Oakland Elementary School,9/26/1988,2,9,11,Yes,White,M,34.1928952,-82.15355508,Greenwood,South Carolina,F,Republican
-307,Johnston Post Office,8/19/1983,1,3,4,Yes,White,M,33.83272887,-81.8051584,Johnston,South Carolina,F,Republican
-311,University of South Carolina,10/6/1979,2,5,7,Unknown,Black,M,34.05098834,-80.82077527,Columbia,South Carolina,F,Republican
-106,Trestle Trail bridge shooting,6/11/2015,3,1,4,Yes,Latino,M,,,Menasha,Wisconsin,C,Neutral
-113,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,5/3/2015,4,1,4,Yes,Unknown,M,44.20455909,-88.4484585,Menasha,Wisconsin,C,Neutral
-114,Milwaukee,5/1/2015,2,3,5,No,Unknown,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,C,Neutral
-176,Azana Spa in Brookfield,10/21/2012,4,4,7,No,Black,M,43.06396691,-88.12299758,Brookfield,Wisconsin,C,Neutral
-179,Sikh Temple in Wisconsin,8/5/2012,7,4,10,No,White,M,42.88027442,-87.90087079,Oak Creek,Wisconsin,C,Neutral
-217,Crandon shooting,10/7/2007,6,1,7,Unknown,White,M,45.571907200000005,-88.9028922,Crandon,Wisconsin,C,Neutral
-229,Living Church of God,3/12/2005,8,4,11,No,White,M,43.06396691,-88.12299758,Brookfield,Wisconsin,C,Neutral
-232,"Birchwood, Wisconsin",11/21/2004,6,2,8,No,Asian,M,45.65773714,-91.55077175,Birchwood,Wisconsin,C,Neutral
-253,Milwaukee Post Office,12/19/1997,2,2,3,No,Black,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,C,Neutral
-107,Deer Lodge,6/7/2015,5,0,4,Unknown,White,M,46.39761858,-112.73293329999998,Deer Lodge,Montana,F,Republican
-299,Fergus County High School,12/4/1986,1,3,4,Yes,White,M,47.03740653,-109.4844918,Lewistown,Montana,F,Republican
-112,Annual motorcycle event in Newark,5/10/2015,1,3,4,Unknown,Black,M,40.73169648,-74.18417699,Newark,New Jersey,A,Democrat
-264,Montclair Post Office,3/21/1995,4,1,5,No,White,M,40.826184000000005,-74.20862,Montclair,New Jersey,A,Democrat
-286,Ridgewood Post Office,10/10/1991,3,0,3,Yes,Black,M,40.98213277,-74.11264731,Ridgewood,New Jersey,A,Democrat
-119,Indianapolis,4/5/2015,0,5,5,No,Unknown,M,39.77725479,-86.14635359,Indianapolis,Indiana,D,Republican
-121,Tulsa,3/30/2015,4,0,3,Unknown,Asian,M,36.13543238,-95.91316117,Tulsa,Oklahoma,F,Republican
-162,Oklahoma City Residence,8/14/2013,4,0,4,Yes,White,M,35.46779189,-97.5191631,Oklahoma City,Oklahoma,F,Republican
-184,"North Tulsa, Oklahoma",4/6/2012,3,2,5,No,White,M,36.13543238,-95.91316117,Tulsa,Oklahoma,F,Republican
-242,Fort Gibson Middle School,12/6/1999,0,4,4,No,White,M,35.77669911,-95.25996596,Fort Gibson,Oklahoma,F,Republican
-300,"Post office in Edmond, Oklahoma",8/20/1986,15,6,20,Yes,White,M,35.66889223,-97.41438792,Edmond,Oklahoma,F,Republican
-142,Moscow,1/10/2015,3,1,4,No,Asian,M,46.73059479,-116.99900420000002,Moscow,Idaho,F,Republican
-145,Morgantown,12/1/2014,5,0,4,No,White,M,39.63400851,-79.94839325,Morgantown,West Virginia,F,Republican
-174,Sandy Hook Elementary School,12/14/2012,28,2,29,Yes,White,M,41.41190846,-73.31196267,Newtown,Connecticut,A,Democrat
-195,Hartford Beer Distributor shooting,8/3/2010,9,2,11,No,Black,M,41.775932399999995,-72.5214755,Manchester,Connecticut,A,Democrat
-252,Connecticut State Lottery Headquarters,3/6/1998,5,0,4,Yes,White,M,41.68700845,-72.73083927,Newington,Connecticut,A,Democrat
-206,University of Central Arkansas,10/26/2008,0,1,3,No,Black,M,35.08130744,-92.43278275,Conway,Arkansas,F,Republican
-251,Westside Middle School killings,3/24/1998,5,10,15,No,White,M,35.8209895,-90.6682606,Jonesboro,Arkansas,F,Republican
-220,Trolley Square,2/12/2007,6,4,9,Unknown,White,M,40.77787404,-111.9312168,Salt Lake City,Utah,F,Republican
-275,Weber State University,7/8/1993,1,3,3,No,Asian,M,41.2281367,-111.96753170000001,Ogden,Utah,F,Republican
-225,Essex Elementary School,8/24/2006,2,2,4,Yes,Black,M,44.49022039,-73.11400628,Essex Junction,Vermont,F,Democrat
-243,Xerox killings,11/2/1999,7,0,7,Yes,Asian,M,21.3255125,-157.8473055,Honolulu,Hawaii,A,Democrat
-258,Bethel Regional High School,2/19/1997,2,2,4,Yes,White,M,60.79053882,-161.7927517,Bethel,Alaska,F,Republican
-273,Central Middle School,9/17/1993,1,4,4,No,White,M,44.79051074,-106.9599165,Sheridan,Wyoming,F,Republican
-284,University of Iowa,11/1/1991,6,1,6,No,Asian,M,41.65589405,-91.53117986,Iowa City,Iowa,C,Republican
+S#,Title,Date,Fatalities,Injured,Total victims,Mental Health Issues,Race,Gender,Latitude,Longitude,Cities,State,Gun law,Party affiliation,Population
+1,Las Vegas Strip mass shooting,10/1/2017,58,527,585,Unknown,White,M,36.181271,-115.13413200000001,Las Vegas,Nevada,C,Democrat,2.940.058
+150,Nellis Plaza,6/8/2014,5,0,3,No,White,Unknown,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat,2.940.058
+160,Sparks Middle School,10/21/2013,2,2,3,Unknown,Unknown,M,39.54058388,-119.748291,Sparks,Nevada,C,Democrat,2.940.058
+190,IHOP shooting,9/6/2011,5,7,12,Yes,Latino,M,39.1637984,-119.76740339999999,Carson City,Nevada,C,Democrat,2.940.058
+212,Mojave High School Bus,12/11/2007,0,6,6,No,Black,M,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat,2.940.058
+310,Valley High School,3/19/1982,1,2,3,Yes,White,M,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat,2.940.058
+2,San Francisco UPS shooting,6/14/2017,3,2,5,Yes,Asian,M,,,San Francisco,California,A,Democrat,39.250.017
+6,Fresno downtown shooting,4/18/2017,3,0,3,Unknown,Black,M,,,Fresno,California,A,Democrat,39.250.017
+19,Long Beach Street murder,4/18/2016,0,3,4,Unknown,Unknown,Unknown,33.77005,-118.193739,,California,A,Democrat,39.250.017
+46,Riverside restaurant shooting,2/28/2016,1,3,4,Unknown,Unknown,M,33.997197,-117.48548000000001,,California,A,Democrat,39.250.017
+70,"Perris, CA Mexican restaurant shooting",1/25/2016,1,4,5,Unknown,Unknown,M,33.782519,-117.22864799999999,,California,A,Democrat,39.250.017
+72,Los Angeles Drive-by,1/23/2016,2,2,4,Unknown,Unknown,Unknown,34.052234000000006,-118.24368500000001,,California,A,Democrat,39.250.017
+78,San Bernardino mass shooting,12/2/2015,14,21,35,Unknown,Unknown,Unknown,,,San Bernardino,California,A,Democrat,39.250.017
+79,"San Bernardino, California",12/2/2015,16,21,35,Unknown,Asian,Unknown,34.13973446,-117.29424440000001,San Bernardino,California,A,Democrat,39.250.017
+152,Isla Vista mass murder,5/23/2014,6,13,19,Yes,White,M,,,Santa Barbara,California,A,Democrat,39.250.017
+156,San Francisco Tenderloin,3/23/2014,0,8,8,No,Black,M,37.75457839,-122.44243429999999,San Francisco,California,A,Democrat,39.250.017
+157,Cedarville Rancheria Tribe,2/20/2014,4,2,6,No,Native,F,41.4911123,-120.54909099999999,Alturas,California,A,Democrat,39.250.017
+159,Los Angeles International Airport (LAX),11/1/2013,1,3,4,No,White,M,34.17622092,-118.53995420000001,Los Angeles,California,A,Democrat,39.250.017
+166,Santa Monica College,6/7/2013,6,3,8,Yes,White,M,34.02319149,-118.48156440000001,Santa Monica,California,A,Democrat,39.250.017
+170,"Ladera Ranch, Santa Ana, Tustin and Orange",2/19/2013,4,3,6,Yes,White,M,33.54961059,-117.64157069999999,Ladera Ranch,California,A,Democrat,39.250.017
+171,Los Angeles Police Department,2/3/2013,4,2,7,Yes,Black,M,33.67803464,-117.773628,Irvine,California,A,Democrat,39.250.017
+185,Oikos University killings,4/2/2012,7,3,10,Yes,Asian,M,37.8043808,-122.2708166,Oakland,California,A,Democrat,39.250.017
+189,Salon Meritage,10/12/2011,8,1,9,Yes,White,M,33.75432632,-118.0715378,Seal Beach,California,A,Democrat,39.250.017
+202,"Rivermark, Santa Clara, California",3/29/2009,6,1,6,No,Asian,M,37.36463172,-121.96793149999999,Santa Clara,California,A,Democrat,39.250.017
+205,"Covina, California",12/24/2008,10,2,11,No,White,M,34.09026669,-117.88199579999998,Covina,California,A,Democrat,39.250.017
+227,Goleta Post Office,1/30/2006,8,0,7,Yes,White,F,34.43606107,-119.8593619,Goleta,California,A,Democrat,39.250.017
+238,Santana High School,3/5/2001,2,13,15,No,White,M,32.86357277,-117.1281628,"Santee, San Diego",California,A,Democrat,39.250.017
+248,Riverside City Hall,10/6/1998,0,6,6,No,Black,M,33.93814348,-117.3948409,Riverside,California,A,Democrat,39.250.017
+254,Caltrans Maintenance Yard,12/18/1997,5,2,6,No,Unknown,M,33.78935598,-117.820412,Orange,California,A,Democrat,39.250.017
+259,San Diego State University,8/15/1996,3,0,3,No,White,M,32.86357277,-117.1281628,San Diego,California,A,Democrat,39.250.017
+276,Offices of Pettit & Martin in San Francisco,7/1/1993,9,6,14,No,White,M,37.75457839,-122.44243429999999,San Francisco,California,A,Democrat,39.250.017
+278,Dana Point Post Office,5/6/1993,1,5,6,Yes,White,M,33.47316083,-117.696399,Dana Point,California,A,Democrat,39.250.017
+282,Lindhurst High School,5/1/1992,4,10,14,Yes,White,M,39.08174985,-121.55495390000002,Olivehurst,California,A,Democrat,39.250.017
+290,Orange Glenn Post Office,8/10/1989,4,1,4,No,White,M,33.13439925,-117.07225279999999,Escondido,California,A,Democrat,39.250.017
+291,Cleveland Elementary School,1/17/1989,6,30,35,Yes,White,M,37.96631812,-121.30187749999999,Stockton,California,A,Democrat,39.250.017
+296,Electromagnetic Systems Laboratory (ESL),2/16/1988,7,4,11,Yes,White,M,37.38344257,-122.02561850000001,Sunnyvale,California,A,Democrat,39.250.017
+304,McDonald's restaurant in San Ysidro,7/18/1984,22,19,40,Yes,White,M,32.555556,-117.047656,San Ysidro,California,A,Democrat,39.250.017
+306,49th Street Elementary School,2/24/1984,3,12,14,Yes,Black,M,34.17622092,-118.53995420000001,Los Angeles,California,A,Democrat,39.250.017
+312,Grover Cleveland Elementary School,1/29/1979,2,9,11,Yes,White,F,32.86357277,-117.1281628,San Diego,California,A,Democrat,39.250.017
+313,Cal State Fullerton,7/12/1976,7,2,9,Yes,White,M,33.88404244,-117.92785,Fullerton,California,A,Democrat,39.250.017
+314,Los Angeles Computer Learning Center,2/19/1976,1,7,8,Unknown,White,M,34.17622092,-118.53995420000001,Los Angeles,California,A,Democrat,39.250.017
+3,Pennsylvania supermarket shooting,6/7/2017,3,0,3,Unknown,White,M,,,Tunkhannock,Pennsylvania,C,Democrat,12.784.227
+37,"Pittsburgh, Pennsylvania",3/9/2016,6,3,9,Unknown,Unknown,M,40.440625,-79.995886,Pittsburgh,Pennsylvania,C,Democrat,12.784.227
+38,Wilkinsburg BBQ cookout shootout,3/9/2016,5,3,8,Unknown,Unknown,M,40.441736,-79.88199399999999,,Pennsylvania,C,Democrat,12.784.227
+135,Monroeville Macy's,2/7/2015,0,3,3,No,Black,M,40.425745500000005,-79.76092565,Monroeville,Pennsylvania,C,Democrat,12.784.227
+144,"Pennsburg, Souderton, Lansdale, Harleysville",12/15/2014,7,1,7,Yes,White,M,40.39359306,-75.49640881,"Pennsburg, Souderton, Lansdale, Harleysville",Pennsylvania,C,Democrat,12.784.227
+164,Ross Township Supervisor Council Meeting,8/5/2013,3,3,6,No,White,M,39.75344279,-79.08435956,Salisbury ,Pennsylvania,C,Democrat,12.784.227
+221,Amish school shooting,10/2/2006,6,5,11,No,White,M,39.9589,-76.0806,Lancaster County,Pennsylvania,C,Democrat,12.784.227
+222,West Nickel Mines Amish School,10/2/2006,6,5,10,Unknown,White,M,40.04214385,-76.30100872,"Nickel Mines, Lancaster",Pennsylvania,C,Democrat,12.784.227
+223,Duquesne University,9/17/2006,0,5,5,Unknown,Black,M,40.43948548,-79.97631581,Pittsburgh,Pennsylvania,C,Democrat,12.784.227
+250,Parker Middle School Dance,4/24/1998,1,3,4,Yes,White,M,41.87617136,-80.12459632,Edinboro,Pennsylvania,C,Democrat,12.784.227
+4,Florida awning manufacturer shooting,6/5/2017,5,0,5,Unknown,Unknown,M,,,Orlando,Florida,F,Democrat,20.612.439
+7,Fort Lauderdale airport shooting,1/6/2017,5,6,11,Yes,Latino,M,,,Fort Lauderdale,Florida,F,Democrat,20.612.439
+11,Orlando nightclub massacre,6/12/2016,49,53,102,Unknown,Unknown,M,,,Orlando,Florida,F,Democrat,20.612.439
+30,"Plantation, Florida",3/19/2016,1,4,5,Unknown,Unknown,Unknown,26.127585999999997,-80.233104,Plantation,Florida,F,Democrat,20.612.439
+33,Florida Family celebration ends in shooting,3/13/2016,0,4,4,Unknown,Unknown,Unknown,26.640628000000003,-81.87230799999999,,Florida,F,Democrat,20.612.439
+57,Florida Hookah Bar Shooting,2/20/2016,1,3,4,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,F,Democrat,20.612.439
+61,"Orlando, Florida",2/7/2016,2,10,12,Unknown,Unknown,M,28.4541,-81.4646,Orlando,Florida,F,Democrat,20.612.439
+63,"Tampa, FL Strip club shooting",2/6/2016,2,6,8,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,F,Democrat,20.612.439
+71,Florida family murder,1/23/2016,3,0,3,Unknown,White,M,30.754181,-86.572799,,Florida,F,Democrat,20.612.439
+76,"Residence in Lakeland, Florida",1/6/2016,3,1,4,Unknown,Black,M,28.039465000000003,-81.949804,,Florida,F,Democrat,20.612.439
+84,"Jacksonville, Florida",11/13/2015,4,1,4,Unknown,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,F,Democrat,20.612.439
+91,"Inglis, Florida",10/1/2015,3,1,3,Unknown,White,M,29.03270634,-82.65919302,Inglis,Florida,F,Democrat,20.612.439
+105,Miami Gardens,6/16/2015,0,4,4,Unknown,Black,M,25.94326707,-80.24253243,Miami Gardens,Florida,F,Democrat,20.612.439
+120,Daytona Beach,4/3/2015,0,4,4,No,Black,M,29.19313443,-81.10173014,Daytona Beach,Florida,F,Democrat,20.612.439
+122,Panama City Beach,3/28/2015,0,7,7,No,Black,M,30.22540212,-85.87371301,Panama City Beach,Florida,F,Democrat,20.612.439
+134,Moon Lake,2/9/2015,3,1,4,No,White,Unknown,28.24653304,-82.71690259,New Port Richey,Florida,F,Democrat,20.612.439
+146,Florida State University,11/19/2014,1,3,3,Yes,Black,M,30.454939399999997,-84.25264151,Tallahassee,Florida,F,Democrat,20.612.439
+165,Hialeah apartment shooting,7/26/2013,7,0,7,Unknown,Latino,M,25.867010500000003,-80.29146268,Hialeah,Florida,F,Democrat,20.612.439
+177,The Spot Nightclub,9/28/2012,0,15,15,Unknown,Black,M,25.79653943,-80.20840397,Miami,Florida,F,Democrat,20.612.439
+241,Radisson Bay Harbor Inn,12/30/1999,5,3,8,No,Unknown,M,27.99601861,-82.44503769,Tampa,Florida,F,Democrat,20.612.439
+260,Fort Lauderdale revenge shooting,2/9/1996,6,1,7,Yes,Black,M,26.122308399999998,-80.14337859999999,Fort Lauderdale,Florida,F,Democrat,20.612.439
+288,GMAC Loan Office,6/17/1990,12,6,17,No,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,F,Democrat,20.612.439
+297,Pinellas Park High School,2/11/1988,1,2,3,No,White,M,27.84887061,-82.71058000000001,Pinellas Park,Florida,F,Democrat,20.612.439
+298,Palm Bay Shopping Centers,4/23/1987,6,14,20,Yes,White,M,27.98388983,-80.66662713,Palm Bay,Florida,F,Democrat,20.612.439
+309,Welding shop in Miami,8/20/1982,9,3,11,Yes,White,M,25.79653943,-80.20840397,Miami,Florida,F,Democrat,20.612.439
+5,Rural Ohio nursing home shooting,5/12/2017,3,0,3,Yes,White,M,,,Kirkersville,Ohio,D,Republican,11.614.373
+81,"Columbus, Ohio",11/23/2015,4,1,4,Unknown,White,M,39.98861445,-82.98904135,Columbus,Ohio,D,Republican,11.614.373
+88,"Colerain Township, Ohio",10/21/2015,2,1,3,Unknown,White,M,39.253268,-84.599655,Colerain Township,Ohio,D,Republican,11.614.373
+108,Cleveland,5/31/2015,3,1,3,Unknown,Unknown,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican,11.614.373
+186,Chardon High School,2/27/2012,3,3,6,Yes,White,M,41.58025541,-81.20812625,Chardon,Ohio,D,Republican,11.614.373
+193,Youngstown State University,2/6/2011,1,11,12,Unknown,Black,M,41.09933958,-80.64631705,Youngstown,Ohio,D,Republican,11.614.373
+216,SuccessTech Academy,10/11/2007,1,4,4,Yes,White,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican,11.614.373
+231,Damageplan show at the Alrosa Villa Nightclub,12/8/2004,5,7,11,Yes,White,M,39.98861445,-82.98904135,Columbus,Ohio,D,Republican,11.614.373
+235,Case Western Reserve University,5/9/2003,1,2,3,No,Asian,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican,11.614.373
+267,Wickliffe Middle School,11/7/1994,1,3,4,Yes,White,M,41.60713735,-81.46902046,Wickliffe,Ohio,D,Republican,11.614.373
+8,Cascade Mall shooting,9/23/2016,5,0,5,Yes,Unknown,M,,,Burlington,Washington,B,Democrat,7.288.000
+48,"Belfair, Washington",2/26/2016,5,0,4,Unknown,White,M,47.5033,-122.931,Belfair,Washington,B,Democrat,7.288.000
+51,"Belfair, WA Family murder-suicide",2/25/2016,5,0,4,Unknown,White,M,47.451459,-122.82694599999999,,Washington,B,Democrat,7.288.000
+147,Marysville-Pilchuck High School,10/24/2014,5,1,5,No,Native,M,48.04802409,-122.1359622,Marysville,Washington,B,Democrat,7.288.000
+151,Seattle Pacific University,6/5/2014,1,2,3,Yes,Unknown,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat,7.288.000
+161,Washington Navy Yard,9/16/2013,13,3,15,Yes,Black,M,38.90480894,-77.01629717,Washington,Washington,B,Democrat,7.288.000
+168,Pinewood Village Apartments,4/21/2013,5,0,4,Unknown,Black,M,47.30909721,-122.3357553,Federal Way,Washington,B,Democrat,7.288.000
+182,Cafe in Seattle,5/30/2012,6,1,6,Yes,White,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat,7.288.000
+183,Seattle cafe shooting,5/20/2012,6,1,7,Yes,White,M,47.6038321,-122.3300624,Seattle,Washington,B,Democrat,7.288.000
+197,Coffee shop police killings,11/29/2009,4,1,5,Yes,Black,M,47.155846000000004,-122.437031,Parkland,Washington,B,Democrat,7.288.000
+198,Parkland Coffee Shop,11/29/2009,5,0,4,Yes,Black,M,47.16267579,-122.5296574,Lakewood,Washington,B,Democrat,7.288.000
+211,"Carnation, Washington",12/24/2007,6,0,6,No,White,Unknown,47.64628742,-121.9088524,Carnation,Washington,B,Democrat,7.288.000
+226,Capitol Hill massacre,3/25/2006,7,2,9,No,White,M,47.6229,-122.3165,Seattle,Washington,B,Democrat,7.288.000
+261,Frontier Junior High School,2/2/1996,3,1,4,Yes,White,M,47.12189424,-119.2750699,Moses Lake,Washington,B,Democrat,7.288.000
+268,Fairchild Air Force Base Hospital,6/20/1994,5,23,27,Yes,White,M,47.618456,-117.644099,Fairchild Air Force Base,Washington,B,Democrat,7.288.000
+308,Wah Mee Club in Seattle,2/18/1983,13,1,14,Unknown,Asian,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat,7.288.000
+318,St. Aloysius Church,11/11/1971,2,4,5,Yes,White,M,47.67367375,-117.41598429999999,Spokane,Washington,B,Democrat,7.288.000
+9,Baton Rouge police shooting,7/17/2016,3,3,6,Yes,Black,M,,,Baton Rouge,Louisiana,F,Democrat,4.681.666
+40,"Lafayette, LA drive by",3/7/2016,0,4,4,Unknown,Unknown,Unknown,30.224090000000004,-92.01984300000001,,Louisiana,F,Democrat,4.681.666
+66,New Orleans gas station shoot-out,1/31/2016,0,3,3,Unknown,Black,M,29.951065999999997,-90.07153199999999,,Louisiana,F,Democrat,4.681.666
+99,"Grand 16 Theatre, Louisiana",7/23/2015,3,9,11,Yes,White,M,30.21233538,-92.0316453,Lafayette,Louisiana,F,Democrat,4.681.666
+149,Bourbon Street New Orleans,6/29/2014,1,9,10,No,Mixed,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat,4.681.666
+292,New Orleans Downtown Post Office,12/14/1988,0,4,4,Unknown,Unknown,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat,4.681.666
+317,New Orleans Police Shootings,12/31/1972,10,13,22,Yes,Black,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat,4.681.666
+10,Dallas police shooting,7/7/2016,5,11,16,Unknown,Black,M,,,Dallas,Texas,F,Democrat,27.862.596
+17,Texas family murder-suicide,4/19/2016,4,0,4,Unknown,White,M,29.785784999999997,-95.824396,,Texas,F,Democrat,27.862.596
+28,"Sherman, Texas Family Murder-Suicide",3/21/2016,4,0,3,Unknown,Unknown,M,33.635661999999996,-96.60888,Sherman,Texas,F,Democrat,27.862.596
+54,Houston Drive-by,2/21/2016,0,5,5,Unknown,Unknown,Unknown,29.760427000000004,-95.369803,,Texas,F,Democrat,27.862.596
+65,Texas teen commits family murder suicide,2/6/2016,4,0,3,Unknown,White,M,29.209684000000003,-99.786168,,Texas,F,Democrat,27.862.596
+83,"Tennessee Colony, Texas",11/15/2015,6,0,6,Unknown,White,M,31.8076,-95.8069,Tennessee Colony,Texas,F,Democrat,27.862.596
+98,"Houston, Texas",8/8/2015,8,0,8,Unknown,Black,M,29.79705548,-95.36763856,Houston,Texas,F,Democrat,27.862.596
+116,Killeen,4/21/2015,2,3,5,Unknown,Black,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,27.862.596
+132,Killeen,2/22/2015,4,1,4,No,Black,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,27.862.596
+154,Fort Hood shooting 2,4/3/2014,3,12,15,Unknown,Latino,M,,,Fort Hood,Texas,F,Democrat,27.862.596
+155,Fort Hood,4/2/2014,4,16,19,Yes,Unknown,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,27.862.596
+163,Homes in Desoto and Dallas,8/7/2013,4,4,8,Unknown,Black,M,32.79480596,-96.76631094,Dallas,Texas,F,Democrat,27.862.596
+199,Fort Hood Army Base,11/5/2009,13,32,45,Yes,White,M,31.13814354,-97.77797804,Fort Hood,Texas,F,Democrat,27.862.596
+230,Tyler Courthouse,2/24/2005,3,4,6,Unknown,Unknown,M,32.3154272,-95.30501087,Tyler,Texas,F,Democrat,27.862.596
+244,Wedgwood Baptist Church,9/15/1999,8,7,14,Yes,White,M,32.74802142,-97.31305148,Fort Worth,Texas,F,Democrat,27.862.596
+263,Walter Rossler Company,4/3/1995,6,0,5,No,Unknown,M,27.73907518,-97.43073352,Corpus Christi,Texas,F,Democrat,27.862.596
+281,Palo Duro High School,9/11/1992,0,6,6,Unknown,Unknown,M,35.18322484,-101.88056879999999,Amarillo,Texas,F,Democrat,27.862.596
+285,"Luby's Cafeteria in Killeen, Texas",10/16/1991,24,20,43,Yes,White,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,27.862.596
+305,Ianni's Club in Dallas,6/29/1984,6,1,7,Yes,White,M,32.79480596,-96.76631094,Dallas,Texas,F,Democrat,27.862.596
+320,University of Texas at Austin,8/1/1966,17,32,48,Yes,White,M,30.198887300000003,-97.84415949,Austin,Texas,F,Democrat,27.862.596
+12,"Ferguson, MO Drive by",4/29/2016,0,4,4,Unknown,Unknown,Unknown,38.744217,-90.305391,Ferguson,Missouri,F,Democrat,6.093.000
+53,Missouri Highway shooting,2/21/2016,1,3,4,Unknown,Black,M,38.771440000000005,-90.370949,,Missouri,F,Democrat,6.093.000
+129,Tyrone,2/26/2015,8,1,8,No,White,M,37.204442,-91.876583,Tyrone,Missouri,F,Democrat,6.093.000
+210,Kirkwood City Hall,2/7/2008,6,2,7,No,Black,M,38.57889169,-90.42023754,Kirkwood,Missouri,F,Democrat,6.093.000
+13,"Forestville, Maryland Drive-by",4/26/2016,1,4,5,Unknown,Unknown,Unknown,38.845113,-76.874972,,Maryland,A,Democrat,6.016.447
+15,Tire-Slashing revenge escalation,4/21/2016,0,4,4,Unknown,Black,M,39.290385,-76.612189,,Maryland,A,Democrat,6.016.447
+14,"Halifax County, VA",4/24/2016,0,6,6,Unknown,Black,M,36.765971,-78.928344,,Virginia,D,Republican,8.411.808
+24,"Richmond, Virginia",3/31/2016,2,2,3,Unknown,Black,M,37.540725,-77.436048,Richmond,Virginia,D,Republican,8.411.808
+47,"Woodbridge, Virginia",2/27/2016,2,2,4,Unknown,Black,M,38.6697,-77.3524,Woodbridge,Virginia,D,Republican,8.411.808
+68,"Caroline County, VA Family Murder Suicide",1/29/2016,2,2,3,Unknown,Unknown,M,38.044556,-77.286488,,Virginia,D,Republican,8.411.808
+69,"Chesapeake, Virginia",1/27/2016,6,0,5,Yes,White,M,36.7921,-76.3293,Chesapeake,Virginia,D,Republican,8.411.808
+73,"Gloucester County, VA, House Party",1/17/2016,1,3,4,Unknown,Black,M,37.402640000000005,-76.458559,,Virginia,D,Republican,8.411.808
+96,Virginia WDBJ live TV interview shooting,8/26/2015,3,1,3,Unknown,Black,M,37.27823366,-79.95816104,Roanoke,Virginia,D,Republican,8.411.808
+218,Virginia Tech massacre,4/16/2007,32,23,55,Yes,Asian,M,37.2295733,-80.4139393,Blacksburg,Virginia,D,Republican,8.411.808
+237,Appalachian School of Law,1/16/2002,3,3,6,No,Black,M,37.27537712,-82.09877234,Grundy,Virginia,D,Republican,8.411.808
+16,Chicago Rap video Shootout,4/19/2016,1,4,5,Unknown,Unknown,Unknown,41.878114000000004,-87.629798,,Illinois,B,Democrat,12.801.539
+22,Chicago Birthday Party Bus Shooting,4/7/2016,0,5,5,Unknown,Unknown,Unknown,41.878114000000004,-87.629798,,Illinois,B,Democrat,12.801.539
+102,River Forest,7/12/2015,2,3,4,Unknown,Unknown,M,41.89499946,-87.81941392,River Forest,Illinois,B,Democrat,12.801.539
+110,Club Maxey's,5/25/2015,1,4,5,Unknown,Black,M,39.85566372,-88.93346458,Decatur,Illinois,B,Democrat,12.801.539
+167,Village of Manchester in Illinois,4/24/2013,7,1,7,Unknown,White,M,39.54231335,-90.33029852,Manchester,Illinois,B,Democrat,12.801.539
+209,Northern Illinois University shooting,2/14/2008,5,21,26,Yes,White,M,41.9294736,-88.7503647,DeKalb,Illinois,B,Democrat,12.801.539
+233,Windy City Core Supply Warehouse,8/27/2003,7,0,6,No,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat,12.801.539
+239,Navistar International,2/5/2001,6,4,9,No,Black,M,41.90289602,-87.86430209999999,Melrose Park,Illinois,B,Democrat,12.801.539
+294,Comet Auto Parts and Montefiore School,9/22/1988,5,2,6,No,Black,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat,12.801.539
+295,Hubbard Woods Elementary School,5/20/1988,2,7,8,Yes,White,F,42.10648807,-87.74211141,Winnetka,Illinois,B,Democrat,12.801.539
+316,Clara Barton Elementary School,1/17/1974,1,3,4,Yes,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat,12.801.539
+18,Alabama highway random shooting,4/19/2016,1,4,4,Yes,White,M,34.162040000000005,-86.475543,,Alabama,F,Republican,4.863.300
+27,"Greenhill, AL Family murder-suicide",3/25/2016,2,2,3,Yes,White,M,34.759257,-86.60249300000001,,Alabama,F,Republican,4.863.300
+31,Wetumpka Drive-by,3/19/2016,2,2,4,Unknown,Black,M,32.543745,-86.211913,Wetumpka,Alabama,F,Republican,4.863.300
+125,Cottonwood,3/15/2015,3,1,3,No,White,M,31.054968699999996,-85.30100084,Cottonwood,Alabama,F,Republican,4.863.300
+128,Birmingham's Washington Park,2/27/2015,1,2,3,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,F,Republican,4.863.300
+158,Centennial Hill Bar & Grill,12/28/2013,3,5,8,No,Black,M,32.34729571,-86.26730242,Montgomery,Alabama,F,Republican,4.863.300
+181,University Heights Apartments in Auburn,6/9/2012,3,3,6,Unknown,Black,M,32.60598014,-85.48989253,Auburn,Alabama,F,Republican,4.863.300
+188,Ensley Birmingham,1/29/2012,5,0,5,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,F,Republican,4.863.300
+192,Southern Union State Community College,4/6/2011,1,3,4,Yes,White,M,32.66240106,-85.37706931,Opelika,Alabama,F,Republican,4.863.300
+196,University of Alabama in Huntsville,2/12/2010,0,3,6,No,White,F,34.72827538,-86.67230550000001,Huntsville,Alabama,F,Republican,4.863.300
+204,"Geneva County, Alabama",3/10/2009,11,6,16,No,White,M,31.04367594,-85.87634659999999,Geneva,Alabama,F,Republican,4.863.300
+20,"Albuquerque, NM House party shooting",4/9/2016,0,4,4,Unknown,White,M,35.085334,-106.605553,,New Mexico,F,Democrat,2.081.015
+23,"Albuquerque, NM Family restaurant shooting",4/1/2016,3,1,3,Unknown,Asian,M,35.085334,-106.605553,,New Mexico,F,Democrat,2.081.015
+123,Little Water,3/19/2015,2,2,3,Unknown,Unknown,M,36.443290000000005,-108.723281,Little Water,New Mexico,F,Democrat,2.081.015
+148,Albuquerque Auto Shop,8/8/2014,2,3,4,No,Unknown,M,35.15290522,-106.7791378,Albuquerque,New Mexico,F,Democrat,2.081.015
+173,South Valley Residence,1/19/2013,5,0,5,Yes,Unknown,M,35.15290522,-106.7791378,"South Valley, Albuquerque",New Mexico,F,Democrat,2.081.015
+21,"Memphis, TN gas station shooting",4/9/2016,0,4,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,F,Republican,6.651.194
+26,"Lawrenceburg, Tennessee",3/25/2016,2,2,3,Unknown,Unknown,M,35.242302,-87.334739,Lawrenceburg,Tennessee,F,Republican,6.651.194
+75,"Roadside in Memphis, Tennessee",1/7/2016,1,3,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,F,Republican,6.651.194
+95,"Bristol, Tennessee",8/29/2015,3,1,4,Unknown,White,M,36.55605824,-82.21429551,Bristol,Tennessee,F,Republican,6.651.194
+101,"Amnicola Training Center, Chattanooga",7/16/2015,5,3,7,Yes,White,M,35.09318123,-85.23676751,Chattanooga,Tennessee,F,Republican,6.651.194
+143,Memphis,1/1/2015,0,5,5,No,Black,M,35.10528976,-89.97734924,Memphis,Tennessee,F,Republican,6.651.194
+262,Richland High School,11/15/1995,2,1,3,Yes,White,M,35.37810374,-87.00610559,Lynnville,Tennessee,F,Republican,6.651.194
+25,"Louisburg, North Carolina",3/26/2016,3,0,3,Unknown,Black,M,36.099039000000005,-78.301106,Louisburg,North Carolina,D,Democrat,10.146.788
+103,Boom Boom Room,6/20/2015,0,4,4,Unknown,Black,M,34.86379864,-79.9996781,Morven,North Carolina,D,Democrat,10.146.788
+127,Tarboro,2/28/2015,4,0,3,Yes,Black,M,35.90434471,-77.55639964,Tarboro,North Carolina,D,Democrat,10.146.788
+130,Charlotte,2/24/2015,3,0,3,No,Unknown,M,35.226354,-80.836788,Charlotte,North Carolina,D,Democrat,10.146.788
+133,Chapel Hill,2/10/2015,3,0,3,No,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,D,Democrat,10.146.788
+137,"King, North Carolina",2/4/2015,4,0,3,Unknown,White,M,36.27617912,-80.35501402,King,North Carolina,D,Democrat,10.146.788
+201,Carthage nursing home shooting,3/29/2009,8,3,11,Yes,White,M,35.345802,-79.41705429999999,Carthage,North Carolina,D,Democrat,10.146.788
+203,Pinelake Health and Rehab nursing home,3/29/2009,8,2,10,Yes,White,M,35.33985609,-79.41381725,Carthage,North Carolina,D,Democrat,10.146.788
+224,Orange High School,8/30/2006,1,2,3,Yes,Unknown,M,36.04099857,-79.09701201,Hillsborough,North Carolina,D,Democrat,10.146.788
+265,Downtown Chapel Hill,1/26/1995,2,2,4,Yes,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,D,Democrat,10.146.788
+274,Luigi's Restaurant in Fayetteville,8/6/1993,4,8,12,No,White,M,35.07997086,-79.03796125,Fayetteville,North Carolina,D,Democrat,10.146.788
+29,"Louisville, KY Family Murder-Suicide",3/20/2016,4,0,3,Yes,White,M,38.252665,-85.75845600000001,Louisville,Kentucky,F,Republican,4.436.974
+208,Atlantis Plastics,6/25/2008,7,1,7,No,White,M,37.84040411,-87.57853755,Henderson,Kentucky,F,Republican,4.436.974
+255,Heath High School,12/1/1997,3,5,8,Yes,White,M,37.08506,-88.74422,West Paducah,Kentucky,F,Republican,4.436.974
+269,"Residence in Union, Kentucky",5/26/1994,4,0,4,No,White,M,38.95130818,-84.67066339,Union,Kentucky,F,Republican,4.436.974
+289,Standard Gravure Corporation,9/14/1989,9,12,20,Yes,White,M,38.249432,-85.72624300000001,Louisville,Kentucky,F,Republican,4.436.974
+32,Atlanta Nightclub shooting,3/15/2016,0,4,4,Unknown,Unknown,Unknown,33.748995,-84.387982,,Georgia,F,Neutral,10.310.371
+34,"Elberton, Georgia murder-suicide",3/12/2016,2,2,3,Unknown,Unknown,M,34.111222999999995,-82.86708399999999,,Georgia,F,Neutral,10.310.371
+43,"Roswell, GA Hookah shootout",3/6/2016,0,4,4,Unknown,Black,M,34.023243,-84.36155600000001,,Georgia,F,Neutral,10.310.371
+85,"Waycross, GA",11/7/2015,1,2,3,Yes,Black,M,31.21094544,-82.35793452,Waycross,Georgia,F,Neutral,10.310.371
+92,Hill Haven Event Center (Formerly Club CJ's),9/27/2015,0,10,10,Unknown,Black,M,33.02912644,-84.7143335,Greenville,Georgia,F,Neutral,10.310.371
+100,Suwanee,7/22/2015,4,1,4,Unknown,White,M,34.05057545,-84.06872262,Suwanee,Georgia,F,Neutral,10.310.371
+109,Conyers,5/31/2015,3,2,4,Unknown,White,M,33.66086267,-84.02688527,Conyers,Georgia,F,Neutral,10.310.371
+118,Rome,4/7/2015,1,3,4,No,Black,M,34.26779152,-85.18822422,Rome,Georgia,F,Neutral,10.310.371
+131,Clarkesville,2/22/2015,3,2,4,No,White,M,34.61025711,-83.52918091,Clarkesville,Georgia,F,Neutral,10.310.371
+136,Douglasville,2/7/2015,5,2,6,No,Black,M,33.71059292,-84.71564276,Douglasville,Georgia,F,Neutral,10.310.371
+139,LaGrange,1/28/2015,5,0,5,No,White,M,33.03607062,-85.0287065,LaGrange,Georgia,F,Neutral,10.310.371
+153,Kennesaw FedEx,4/29/2014,1,6,6,No,White,M,34.02529674,-84.61766831,Kennesaw,Georgia,F,Neutral,10.310.371
+187,Su Jung Health Sauna shooting,2/22/2012,5,0,5,Yes,Asian,M,33.9412127,-84.2135309,Norcross,Georgia,F,Neutral,10.310.371
+245,Offices of All-Tech Investment Group and Momentum Securities,7/29/1999,10,12,21,Yes,White,M,33.7629969,-84.4231328,Atlanta,Georgia,F,Neutral,10.310.371
+246,Heritage High School,5/20/1999,0,6,6,No,White,M,33.66086267,-84.02688527,Conyers,Georgia,F,Neutral,10.310.371
+302,Atlanta Post Office,3/6/1985,2,1,3,Yes,Black,M,33.7629969,-84.4231328,Atlanta,Georgia,F,Neutral,10.310.371
+35,"Trenton, NJ sidewalk shooting",3/11/2016,0,5,5,Unknown,Unknown,Unknown,40.217053,-74.742938,,New Jersey,A,Democrat,8.944.469
+112,Annual motorcycle event in Newark,5/10/2015,1,3,4,Unknown,Black,M,40.73169648,-74.18417699,Newark,New Jersey,A,Democrat,8.944.469
+264,Montclair Post Office,3/21/1995,4,1,5,No,White,M,40.826184000000005,-74.20862,Montclair,New Jersey,A,Democrat,8.944.469
+286,Ridgewood Post Office,10/10/1991,3,0,3,Yes,Black,M,40.98213277,-74.11264731,Ridgewood,New Jersey,A,Democrat,8.944.469
+36,Detroit Drive-by,3/11/2016,2,2,4,Unknown,Unknown,Unknown,42.331427000000005,-83.045754,,Michigan,C,Democrat,9.928.300
+45,Detroit Strip Club Shootout,2/28/2016,0,5,5,Unknown,Black,M,42.331427000000005,-83.045754,,Michigan,C,Democrat,9.928.300
+55,Kalamazoo shooting spree,2/20/2016,6,2,8,Unknown,White,M,,,Kalamazoo County,Michigan,C,Democrat,9.928.300
+58,Kalamazoo Uber Driver Spree Killing,2/20/2016,6,2,8,No,White,M,42.291707,-85.58722900000001,,Michigan,C,Democrat,9.928.300
+60,Michigan school shooting,2/9/2016,0,3,3,Unknown,Black,M,43.201126,-86.238946,,Michigan,C,Democrat,9.928.300
+191,Residences in Grand Rapids,7/7/2011,8,2,9,Yes,Black,M,42.96920434,-85.66008902,Grand Rapids,Michigan,C,Democrat,9.928.300
+215,South Middle School Football Game,10/25/2007,0,4,4,No,Black,M,43.41929117,-83.95032759,Saginaw,Michigan,C,Democrat,9.928.300
+270,Chelsea High School,12/16/1993,1,2,3,Yes,White,M,42.31319376,-84.01868108,Chelsea,Michigan,C,Democrat,9.928.300
+277,Dearborn Post Office,5/6/1993,2,2,3,Unknown,Unknown,M,42.31269522,-83.21293244,Dearborn,Michigan,C,Democrat,9.928.300
+283,Royal Oak Post Office,11/14/1991,5,5,9,Yes,White,M,42.50840203,-83.15387427,Royal Oak,Michigan,C,Democrat,9.928.300
+39,"Kansas City, Kansas",3/7/2016,5,0,5,Unknown,Unknown,M,39.114053000000006,-94.627464,Kansas City,Kansas,F,Republican,2.907.289
+44,Wichita Nightclub shooting,3/5/2016,0,4,4,Unknown,Unknown,Unknown,37.687176,-97.330053,,Kansas,F,Republican,2.907.289
+49,Excel Industries mass shooting,2/25/2016,3,14,17,Unknown,Black,M,,,Hesston,Kansas,F,Republican,2.907.289
+50,"Hesston, Kansas",2/25/2016,4,14,17,Unknown,Black,M,38.1368,-97.4268,Hesston,Kansas,F,Republican,2.907.289
+303,Goddard Junior High School,1/21/1985,1,3,4,Yes,White,M,37.67129418,-97.55070476,Goddard,Kansas,F,Republican,2.907.289
+42,"Chelsea, MA empty apartment party shooting",3/6/2016,1,6,7,Unknown,Unknown,M,42.391764,-71.03282800000001,Chelsea,Massachusetts,A,Democrat,6.811.779
+240,Wakefield massacre,12/26/2000,7,0,7,Yes,White,M,42.506484,-71.0728306,Wakefield,Massachusetts,A,Democrat,6.811.779
+266,Massachusetts Abortion Clinic,12/30/1994,2,5,7,Yes,White,M,42.32427392,-71.14080012,Brookline,Massachusetts,A,Democrat,6.811.779
+279,Simon's Rock College of Bard,12/14/1992,2,4,6,No,Asian,M,42.19358268,-73.36216339,Great Barrington,Massachusetts,A,Democrat,6.811.779
+52,Arizona Family Murder,2/23/2016,5,0,4,Unknown,White,M,33.448377,-112.074037,Glendale,Arizona,F,Republican,6.931.071
+67,"Glendale, AZ House Party shooting",1/30/2016,3,5,8,Unknown,Unknown,M,33.538652,-112.18598700000001,,Arizona,F,Republican,6.931.071
+89,Northern Arizona University at Flagstaff Campus,10/9/2015,1,3,4,Unknown,White,M,35.1725658,-111.65854350000001,Flagstaff,Arizona,F,Republican,6.931.071
+111,Tucson,5/12/2015,5,0,4,Yes,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,F,Republican,6.931.071
+117,Phoenix,4/16/2015,5,0,4,Unknown,Unknown,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,6.931.071
+124,Mesa,3/18/2015,1,5,6,No,White,M,33.42268696,-111.8163202,Mesa,Arizona,F,Republican,6.931.071
+172,Phoenix Law Firm,1/30/2013,3,1,3,Unknown,White,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,6.931.071
+194,Tucson shooting,1/8/2011,6,13,19,Yes,White,M,32.2217429,-110.926479,Tucson,Arizona,F,Republican,6.931.071
+207,South Mountain Community College,7/24/2008,0,3,3,No,Black,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,6.931.071
+236,University of Arizona College of Nursing,10/28/2002,4,0,3,No,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,F,Republican,6.931.071
+287,Wat Promkunaram Buddhist Temple,8/9/1991,9,0,9,No,Asian,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,6.931.071
+319,Rose-Mar College of Beauty,11/12/1966,5,1,6,Yes,White,M,33.42268696,-111.8163202,Mesa,Arizona,F,Republican,6.931.071
+56,"Iuka, Mississippi",2/20/2016,2,3,4,Unknown,White,M,34.7404,-88.1383,Iuka,Mississippi,F,Republican,2.988.726
+126,Brookhaven,3/13/2015,2,3,5,Unknown,Black,M,31.58036482,-90.44323475,Brookhaven,Mississippi,F,Republican,2.988.726
+234,Lockheed Martin shooting,7/8/2003,7,8,15,Yes,White,M,32.376081,-88.68978002,Meridian,Mississippi,F,Republican,2.988.726
+256,Pearl High School,10/1/1997,2,7,9,Yes,White,M,32.27492783,-90.09470655,Pearl,Mississippi,F,Republican,2.988.726
+62,Nightclub fight turns into shootout,2/7/2016,1,7,8,Unknown,Unknown,Unknown,43.16103,-77.610922,,New York,A,Democrat,19.745.289
+97,Parking lot near Boys and Girls Club,8/19/2015,3,4,7,Unknown,Black,M,43.16968370000001,-77.614337,Rochester,New York,A,Democrat,19.745.289
+115,Gates Pub,4/25/2015,1,6,7,Unknown,Black,M,43.15693027,-77.69300856,Gates,New York,A,Democrat,19.745.289
+138,McAvan's Pub,2/1/2015,0,6,6,No,Black,M,43.04093416,-76.14376763,Syracuse,New York,A,Democrat,19.745.289
+140,Queens,1/24/2015,4,1,4,No,Black,M,40.68996411,-73.8720502,New York City,New York,A,Democrat,19.745.289
+169,Mohawk and Herkimer Villages in New York,3/13/2013,5,2,6,No,White,M,43.0104011,-75.00751190000001,Mohawk,New York,A,Democrat,19.745.289
+200,Binghamton shootings,4/3/2009,14,4,18,Yes,Asian,M,42.0986867,-75.9179738,Binghamton,New York,A,Democrat,19.745.289
+272,Long Island Rail Road Commuter Train,12/7/1993,6,19,25,No,Black,M,40.72662266,-73.644712,Garden City,New York,A,Democrat,19.745.289
+280,Schuyler County Office Building,10/15/1992,5,0,4,No,White,M,42.38013875,-76.86724659,Watkins Glen,New York,A,Democrat,19.745.289
+301,New York Technical College,8/12/1986,1,4,5,Yes,Black,M,40.679276,-73.939513,Brooklyn,New York,A,Democrat,19.745.289
+315,Olean High School,12/30/1974,3,7,10,No,White,M,42.08185369,-78.43213922,Olean,New York,A,Democrat,19.745.289
+74,"Wilmington, DE robbery",1/11/2016,1,4,5,Unknown,Black,M,39.739072,-75.539788,,Delaware,B,Democrat,952.065
+77,"Omaha, Nebraska",12/6/2015,2,3,5,Unknown,Black,M,41.3138,-96.0814,Omaha,Nebraska,D,Republican,1.907.116
+141,Omaha,1/24/2015,3,5,8,No,Black,M,41.265921999999996,-96.05381421,Omaha,Nebraska,D,Republican,1.907.116
+214,Westroads Mall shooting,12/5/2007,9,4,13,Yes,White,M,41.258731700000006,-95.93787320000001,Omaha,Nebraska,D,Republican,1.907.116
+80,Planned Parenthood clinic,11/27/2015,3,9,12,Unknown,White,M,,,Colorado Springs,Colorado,C,Democrat,5.540.545
+87,Colorado Springs,10/31/2015,4,0,3,Unknown,White,M,38.86730659,-104.7572279,Colorado Springs,Colorado,C,Democrat,5.540.545
+180,Aurora theater shooting,7/20/2012,12,70,82,Yes,White,M,39.709283,-104.823488,Aurora,Colorado,C,Democrat,5.540.545
+213,Youth With A Mission and New Life Church,12/9/2007,5,5,9,No,White,M,39.81087474,-105.17371499999999,Arvada,Colorado,C,Democrat,5.540.545
+247,Columbine High School,4/20/1999,15,24,37,Yes,White,M,39.59358263,-105.0152112,Littleton,Colorado,C,Democrat,5.540.545
+271,Chuck E. Cheese in Aurora,12/14/1993,4,1,5,Yes,Black,M,39.69892933,-104.7871863,Aurora,Colorado,C,Democrat,5.540.545
+82,"Minneapolis, Minnesota",11/23/2015,0,5,5,Unknown,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,C,Democrat,5.519.952
+94,"Clearbrook (Greenwood), Minnesota",9/10/2015,5,0,4,Yes,White,M,47.69618799,-95.42844094,Clearbrook (Greenwood),Minnesota,C,Democrat,5.519.952
+178,Accent Signage Systems in Minneapolis,9/27/2012,7,2,8,Yes,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,C,Democrat,5.519.952
+228,Red Lake High School,3/21/2005,10,5,14,Yes,Native,M,47.87067289,-95.00529009,Red Lake,Minnesota,C,Democrat,5.519.952
+86,"Oakland, Maine",11/4/2015,4,0,3,Unknown,Unknown,M,44.54994725,-69.70782299,Oakland,Maine,F,Democrat,1.331.479
+90,Umpqua Community College,10/1/2015,10,7,16,Unknown,Mixed,M,43.22205555,-123.3522367,Roseburg,Oregon,C,Democrat,4.093.465
+175,Clackamas Town Center,12/11/2012,3,1,3,No,Unknown,M,45.44853107,-122.54401329999999,Happy Valley,Oregon,C,Democrat,4.093.465
+219,Springwater Trail High School,4/10/2007,0,10,10,No,Unknown,M,45.50216511,-122.44127590000001,Gresham,Oregon,C,Democrat,4.093.465
+249,Thurston High School,5/21/1998,4,25,29,Yes,White,M,44.05489698,-123.0075562,Springfield,Oregon,C,Democrat,4.093.465
+93,"Platte, South Dakota",9/17/2015,6,0,5,Unknown,White,M,43.38682722,-98.84357239,Platte,South Dakota,F,Republican,865.454
+104,Charleston Church Shooting,6/17/2015,9,1,10,Unknown,White,M,32.788387,-79.933143,Charleston,South Carolina,F,Republican,4.961.119
+257,R.E. Phelon Company,9/15/1997,4,3,7,No,Black,M,33.47524551,-81.72595949,Aiken,South Carolina,F,Republican,4.961.119
+293,Oakland Elementary School,9/26/1988,2,9,11,Yes,White,M,34.1928952,-82.15355508,Greenwood,South Carolina,F,Republican,4.961.119
+307,Johnston Post Office,8/19/1983,1,3,4,Yes,White,M,33.83272887,-81.8051584,Johnston,South Carolina,F,Republican,4.961.119
+311,University of South Carolina,10/6/1979,2,5,7,Unknown,Black,M,34.05098834,-80.82077527,Columbia,South Carolina,F,Republican,4.961.119
+106,Trestle Trail bridge shooting,6/11/2015,3,1,4,Yes,Latino,M,,,Menasha,Wisconsin,C,Neutral,5.778.708
+113,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,5/3/2015,4,1,4,Yes,Unknown,M,44.20455909,-88.4484585,Menasha,Wisconsin,C,Neutral,5.778.708
+114,Milwaukee,5/1/2015,2,3,5,No,Unknown,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,C,Neutral,5.778.708
+176,Azana Spa in Brookfield,10/21/2012,4,4,7,No,Black,M,43.06396691,-88.12299758,Brookfield,Wisconsin,C,Neutral,5.778.708
+179,Sikh Temple in Wisconsin,8/5/2012,7,4,10,No,White,M,42.88027442,-87.90087079,Oak Creek,Wisconsin,C,Neutral,5.778.708
+217,Crandon shooting,10/7/2007,6,1,7,Unknown,White,M,45.571907200000005,-88.9028922,Crandon,Wisconsin,C,Neutral,5.778.708
+229,Living Church of God,3/12/2005,8,4,11,No,White,M,43.06396691,-88.12299758,Brookfield,Wisconsin,C,Neutral,5.778.708
+232,"Birchwood, Wisconsin",11/21/2004,6,2,8,No,Asian,M,45.65773714,-91.55077175,Birchwood,Wisconsin,C,Neutral,5.778.708
+253,Milwaukee Post Office,12/19/1997,2,2,3,No,Black,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,C,Neutral,5.778.708
+107,Deer Lodge,6/7/2015,5,0,4,Unknown,White,M,46.39761858,-112.73293329999998,Deer Lodge,Montana,F,Republican,1.042.520
+299,Fergus County High School,12/4/1986,1,3,4,Yes,White,M,47.03740653,-109.4844918,Lewistown,Montana,F,Republican,1.042.520
+119,Indianapolis,4/5/2015,0,5,5,No,Unknown,M,39.77725479,-86.14635359,Indianapolis,Indiana,D,Republican,6.633.053
+121,Tulsa,3/30/2015,4,0,3,Unknown,Asian,M,36.13543238,-95.91316117,Tulsa,Oklahoma,F,Republican,3.923.561
+162,Oklahoma City Residence,8/14/2013,4,0,4,Yes,White,M,35.46779189,-97.5191631,Oklahoma City,Oklahoma,F,Republican,3.923.561
+184,"North Tulsa, Oklahoma",4/6/2012,3,2,5,No,White,M,36.13543238,-95.91316117,Tulsa,Oklahoma,F,Republican,3.923.561
+242,Fort Gibson Middle School,12/6/1999,0,4,4,No,White,M,35.77669911,-95.25996596,Fort Gibson,Oklahoma,F,Republican,3.923.561
+300,"Post office in Edmond, Oklahoma",8/20/1986,15,6,20,Yes,White,M,35.66889223,-97.41438792,Edmond,Oklahoma,F,Republican,3.923.561
+142,Moscow,1/10/2015,3,1,4,No,Asian,M,46.73059479,-116.99900420000002,Moscow,Idaho,F,Republican,1.683.140
+145,Morgantown,12/1/2014,5,0,4,No,White,M,39.63400851,-79.94839325,Morgantown,West Virginia,F,Republican,1.831.102
+174,Sandy Hook Elementary School,12/14/2012,28,2,29,Yes,White,M,41.41190846,-73.31196267,Newtown,Connecticut,A,Democrat,3.576.452
+195,Hartford Beer Distributor shooting,8/3/2010,9,2,11,No,Black,M,41.775932399999995,-72.5214755,Manchester,Connecticut,A,Democrat,3.576.452
+252,Connecticut State Lottery Headquarters,3/6/1998,5,0,4,Yes,White,M,41.68700845,-72.73083927,Newington,Connecticut,A,Democrat,3.576.452
+206,University of Central Arkansas,10/26/2008,0,1,3,No,Black,M,35.08130744,-92.43278275,Conway,Arkansas,F,Republican,2.988.248
+251,Westside Middle School killings,3/24/1998,5,10,15,No,White,M,35.8209895,-90.6682606,Jonesboro,Arkansas,F,Republican,2.988.248
+220,Trolley Square,2/12/2007,6,4,9,Unknown,White,M,40.77787404,-111.9312168,Salt Lake City,Utah,F,Republican,3.051.217
+275,Weber State University,7/8/1993,1,3,3,No,Asian,M,41.2281367,-111.96753170000001,Ogden,Utah,F,Republican,3.051.217
+225,Essex Elementary School,8/24/2006,2,2,4,Yes,Black,M,44.49022039,-73.11400628,Essex Junction,Vermont,F,Democrat,624.594
+243,Xerox killings,11/2/1999,7,0,7,Yes,Asian,M,21.3255125,-157.8473055,Honolulu,Hawaii,A,Democrat,1.428.557
+258,Bethel Regional High School,2/19/1997,2,2,4,Yes,White,M,60.79053882,-161.7927517,Bethel,Alaska,F,Republican,741.894
+273,Central Middle School,9/17/1993,1,4,4,No,White,M,44.79051074,-106.9599165,Sheridan,Wyoming,F,Republican,585.501
+284,University of Iowa,11/1/1991,6,1,6,No,Asian,M,41.65589405,-91.53117986,Iowa City,Iowa,C,Republican,3.134.693
