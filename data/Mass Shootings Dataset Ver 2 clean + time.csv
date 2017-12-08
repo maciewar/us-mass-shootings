@@ -1,321 +1,317 @@
-S#,Title,Date,Fatalities,Injured,Total victims,Mental Health Issues,Race,Gender,Latitude,Longitude,Cities,State,Season,DayType,Holiday,Year,Month,Day,Weekday
-1,Las Vegas Strip mass shooting,2017-10-01,58,527,585,Unknown,White,M,36.181271,-115.134132,Las Vegas,Nevada,Fall,Weekend,Regular Day,2017,10,1,Sunday
-2,San Francisco UPS shooting,2017-06-14,3,2,5,Yes,Asian,M,,,San Francisco,California,Spring,Workweek,Regular Day,2017,6,14,Wednesday
-3,Pennsylvania supermarket shooting,2017-06-07,3,0,3,Unknown,White,M,,,Tunkhannock,Pennsylvania,Spring,Workweek,Regular Day,2017,6,7,Wednesday
-4,Florida awning manufacturer shooting,2017-06-05,5,0,5,Unknown,Unknown,M,,,Orlando,Florida,Spring,Workweek,Regular Day,2017,6,5,Monday
-5,Rural Ohio nursing home shooting,2017-05-12,3,0,3,Yes,White,M,,,Kirkersville,Ohio,Spring,Weekend,Regular Day,2017,5,12,Friday
-6,Fresno downtown shooting,2017-04-18,3,0,3,Unknown,Black,M,,,Fresno,California,Spring,Workweek,Regular Day,2017,4,18,Tuesday
-7,Fort Lauderdale airport shooting,2017-01-06,5,6,11,Yes,Latino,M,,,Fort Lauderdale,Florida,Winter,Weekend,Regular Day,2017,1,6,Friday
-8,Cascade Mall shooting,2016-09-23,5,0,5,Yes,Unknown,M,,,Burlington,Washington,Fall,Weekend,Regular Day,2016,9,23,Friday
-9,Baton Rouge police shooting,2016-07-17,3,3,6,Yes,Black,M,,,Baton Rouge,Louisiana,Summer,Weekend,Regular Day,2016,7,17,Sunday
-10,Dallas police shooting,2016-07-07,5,11,16,Unknown,Black,M,,,Dallas,Texas,Summer,Workweek,Regular Day,2016,7,7,Thursday
-11,Orlando nightclub massacre,2016-06-12,49,53,102,Unknown,Unknown,M,,,Orlando,Florida,Spring,Weekend,Regular Day,2016,6,12,Sunday
-12,"Ferguson, MO Drive by",2016-04-29,0,4,4,Unknown,Unknown,Unknown,38.744217,-90.305391,Ferguson,Missouri,Spring,Weekend,Regular Day,2016,4,29,Friday
-13,"Forestville, Maryland Drive-by",2016-04-26,1,4,5,Unknown,Unknown,Unknown,38.845113,-76.874972,,Maryland,Spring,Workweek,Regular Day,2016,4,26,Tuesday
-14,"Halifax County, VA",2016-04-24,0,6,6,Unknown,Black,M,36.765971,-78.928344,,Virginia,Spring,Weekend,Regular Day,2016,4,24,Sunday
-15,Tire-Slashing revenge escalation,2016-04-21,0,4,4,Unknown,Black,M,39.290385,-76.612189,,Maryland,Spring,Workweek,Regular Day,2016,4,21,Thursday
-16,Chicago Rap video Shootout,2016-04-19,1,4,5,Unknown,Unknown,Unknown,41.878114,-87.629798,,Illinois,Spring,Workweek,Regular Day,2016,4,19,Tuesday
-17,Texas family murder-suicide,2016-04-19,4,0,4,Unknown,White,M,29.785785,-95.824396,,Texas,Spring,Workweek,Regular Day,2016,4,19,Tuesday
-18,Alabama highway random shooting,2016-04-19,1,4,4,Yes,White,M,34.162040000000005,-86.475543,,Alabama,Spring,Workweek,Regular Day,2016,4,19,Tuesday
-19,Long Beach Street murder,2016-04-18,0,3,4,Unknown,Unknown,Unknown,33.77005,-118.193739,,California,Spring,Workweek,Regular Day,2016,4,18,Monday
-20,"Albuquerque, NM House party shooting",2016-04-09,0,4,4,Unknown,White,M,35.085334,-106.605553,,New Mexico,Spring,Weekend,Regular Day,2016,4,9,Saturday
-21,"Memphis, TN gas station shooting",2016-04-09,0,4,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,Spring,Weekend,Regular Day,2016,4,9,Saturday
-22,Chicago Birthday Party Bus Shooting,2016-04-07,0,5,5,Unknown,Unknown,Unknown,41.878114,-87.629798,,Illinois,Spring,Workweek,Regular Day,2016,4,7,Thursday
-23,"Albuquerque, NM Family restaurant shooting",2016-04-01,3,1,3,Unknown,Asian,M,35.085334,-106.605553,,New Mexico,Spring,Weekend,Regular Day,2016,4,1,Friday
-24,"Richmond, Virginia",2016-03-31,2,2,3,Unknown,Black,M,37.540725,-77.436048,Richmond,Virginia,Spring,Workweek,Regular Day,2016,3,31,Thursday
-25,"Louisburg, North Carolina",2016-03-26,3,0,3,Unknown,Black,M,36.09903900000001,-78.301106,Louisburg,North Carolina,Spring,Weekend,Regular Day,2016,3,26,Saturday
-26,"Lawrenceburg, Tennessee",2016-03-25,2,2,3,Unknown,Unknown,M,35.242302,-87.334739,Lawrenceburg,Tennessee,Spring,Weekend,Regular Day,2016,3,25,Friday
-27,"Greenhill, AL Family murder-suicide",2016-03-25,2,2,3,Yes,White,M,34.759257,-86.60249300000002,,Alabama,Spring,Weekend,Regular Day,2016,3,25,Friday
-28,"Sherman, Texas Family Murder-Suicide",2016-03-21,4,0,3,Unknown,Unknown,M,33.635662,-96.60888,Sherman,Texas,Spring,Workweek,Regular Day,2016,3,21,Monday
-29,"Louisville, KY Family Murder-Suicide",2016-03-20,4,0,3,Yes,White,M,38.252665,-85.75845600000002,Louisville,Kentucky,Spring,Weekend,Regular Day,2016,3,20,Sunday
-30,"Plantation, Florida",2016-03-19,1,4,5,Unknown,Unknown,Unknown,26.127586,-80.233104,Plantation,Florida,Spring,Weekend,Regular Day,2016,3,19,Saturday
-31,Wetumpka Drive-by,2016-03-19,2,2,4,Unknown,Black,M,32.543745,-86.211913,Wetumpka,Alabama,Spring,Weekend,Regular Day,2016,3,19,Saturday
-32,Atlanta Nightclub shooting,2016-03-15,0,4,4,Unknown,Unknown,Unknown,33.748995,-84.387982,,Georgia,Winter,Workweek,Regular Day,2016,3,15,Tuesday
-33,Florida Family celebration ends in shooting,2016-03-13,0,4,4,Unknown,Unknown,Unknown,26.640628000000003,-81.87230799999998,,Florida,Winter,Weekend,Regular Day,2016,3,13,Sunday
-34,"Elberton, Georgia murder-suicide",2016-03-12,2,2,3,Unknown,Unknown,M,34.111222999999995,-82.86708399999998,,Georgia,Winter,Weekend,Regular Day,2016,3,12,Saturday
-35,"Trenton, NJ sidewalk shooting",2016-03-11,0,5,5,Unknown,Unknown,Unknown,40.217053,-74.742938,,New Jersey,Winter,Weekend,Regular Day,2016,3,11,Friday
-36,Detroit Drive-by,2016-03-11,2,2,4,Unknown,Unknown,Unknown,42.33142700000001,-83.045754,,Michigan,Winter,Weekend,Regular Day,2016,3,11,Friday
-37,"Pittsburgh, Pennsylvania",2016-03-09,6,3,9,Unknown,Unknown,M,40.440625,-79.995886,Pittsburgh,Pennsylvania,Winter,Workweek,Regular Day,2016,3,9,Wednesday
-38,Wilkinsburg BBQ cookout shootout,2016-03-09,5,3,8,Unknown,Unknown,M,40.441736,-79.88199399999998,,Pennsylvania,Winter,Workweek,Regular Day,2016,3,9,Wednesday
-39,"Kansas City, Kansas",2016-03-07,5,0,5,Unknown,Unknown,M,39.11405300000001,-94.627464,Kansas City,Kansas,Winter,Workweek,Regular Day,2016,3,7,Monday
-40,"Lafayette, LA drive by",2016-03-07,0,4,4,Unknown,Unknown,Unknown,30.224090000000004,-92.019843,,Louisiana,Winter,Workweek,Regular Day,2016,3,7,Monday
-41,Kansas City Home Invasion,2016-03-07,4,0,4,Unknown,Unknown,M,39.11405300000001,-94.627464,,Kansas,Winter,Workweek,Regular Day,2016,3,7,Monday
-42,"Chelsea, MA empty apartment party shooting",2016-03-06,1,6,7,Unknown,Unknown,M,42.391764,-71.03282800000002,Chelsea,Massachusetts,Winter,Weekend,Regular Day,2016,3,6,Sunday
-43,"Roswell, GA Hookah shootout",2016-03-06,0,4,4,Unknown,Black,M,34.023243,-84.36155600000002,,Georgia,Winter,Weekend,Regular Day,2016,3,6,Sunday
-44,Wichita Nightclub shooting,2016-03-05,0,4,4,Unknown,Unknown,Unknown,37.687176,-97.330053,,Kansas,Winter,Weekend,Regular Day,2016,3,5,Saturday
-45,Detroit Strip Club Shootout,2016-02-28,0,5,5,Unknown,Black,M,42.33142700000001,-83.045754,,Michigan,Winter,Weekend,Regular Day,2016,2,28,Sunday
-46,Riverside restaurant shooting,2016-02-28,1,3,4,Unknown,Unknown,M,33.997197,-117.48548,,California,Winter,Weekend,Regular Day,2016,2,28,Sunday
-47,"Woodbridge, Virginia",2016-02-27,2,2,4,Unknown,Black,M,38.6697,-77.3524,Woodbridge,Virginia,Winter,Weekend,Regular Day,2016,2,27,Saturday
-48,"Belfair, Washington",2016-02-26,5,0,4,Unknown,White,M,47.5033,-122.931,Belfair,Washington,Winter,Weekend,Regular Day,2016,2,26,Friday
-49,Excel Industries mass shooting,2016-02-25,3,14,17,Unknown,Black,M,,,Hesston,Kansas,Winter,Workweek,Regular Day,2016,2,25,Thursday
-50,"Hesston, Kansas",2016-02-25,4,14,17,Unknown,Black,M,38.1368,-97.4268,Hesston,Kansas,Winter,Workweek,Regular Day,2016,2,25,Thursday
-51,"Belfair, WA Family murder-suicide",2016-02-25,5,0,4,Unknown,White,M,47.451459,-122.826946,,Washington,Winter,Workweek,Regular Day,2016,2,25,Thursday
-52,Arizona Family Murder,2016-02-23,5,0,4,Unknown,White,M,33.448377,-112.074037,Glendale,Arizona,Winter,Workweek,Regular Day,2016,2,23,Tuesday
-53,Missouri Highway shooting,2016-02-21,1,3,4,Unknown,Black,M,38.77144000000001,-90.370949,,Missouri,Winter,Weekend,Regular Day,2016,2,21,Sunday
-54,Houston Drive-by,2016-02-21,0,5,5,Unknown,Unknown,Unknown,29.760427000000004,-95.369803,,Texas,Winter,Weekend,Regular Day,2016,2,21,Sunday
-55,Kalamazoo shooting spree,2016-02-20,6,2,8,Unknown,White,M,,,Kalamazoo County,Michigan,Winter,Weekend,Regular Day,2016,2,20,Saturday
-56,"Iuka, Mississippi",2016-02-20,2,3,4,Unknown,White,M,34.7404,-88.1383,Iuka,Mississippi,Winter,Weekend,Regular Day,2016,2,20,Saturday
-57,Florida Hookah Bar Shooting,2016-02-20,1,3,4,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,Winter,Weekend,Regular Day,2016,2,20,Saturday
-58,Kalamazoo Uber Driver Spree Killing,2016-02-20,6,2,8,No,White,M,42.291707,-85.58722900000002,,Michigan,Winter,Weekend,Regular Day,2016,2,20,Saturday
-59,"Vallejo, CA car shooting",2016-02-19,2,2,4,Unknown,Unknown,Unknown,38.104086,-122.256637,,California,Winter,Weekend,Regular Day,2016,2,19,Friday
-60,Michigan school shooting,2016-02-09,0,3,3,Unknown,Black,M,43.201126,-86.238946,,Michigan,Winter,Workweek,Regular Day,2016,2,9,Tuesday
-61,"Orlando, Florida",2016-02-07,2,10,12,Unknown,Unknown,M,28.4541,-81.4646,Orlando,Florida,Winter,Weekend,Regular Day,2016,2,7,Sunday
-62,Nightclub fight turns into shootout,2016-02-07,1,7,8,Unknown,Unknown,Unknown,43.16103,-77.610922,,New York,Winter,Weekend,Regular Day,2016,2,7,Sunday
-63,"Tampa, FL Strip club shooting",2016-02-06,2,6,8,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,Winter,Weekend,Regular Day,2016,2,6,Saturday
-64,"Los Angeles, CA street shooting",2016-02-06,1,3,4,Unknown,Unknown,Unknown,34.05223400000001,-118.243685,,California,Winter,Weekend,Regular Day,2016,2,6,Saturday
-65,Texas teen commits family murder suicide,2016-02-06,4,0,3,Unknown,White,M,29.209684000000006,-99.786168,,Texas,Winter,Weekend,Regular Day,2016,2,6,Saturday
-66,New Orleans gas station shoot-out,2016-01-31,0,3,3,Unknown,Black,M,29.951066,-90.07153199999998,,Louisiana,Winter,Weekend,Regular Day,2016,1,31,Sunday
-67,"Glendale, AZ House Party shooting",2016-01-30,3,5,8,Unknown,Unknown,M,33.538652,-112.185987,,Arizona,Winter,Weekend,Regular Day,2016,1,30,Saturday
-68,"Caroline County, VA Family Murder Suicide",2016-01-29,2,2,3,Unknown,Unknown,M,38.044556,-77.286488,,Virginia,Winter,Weekend,Regular Day,2016,1,29,Friday
-69,"Chesapeake, Virginia",2016-01-27,6,0,5,Yes,White,M,36.7921,-76.3293,Chesapeake,Virginia,Winter,Workweek,Regular Day,2016,1,27,Wednesday
-70,"Perris, CA Mexican restaurant shooting",2016-01-25,1,4,5,Unknown,Unknown,M,33.782519,-117.228648,,California,Winter,Workweek,Regular Day,2016,1,25,Monday
-71,Florida family murder,2016-01-23,3,0,3,Unknown,White,M,30.754181,-86.572799,,Florida,Winter,Weekend,Regular Day,2016,1,23,Saturday
-72,Los Angeles Drive-by,2016-01-23,2,2,4,Unknown,Unknown,Unknown,34.05223400000001,-118.243685,,California,Winter,Weekend,Regular Day,2016,1,23,Saturday
-73,"Gloucester County, VA, House Party",2016-01-17,1,3,4,Unknown,Black,M,37.40264000000001,-76.458559,,Virginia,Winter,Weekend,Regular Day,2016,1,17,Sunday
-74,"Wilmington, DE robbery",2016-01-11,1,4,5,Unknown,Black,M,39.739072,-75.539788,,Delaware,Winter,Workweek,Regular Day,2016,1,11,Monday
-75,"Roadside in Memphis, Tennessee",2016-01-07,1,3,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,Winter,Workweek,Regular Day,2016,1,7,Thursday
-76,"Residence in Lakeland, Florida",2016-01-06,3,1,4,Unknown,Black,M,28.039465000000003,-81.949804,,Florida,Winter,Workweek,Regular Day,2016,1,6,Wednesday
-77,"Omaha, Nebraska",2015-12-06,2,3,5,Unknown,Black,M,41.3138,-96.0814,Omaha,Nebraska,Fall,Weekend,Regular Day,2015,12,6,Sunday
-78,San Bernardino mass shooting,2015-12-02,14,21,35,Unknown,Unknown,Unknown,,,San Bernardino,California,Fall,Workweek,Regular Day,2015,12,2,Wednesday
-79,"San Bernardino, California",2015-12-02,16,21,35,Unknown,Asian,Unknown,34.13973446,-117.2942444,San Bernardino,California,Fall,Workweek,Regular Day,2015,12,2,Wednesday
-80,Planned Parenthood clinic,2015-11-27,3,9,12,Unknown,White,M,,,Colorado Springs,Colorado,Fall,Weekend,Regular Day,2015,11,27,Friday
-81,"Columbus, Ohio",2015-11-23,4,1,4,Unknown,White,M,39.98861445,-82.98904135,Columbus,Ohio,Fall,Workweek,Regular Day,2015,11,23,Monday
-82,"Minneapolis, Minnesota",2015-11-23,0,5,5,Unknown,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,Fall,Workweek,Regular Day,2015,11,23,Monday
-83,"Tennessee Colony, Texas",2015-11-15,6,0,6,Unknown,White,M,31.8076,-95.8069,Tennessee Colony,Texas,Fall,Weekend,Regular Day,2015,11,15,Sunday
-84,"Jacksonville, Florida",2015-11-13,4,1,4,Unknown,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,Fall,Weekend,Regular Day,2015,11,13,Friday
-85,"Waycross, GA",2015-11-07,1,2,3,Yes,Black,M,31.21094544,-82.35793452,Waycross,Georgia,Fall,Weekend,Regular Day,2015,11,7,Saturday
-86,"Oakland, Maine",2015-11-04,4,0,3,Unknown,Unknown,M,44.54994725,-69.70782299,Oakland,Maine,Fall,Workweek,Regular Day,2015,11,4,Wednesday
-87,Colorado Springs,2015-10-31,4,0,3,Unknown,White,M,38.86730659,-104.7572279,Colorado Springs,Colorado,Fall,Weekend,Regular Day,2015,10,31,Saturday
-88,"Colerain Township, Ohio",2015-10-21,2,1,3,Unknown,White,M,39.253268,-84.599655,Colerain Township,Ohio,Fall,Workweek,Regular Day,2015,10,21,Wednesday
-89,Northern Arizona University at Flagstaff Campus,2015-10-09,1,3,4,Unknown,White,M,35.1725658,-111.6585435,Flagstaff,Arizona,Fall,Weekend,Regular Day,2015,10,9,Friday
-90,Umpqua Community College,2015-10-01,10,7,16,Unknown,Mixed,M,43.22205555,-123.3522367,Roseburg,Oregon,Fall,Workweek,Regular Day,2015,10,1,Thursday
-91,"Inglis, Florida",2015-10-01,3,1,3,Unknown,White,M,29.03270634,-82.65919302,Inglis,Florida,Fall,Workweek,Regular Day,2015,10,1,Thursday
-92,Hill Haven Event Center (Formerly Club CJ's),2015-09-27,0,10,10,Unknown,Black,M,33.02912644,-84.7143335,Greenville,Georgia,Fall,Weekend,Regular Day,2015,9,27,Sunday
-93,"Platte, South Dakota",2015-09-17,6,0,5,Unknown,White,M,43.38682722,-98.84357239,Platte,South Dakota,Summer,Workweek,Regular Day,2015,9,17,Thursday
-94,"Clearbrook (Greenwood), Minnesota",2015-09-10,5,0,4,Yes,White,M,47.69618799,-95.42844094,Clearbrook (Greenwood),Minnesota,Summer,Workweek,Regular Day,2015,9,10,Thursday
-95,"Bristol, Tennessee",2015-08-29,3,1,4,Unknown,White,M,36.55605824,-82.21429551,Bristol,Tennessee,Summer,Weekend,Regular Day,2015,8,29,Saturday
-96,Virginia WDBJ live TV interview shooting,2015-08-26,3,1,3,Unknown,Black,M,37.27823366,-79.95816104,Roanoke,Virginia,Summer,Workweek,Regular Day,2015,8,26,Wednesday
-97,Parking lot near Boys and Girls Club,2015-08-19,3,4,7,Unknown,Black,M,43.16968370000001,-77.614337,Rochester,New York,Summer,Workweek,Regular Day,2015,8,19,Wednesday
-98,"Houston, Texas",2015-08-08,8,0,8,Unknown,Black,M,29.79705548,-95.36763856,Houston,Texas,Summer,Weekend,Regular Day,2015,8,8,Saturday
-99,"Grand 16 Theatre, Louisiana",2015-07-23,3,9,11,Yes,White,M,30.21233538,-92.0316453,Lafayette,Louisiana,Summer,Workweek,Regular Day,2015,7,23,Thursday
-100,Suwanee,2015-07-22,4,1,4,Unknown,White,M,34.05057545,-84.06872262,Suwanee,Georgia,Summer,Workweek,Regular Day,2015,7,22,Wednesday
-101,"Amnicola Training Center, Chattanooga",2015-07-16,5,3,7,Yes,White,M,35.09318123,-85.23676751,Chattanooga,Tennessee,Summer,Workweek,Regular Day,2015,7,16,Thursday
-102,River Forest,2015-07-12,2,3,4,Unknown,Unknown,M,41.89499946,-87.81941392,River Forest,Illinois,Summer,Weekend,Regular Day,2015,7,12,Sunday
-103,Boom Boom Room,2015-06-20,0,4,4,Unknown,Black,M,34.86379864,-79.9996781,Morven,North Carolina,Spring,Weekend,Regular Day,2015,6,20,Saturday
-104,Charleston Church Shooting,2015-06-17,9,1,10,Unknown,White,M,32.788387,-79.933143,Charleston,South Carolina,Spring,Workweek,Regular Day,2015,6,17,Wednesday
-105,Miami Gardens,2015-06-16,0,4,4,Unknown,Black,M,25.94326707,-80.24253243,Miami Gardens,Florida,Spring,Workweek,Regular Day,2015,6,16,Tuesday
-106,Trestle Trail bridge shooting,2015-06-11,3,1,4,Yes,Latino,M,,,Menasha,Wisconsin,Spring,Workweek,Regular Day,2015,6,11,Thursday
-107,Deer Lodge,2015-06-07,5,0,4,Unknown,White,M,46.39761858,-112.73293329999998,Deer Lodge,Montana,Spring,Weekend,Regular Day,2015,6,7,Sunday
-108,Cleveland,2015-05-31,3,1,3,Unknown,Unknown,M,41.47657557,-81.68051502,Cleveland,Ohio,Spring,Weekend,Regular Day,2015,5,31,Sunday
-109,Conyers,2015-05-31,3,2,4,Unknown,White,M,33.66086267,-84.02688527,Conyers,Georgia,Spring,Weekend,Regular Day,2015,5,31,Sunday
-110,Club Maxey's,2015-05-25,1,4,5,Unknown,Black,M,39.85566372,-88.93346458,Decatur,Illinois,Spring,Workweek,Holiday,2015,5,25,Monday
-111,Tucson,2015-05-12,5,0,4,Yes,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,Spring,Workweek,Regular Day,2015,5,12,Tuesday
-112,Annual motorcycle event in Newark,2015-05-10,1,3,4,Unknown,Black,M,40.73169648,-74.18417699,Newark,New Jersey,Spring,Weekend,Regular Day,2015,5,10,Sunday
-113,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,2015-05-03,4,1,4,Yes,Unknown,M,44.20455909,-88.4484585,Menasha,Wisconsin,Spring,Weekend,Regular Day,2015,5,3,Sunday
-114,Milwaukee,2015-05-01,2,3,5,No,Unknown,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,Spring,Weekend,Regular Day,2015,5,1,Friday
-115,Gates Pub,2015-04-25,1,6,7,Unknown,Black,M,43.15693027,-77.69300856,Gates,New York,Spring,Weekend,Regular Day,2015,4,25,Saturday
-116,Killeen,2015-04-21,2,3,5,Unknown,Black,M,31.07925506,-97.73392317,Killeen,Texas,Spring,Workweek,Regular Day,2015,4,21,Tuesday
-117,Phoenix,2015-04-16,5,0,4,Unknown,Unknown,M,33.57145875,-112.0904854,Phoenix,Arizona,Spring,Workweek,Regular Day,2015,4,16,Thursday
-118,Rome,2015-04-07,1,3,4,No,Black,M,34.26779152,-85.18822422,Rome,Georgia,Spring,Workweek,Regular Day,2015,4,7,Tuesday
-119,Indianapolis,2015-04-05,0,5,5,No,Unknown,M,39.77725479,-86.14635359,Indianapolis,Indiana,Spring,Weekend,Regular Day,2015,4,5,Sunday
-120,Daytona Beach,2015-04-03,0,4,4,No,Black,M,29.19313443,-81.10173014,Daytona Beach,Florida,Spring,Weekend,Regular Day,2015,4,3,Friday
-121,Tulsa,2015-03-30,4,0,3,Unknown,Asian,M,36.13543238,-95.91316117,Tulsa,Oklahoma,Spring,Workweek,Regular Day,2015,3,30,Monday
-122,Panama City Beach,2015-03-28,0,7,7,No,Black,M,30.22540212,-85.87371301,Panama City Beach,Florida,Spring,Weekend,Regular Day,2015,3,28,Saturday
-123,Little Water,2015-03-19,2,2,3,Unknown,Unknown,M,36.44329000000001,-108.723281,Little Water,New Mexico,Winter,Workweek,Regular Day,2015,3,19,Thursday
-124,Mesa,2015-03-18,1,5,6,No,White,M,33.42268696,-111.8163202,Mesa,Arizona,Winter,Workweek,Regular Day,2015,3,18,Wednesday
-125,Cottonwood,2015-03-15,3,1,3,No,White,M,31.0549687,-85.30100084,Cottonwood,Alabama,Winter,Weekend,Regular Day,2015,3,15,Sunday
-126,Brookhaven,2015-03-13,2,3,5,Unknown,Black,M,31.58036482,-90.44323475,Brookhaven,Mississippi,Winter,Weekend,Regular Day,2015,3,13,Friday
-127,Tarboro,2015-02-28,4,0,3,Yes,Black,M,35.90434471,-77.55639964,Tarboro,North Carolina,Winter,Weekend,Regular Day,2015,2,28,Saturday
-128,Birmingham's Washington Park,2015-02-27,1,2,3,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,Winter,Weekend,Regular Day,2015,2,27,Friday
-129,Tyrone,2015-02-26,8,1,8,No,White,M,37.204442,-91.876583,Tyrone,Missouri,Winter,Workweek,Regular Day,2015,2,26,Thursday
-130,Charlotte,2015-02-24,3,0,3,No,Unknown,M,35.226354,-80.836788,Charlotte,North Carolina,Winter,Workweek,Regular Day,2015,2,24,Tuesday
-131,Clarkesville,2015-02-22,3,2,4,No,White,M,34.61025711,-83.52918091,Clarkesville,Georgia,Winter,Weekend,Regular Day,2015,2,22,Sunday
-132,Killeen,2015-02-22,4,1,4,No,Black,M,31.07925506,-97.73392317,Killeen,Texas,Winter,Weekend,Regular Day,2015,2,22,Sunday
-133,Chapel Hill,2015-02-10,3,0,3,No,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,Winter,Workweek,Regular Day,2015,2,10,Tuesday
-134,Moon Lake,2015-02-09,3,1,4,No,White,Unknown,28.24653304,-82.71690259,New Port Richey,Florida,Winter,Workweek,Regular Day,2015,2,9,Monday
-135,Monroeville Macy's,2015-02-07,0,3,3,No,Black,M,40.42574550000001,-79.76092565,Monroeville,Pennsylvania,Winter,Weekend,Regular Day,2015,2,7,Saturday
-136,Douglasville,2015-02-07,5,2,6,No,Black,M,33.71059292,-84.71564276,Douglasville,Georgia,Winter,Weekend,Regular Day,2015,2,7,Saturday
-137,"King, North Carolina",2015-02-04,4,0,3,Unknown,White,M,36.27617912,-80.35501402,King,North Carolina,Winter,Workweek,Regular Day,2015,2,4,Wednesday
-138,McAvan's Pub,2015-02-01,0,6,6,No,Black,M,43.04093416,-76.14376763,Syracuse,New York,Winter,Weekend,Regular Day,2015,2,1,Sunday
-139,LaGrange,2015-01-28,5,0,5,No,White,M,33.03607062,-85.0287065,LaGrange,Georgia,Winter,Workweek,Regular Day,2015,1,28,Wednesday
-140,Queens,2015-01-24,4,1,4,No,Black,M,40.68996411,-73.8720502,New York City,New York,Winter,Weekend,Regular Day,2015,1,24,Saturday
-141,Omaha,2015-01-24,3,5,8,No,Black,M,41.265922,-96.05381421,Omaha,Nebraska,Winter,Weekend,Regular Day,2015,1,24,Saturday
-142,Moscow,2015-01-10,3,1,4,No,Asian,M,46.73059479,-116.99900420000002,Moscow,Idaho,Winter,Weekend,Regular Day,2015,1,10,Saturday
-143,Memphis,2015-01-01,0,5,5,No,Black,M,35.10528976,-89.97734924,Memphis,Tennessee,Winter,Workweek,Holiday,2015,1,1,Thursday
-144,"Pennsburg, Souderton, Lansdale, Harleysville",2014-12-15,7,1,7,Yes,White,M,40.39359306,-75.49640881,"Pennsburg, Souderton, Lansdale, Harleysville",Pennsylvania,Fall,Workweek,Regular Day,2014,12,15,Monday
-145,Morgantown,2014-12-01,5,0,4,No,White,M,39.63400851,-79.94839325,Morgantown,West Virginia,Fall,Workweek,Regular Day,2014,12,1,Monday
-146,Florida State University,2014-11-19,1,3,3,Yes,Black,M,30.4549394,-84.25264151,Tallahassee,Florida,Fall,Workweek,Regular Day,2014,11,19,Wednesday
-147,Marysville-Pilchuck High School,2014-10-24,5,1,5,No,Native,M,48.04802409,-122.1359622,Marysville,Washington,Fall,Weekend,Regular Day,2014,10,24,Friday
-148,Albuquerque Auto Shop,2014-08-08,2,3,4,No,Unknown,M,35.15290522,-106.7791378,Albuquerque,New Mexico,Summer,Weekend,Regular Day,2014,8,8,Friday
-149,Bourbon Street New Orleans,2014-06-29,1,9,10,No,Mixed,M,30.0687242,-89.93147412,New Orleans,Louisiana,Summer,Weekend,Regular Day,2014,6,29,Sunday
-150,Nellis Plaza,2014-06-08,5,0,3,No,White,Unknown,36.18931923,-115.3264875,Las Vegas,Nevada,Spring,Weekend,Regular Day,2014,6,8,Sunday
-151,Seattle Pacific University,2014-06-05,1,2,3,Yes,Unknown,M,47.62199575,-122.323646,Seattle,Washington,Spring,Workweek,Regular Day,2014,6,5,Thursday
-152,Isla Vista mass murder,2014-05-23,6,13,19,Yes,White,M,,,Santa Barbara,California,Spring,Weekend,Regular Day,2014,5,23,Friday
-153,Kennesaw FedEx,2014-04-29,1,6,6,No,White,M,34.02529674,-84.61766831,Kennesaw,Georgia,Spring,Workweek,Regular Day,2014,4,29,Tuesday
-154,Fort Hood shooting 2,2014-04-03,3,12,15,Unknown,Latino,M,,,Fort Hood,Texas,Spring,Workweek,Regular Day,2014,4,3,Thursday
-155,Fort Hood,2014-04-02,4,16,19,Yes,Unknown,M,31.07925506,-97.73392317,Killeen,Texas,Spring,Workweek,Regular Day,2014,4,2,Wednesday
-156,San Francisco Tenderloin,2014-03-23,0,8,8,No,Black,M,37.75457839,-122.4424343,San Francisco,California,Spring,Weekend,Regular Day,2014,3,23,Sunday
-157,Cedarville Rancheria Tribe,2014-02-20,4,2,6,No,Native,F,41.4911123,-120.549091,Alturas,California,Winter,Workweek,Regular Day,2014,2,20,Thursday
-158,Centennial Hill Bar & Grill,2013-12-28,3,5,8,No,Black,M,32.34729571,-86.26730242,Montgomery,Alabama,Winter,Weekend,Regular Day,2013,12,28,Saturday
-159,Los Angeles International Airport (LAX),2013-11-01,1,3,4,No,White,M,34.17622092,-118.5399542,Los Angeles,California,Fall,Weekend,Regular Day,2013,11,1,Friday
-160,Sparks Middle School,2013-10-21,2,2,3,Unknown,Unknown,M,39.54058388,-119.748291,Sparks,Nevada,Fall,Workweek,Regular Day,2013,10,21,Monday
-161,Washington Navy Yard,2013-09-16,13,3,15,Yes,Black,M,38.90480894,-77.01629717,Washington,Washington,Summer,Workweek,Regular Day,2013,9,16,Monday
-162,Oklahoma City Residence,2013-08-14,4,0,4,Yes,White,M,35.46779189,-97.5191631,Oklahoma City,Oklahoma,Summer,Workweek,Regular Day,2013,8,14,Wednesday
-163,Homes in Desoto and Dallas,2013-08-07,4,4,8,Unknown,Black,M,32.79480596,-96.76631094,Dallas,Texas,Summer,Workweek,Regular Day,2013,8,7,Wednesday
-164,Ross Township Supervisor Council Meeting,2013-08-05,3,3,6,No,White,M,39.75344279,-79.08435956,Salisbury ,Pennsylvania,Summer,Workweek,Regular Day,2013,8,5,Monday
-165,Hialeah apartment shooting,2013-07-26,7,0,7,Unknown,Latino,M,25.867010500000006,-80.29146268,Hialeah,Florida,Summer,Weekend,Regular Day,2013,7,26,Friday
-166,Santa Monica College,2013-06-07,6,3,8,Yes,White,M,34.02319149,-118.4815644,Santa Monica,California,Spring,Weekend,Regular Day,2013,6,7,Friday
-167,Village of Manchester in Illinois,2013-04-24,7,1,7,Unknown,White,M,39.54231335,-90.33029852,Manchester,Illinois,Spring,Workweek,Regular Day,2013,4,24,Wednesday
-168,Pinewood Village Apartments,2013-04-21,5,0,4,Unknown,Black,M,47.30909721,-122.3357553,Federal Way,Washington,Spring,Weekend,Regular Day,2013,4,21,Sunday
-169,Mohawk and Herkimer Villages in New York,2013-03-13,5,2,6,No,White,M,43.0104011,-75.00751190000003,Mohawk,New York,Winter,Workweek,Regular Day,2013,3,13,Wednesday
-170,"Ladera Ranch, Santa Ana, Tustin and Orange",2013-02-19,4,3,6,Yes,White,M,33.54961059,-117.6415707,Ladera Ranch,California,Winter,Workweek,Regular Day,2013,2,19,Tuesday
-171,Los Angeles Police Department,2013-02-03,4,2,7,Yes,Black,M,33.67803464,-117.773628,Irvine,California,Winter,Weekend,Regular Day,2013,2,3,Sunday
-172,Phoenix Law Firm,2013-01-30,3,1,3,Unknown,White,M,33.57145875,-112.0904854,Phoenix,Arizona,Winter,Workweek,Regular Day,2013,1,30,Wednesday
-173,South Valley Residence,2013-01-19,5,0,5,Yes,Unknown,M,35.15290522,-106.7791378,"South Valley, Albuquerque",New Mexico,Winter,Weekend,Regular Day,2013,1,19,Saturday
-174,Sandy Hook Elementary School,2012-12-14,28,2,29,Yes,White,M,41.41190846,-73.31196267,Newtown,Connecticut,Fall,Weekend,Regular Day,2012,12,14,Friday
-175,Clackamas Town Center,2012-12-11,3,1,3,No,Unknown,M,45.44853107,-122.5440133,Happy Valley,Oregon,Fall,Workweek,Regular Day,2012,12,11,Tuesday
-176,Azana Spa in Brookfield,2012-10-21,4,4,7,No,Black,M,43.06396691,-88.12299758,Brookfield,Wisconsin,Fall,Weekend,Regular Day,2012,10,21,Sunday
-177,The Spot Nightclub,2012-09-28,0,15,15,Unknown,Black,M,25.79653943,-80.20840397,Miami,Florida,Fall,Weekend,Regular Day,2012,9,28,Friday
-178,Accent Signage Systems in Minneapolis,2012-09-27,7,2,8,Yes,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,Fall,Workweek,Regular Day,2012,9,27,Thursday
-179,Sikh Temple in Wisconsin,2012-08-05,7,4,10,No,White,M,42.88027442,-87.90087079,Oak Creek,Wisconsin,Summer,Weekend,Regular Day,2012,8,5,Sunday
-180,Aurora theater shooting,2012-07-20,12,70,82,Yes,White,M,39.709283,-104.823488,Aurora,Colorado,Summer,Weekend,Regular Day,2012,7,20,Friday
-181,University Heights Apartments in Auburn,2012-06-09,3,3,6,Unknown,Black,M,32.60598014,-85.48989253,Auburn,Alabama,Spring,Weekend,Regular Day,2012,6,9,Saturday
-182,Cafe in Seattle,2012-05-30,6,1,6,Yes,White,M,47.62199575,-122.323646,Seattle,Washington,Spring,Workweek,Regular Day,2012,5,30,Wednesday
-183,Seattle cafe shooting,2012-05-20,6,1,7,Yes,White,M,47.6038321,-122.3300624,Seattle,Washington,Spring,Weekend,Regular Day,2012,5,20,Sunday
-184,"North Tulsa, Oklahoma",2012-04-06,3,2,5,No,White,M,36.13543238,-95.91316117,Tulsa,Oklahoma,Spring,Weekend,Regular Day,2012,4,6,Friday
-185,Oikos University killings,2012-04-02,7,3,10,Yes,Asian,M,37.8043808,-122.2708166,Oakland,California,Spring,Workweek,Regular Day,2012,4,2,Monday
-186,Chardon High School,2012-02-27,3,3,6,Yes,White,M,41.58025541,-81.20812625,Chardon,Ohio,Winter,Workweek,Regular Day,2012,2,27,Monday
-187,Su Jung Health Sauna shooting,2012-02-22,5,0,5,Yes,Asian,M,33.9412127,-84.2135309,Norcross,Georgia,Winter,Workweek,Regular Day,2012,2,22,Wednesday
-188,Ensley Birmingham,2012-01-29,5,0,5,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,Winter,Weekend,Regular Day,2012,1,29,Sunday
-189,Salon Meritage,2011-10-12,8,1,9,Yes,White,M,33.75432632,-118.0715378,Seal Beach,California,Fall,Workweek,Regular Day,2011,10,12,Wednesday
-190,IHOP shooting,2011-09-06,5,7,12,Yes,Latino,M,39.1637984,-119.7674034,Carson City,Nevada,Summer,Workweek,Regular Day,2011,9,6,Tuesday
-191,Residences in Grand Rapids,2011-07-07,8,2,9,Yes,Black,M,42.96920434,-85.66008902,Grand Rapids,Michigan,Summer,Workweek,Regular Day,2011,7,7,Thursday
-192,Southern Union State Community College,2011-04-06,1,3,4,Yes,White,M,32.66240106,-85.37706931,Opelika,Alabama,Spring,Workweek,Regular Day,2011,4,6,Wednesday
-193,Youngstown State University,2011-02-06,1,11,12,Unknown,Black,M,41.09933958,-80.64631705,Youngstown,Ohio,Winter,Weekend,Regular Day,2011,2,6,Sunday
-194,Tucson shooting,2011-01-08,6,13,19,Yes,White,M,32.2217429,-110.926479,Tucson,Arizona,Winter,Weekend,Regular Day,2011,1,8,Saturday
-195,Hartford Beer Distributor shooting,2010-08-03,9,2,11,No,Black,M,41.7759324,-72.5214755,Manchester,Connecticut,Summer,Workweek,Regular Day,2010,8,3,Tuesday
-196,University of Alabama in Huntsville,2010-02-12,0,3,6,No,White,F,34.72827538,-86.67230550000002,Huntsville,Alabama,Winter,Weekend,Regular Day,2010,2,12,Friday
-197,Coffee shop police killings,2009-11-29,4,1,5,Yes,Black,M,47.155846,-122.437031,Parkland,Washington,Fall,Weekend,Regular Day,2009,11,29,Sunday
-198,Parkland Coffee Shop,2009-11-29,5,0,4,Yes,Black,M,47.16267579,-122.5296574,Lakewood,Washington,Fall,Weekend,Regular Day,2009,11,29,Sunday
-199,Fort Hood Army Base,2009-11-05,13,32,45,Yes,White,M,31.13814354,-97.77797804,Fort Hood,Texas,Fall,Workweek,Regular Day,2009,11,5,Thursday
-200,Binghamton shootings,2009-04-03,14,4,18,Yes,Asian,M,42.0986867,-75.9179738,Binghamton,New York,Spring,Weekend,Regular Day,2009,4,3,Friday
-201,Carthage nursing home shooting,2009-03-29,8,3,11,Yes,White,M,35.345802,-79.41705429999998,Carthage,North Carolina,Spring,Weekend,Regular Day,2009,3,29,Sunday
-202,"Rivermark, Santa Clara, California",2009-03-29,6,1,6,No,Asian,M,37.36463172,-121.9679315,Santa Clara,California,Spring,Weekend,Regular Day,2009,3,29,Sunday
-203,Pinelake Health and Rehab nursing home,2009-03-29,8,2,10,Yes,White,M,35.33985609,-79.41381725,Carthage,North Carolina,Spring,Weekend,Regular Day,2009,3,29,Sunday
-204,"Geneva County, Alabama",2009-03-10,11,6,16,No,White,M,31.04367594,-85.87634659999998,Geneva,Alabama,Winter,Workweek,Regular Day,2009,3,10,Tuesday
-205,"Covina, California",2008-12-24,10,2,11,No,White,M,34.09026669,-117.88199579999998,Covina,California,Winter,Workweek,Regular Day,2008,12,24,Wednesday
-206,University of Central Arkansas,2008-10-26,0,1,3,No,Black,M,35.08130744,-92.43278275,Conway,Arkansas,Fall,Weekend,Regular Day,2008,10,26,Sunday
-207,South Mountain Community College,2008-07-24,0,3,3,No,Black,M,33.57145875,-112.0904854,Phoenix,Arizona,Summer,Workweek,Regular Day,2008,7,24,Thursday
-208,Atlantis Plastics,2008-06-25,7,1,7,No,White,M,37.84040411,-87.57853755,Henderson,Kentucky,Summer,Workweek,Regular Day,2008,6,25,Wednesday
-209,Northern Illinois University shooting,2008-02-14,5,21,26,Yes,White,M,41.9294736,-88.7503647,DeKalb,Illinois,Winter,Workweek,Regular Day,2008,2,14,Thursday
-210,Kirkwood City Hall,2008-02-07,6,2,7,No,Black,M,38.57889169,-90.42023754,Kirkwood,Missouri,Winter,Workweek,Regular Day,2008,2,7,Thursday
-211,"Carnation, Washington",2007-12-24,6,0,6,No,White,Unknown,47.64628742,-121.9088524,Carnation,Washington,Winter,Workweek,Regular Day,2007,12,24,Monday
-212,Mojave High School Bus,2007-12-11,0,6,6,No,Black,M,36.18931923,-115.3264875,Las Vegas,Nevada,Fall,Workweek,Regular Day,2007,12,11,Tuesday
-213,Youth With A Mission and New Life Church,2007-12-09,5,5,9,No,White,M,39.81087474,-105.173715,Arvada,Colorado,Fall,Weekend,Regular Day,2007,12,9,Sunday
-214,Westroads Mall shooting,2007-12-05,9,4,13,Yes,White,M,41.25873170000001,-95.9378732,Omaha,Nebraska,Fall,Workweek,Regular Day,2007,12,5,Wednesday
-215,South Middle School Football Game,2007-10-25,0,4,4,No,Black,M,43.41929117,-83.95032759,Saginaw,Michigan,Fall,Workweek,Regular Day,2007,10,25,Thursday
-216,SuccessTech Academy,2007-10-11,1,4,4,Yes,White,M,41.47657557,-81.68051502,Cleveland,Ohio,Fall,Workweek,Regular Day,2007,10,11,Thursday
-217,Crandon shooting,2007-10-07,6,1,7,Unknown,White,M,45.57190720000001,-88.9028922,Crandon,Wisconsin,Fall,Weekend,Regular Day,2007,10,7,Sunday
-218,Virginia Tech massacre,2007-04-16,32,23,55,Yes,Asian,M,37.2295733,-80.4139393,Blacksburg,Virginia,Spring,Workweek,Regular Day,2007,4,16,Monday
-219,Springwater Trail High School,2007-04-10,0,10,10,No,Unknown,M,45.50216511,-122.4412759,Gresham,Oregon,Spring,Workweek,Regular Day,2007,4,10,Tuesday
-220,Trolley Square,2007-02-12,6,4,9,Unknown,White,M,40.77787404,-111.9312168,Salt Lake City,Utah,Winter,Workweek,Regular Day,2007,2,12,Monday
-221,Amish school shooting,2006-10-02,6,5,11,No,White,M,39.9589,-76.0806,Lancaster County,Pennsylvania,Fall,Workweek,Regular Day,2006,10,2,Monday
-222,West Nickel Mines Amish School,2006-10-02,6,5,10,Unknown,White,M,40.04214385,-76.30100872,"Nickel Mines, Lancaster",Pennsylvania,Fall,Workweek,Regular Day,2006,10,2,Monday
-223,Duquesne University,2006-09-17,0,5,5,Unknown,Black,M,40.43948548,-79.97631581,Pittsburgh,Pennsylvania,Summer,Weekend,Regular Day,2006,9,17,Sunday
-224,Orange High School,2006-08-30,1,2,3,Yes,Unknown,M,36.04099857,-79.09701201,Hillsborough,North Carolina,Summer,Workweek,Regular Day,2006,8,30,Wednesday
-225,Essex Elementary School,2006-08-24,2,2,4,Yes,Black,M,44.49022039,-73.11400628,Essex Junction,Vermont,Summer,Workweek,Regular Day,2006,8,24,Thursday
-226,Capitol Hill massacre,2006-03-25,7,2,9,No,White,M,47.6229,-122.3165,Seattle,Washington,Spring,Weekend,Regular Day,2006,3,25,Saturday
-227,Goleta Post Office,2006-01-30,8,0,7,Yes,White,F,34.43606107,-119.8593619,Goleta,California,Winter,Workweek,Regular Day,2006,1,30,Monday
-228,Red Lake High School,2005-03-21,10,5,14,Yes,Native,M,47.87067289,-95.00529009,Red Lake,Minnesota,Spring,Workweek,Regular Day,2005,3,21,Monday
-229,Living Church of God,2005-03-12,8,4,11,No,White,M,43.06396691,-88.12299758,Brookfield,Wisconsin,Winter,Weekend,Regular Day,2005,3,12,Saturday
-230,Tyler Courthouse,2005-02-24,3,4,6,Unknown,Unknown,M,32.3154272,-95.30501087,Tyler,Texas,Winter,Workweek,Regular Day,2005,2,24,Thursday
-231,Damageplan show at the Alrosa Villa Nightclub,2004-12-08,5,7,11,Yes,White,M,39.98861445,-82.98904135,Columbus,Ohio,Fall,Workweek,Regular Day,2004,12,8,Wednesday
-232,"Birchwood, Wisconsin",2004-11-21,6,2,8,No,Asian,M,45.65773714,-91.55077175,Birchwood,Wisconsin,Fall,Weekend,Regular Day,2004,11,21,Sunday
-233,Windy City Core Supply Warehouse,2003-08-27,7,0,6,No,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,Summer,Workweek,Regular Day,2003,8,27,Wednesday
-234,Lockheed Martin shooting,2003-07-08,7,8,15,Yes,White,M,32.376081,-88.68978002,Meridian,Mississippi,Summer,Workweek,Regular Day,2003,7,8,Tuesday
-235,Case Western Reserve University,2003-05-09,1,2,3,No,Asian,M,41.47657557,-81.68051502,Cleveland,Ohio,Spring,Weekend,Regular Day,2003,5,9,Friday
-236,University of Arizona College of Nursing,2002-10-28,4,0,3,No,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,Fall,Workweek,Regular Day,2002,10,28,Monday
-237,Appalachian School of Law,2002-01-16,3,3,6,No,Black,M,37.27537712,-82.09877234,Grundy,Virginia,Winter,Workweek,Regular Day,2002,1,16,Wednesday
-238,Santana High School,2001-03-05,2,13,15,No,White,M,32.86357277,-117.1281628,"Santee, San Diego",California,Winter,Workweek,Regular Day,2001,3,5,Monday
-239,Navistar International,2001-02-05,6,4,9,No,Black,M,41.90289602,-87.86430209999997,Melrose Park,Illinois,Winter,Workweek,Regular Day,2001,2,5,Monday
-240,Wakefield massacre,2000-12-26,7,0,7,Yes,White,M,42.506484,-71.0728306,Wakefield,Massachusetts,Winter,Workweek,Regular Day,2000,12,26,Tuesday
-241,Radisson Bay Harbor Inn,1999-12-30,5,3,8,No,Unknown,M,27.99601861,-82.44503769,Tampa,Florida,Winter,Workweek,Regular Day,1999,12,30,Thursday
-242,Fort Gibson Middle School,1999-12-06,0,4,4,No,White,M,35.77669911,-95.25996596,Fort Gibson,Oklahoma,Fall,Workweek,Regular Day,1999,12,6,Monday
-243,Xerox killings,1999-11-02,7,0,7,Yes,Asian,M,21.3255125,-157.8473055,Honolulu,Hawaii,Fall,Workweek,Regular Day,1999,11,2,Tuesday
-244,Wedgwood Baptist Church,1999-09-15,8,7,14,Yes,White,M,32.74802142,-97.31305148,Fort Worth,Texas,Summer,Workweek,Regular Day,1999,9,15,Wednesday
-245,Offices of All-Tech Investment Group and Momentum Securities,1999-07-29,10,12,21,Yes,White,M,33.7629969,-84.4231328,Atlanta,Georgia,Summer,Workweek,Regular Day,1999,7,29,Thursday
-246,Heritage High School,1999-05-20,0,6,6,No,White,M,33.66086267,-84.02688527,Conyers,Georgia,Spring,Workweek,Regular Day,1999,5,20,Thursday
-247,Columbine High School,1999-04-20,15,24,37,Yes,White,M,39.59358263,-105.0152112,Littleton,Colorado,Spring,Workweek,Regular Day,1999,4,20,Tuesday
-248,Riverside City Hall,1998-10-06,0,6,6,No,Black,M,33.93814348,-117.3948409,Riverside,California,Fall,Workweek,Regular Day,1998,10,6,Tuesday
-249,Thurston High School,1998-05-21,4,25,29,Yes,White,M,44.05489698,-123.0075562,Springfield,Oregon,Spring,Workweek,Regular Day,1998,5,21,Thursday
-250,Parker Middle School Dance,1998-04-24,1,3,4,Yes,White,M,41.87617136,-80.12459632,Edinboro,Pennsylvania,Spring,Weekend,Regular Day,1998,4,24,Friday
-251,Westside Middle School killings,1998-03-24,5,10,15,No,White,M,35.8209895,-90.6682606,Jonesboro,Arkansas,Spring,Workweek,Regular Day,1998,3,24,Tuesday
-252,Connecticut State Lottery Headquarters,1998-03-06,5,0,4,Yes,White,M,41.68700845,-72.73083927,Newington,Connecticut,Winter,Weekend,Regular Day,1998,3,6,Friday
-253,Milwaukee Post Office,1997-12-19,2,2,3,No,Black,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,Fall,Weekend,Regular Day,1997,12,19,Friday
-254,Caltrans Maintenance Yard,1997-12-18,5,2,6,No,Unknown,M,33.78935598,-117.820412,Orange,California,Fall,Workweek,Regular Day,1997,12,18,Thursday
-255,Heath High School,1997-12-01,3,5,8,Yes,White,M,37.08506,-88.74422,West Paducah,Kentucky,Fall,Workweek,Regular Day,1997,12,1,Monday
-256,Pearl High School,1997-10-01,2,7,9,Yes,White,M,32.27492783,-90.09470655,Pearl,Mississippi,Fall,Workweek,Regular Day,1997,10,1,Wednesday
-257,R.E. Phelon Company,1997-09-15,4,3,7,No,Black,M,33.47524551,-81.72595949,Aiken,South Carolina,Summer,Workweek,Regular Day,1997,9,15,Monday
-258,Bethel Regional High School,1997-02-19,2,2,4,Yes,White,M,60.79053882,-161.7927517,Bethel,Alaska,Winter,Workweek,Regular Day,1997,2,19,Wednesday
-259,San Diego State University,1996-08-15,3,0,3,No,White,M,32.86357277,-117.1281628,San Diego,California,Summer,Workweek,Regular Day,1996,8,15,Thursday
-260,Fort Lauderdale revenge shooting,1996-02-09,6,1,7,Yes,Black,M,26.1223084,-80.14337859999998,Fort Lauderdale,Florida,Winter,Weekend,Regular Day,1996,2,9,Friday
-261,Frontier Junior High School,1996-02-02,3,1,4,Yes,White,M,47.12189424,-119.2750699,Moses Lake,Washington,Winter,Weekend,Regular Day,1996,2,2,Friday
-262,Richland High School,1995-11-15,2,1,3,Yes,White,M,35.37810374,-87.00610559,Lynnville,Tennessee,Fall,Workweek,Regular Day,1995,11,15,Wednesday
-263,Walter Rossler Company,1995-04-03,6,0,5,No,Unknown,M,27.73907518,-97.43073352,Corpus Christi,Texas,Spring,Workweek,Regular Day,1995,4,3,Monday
-264,Montclair Post Office,1995-03-21,4,1,5,No,White,M,40.82618400000001,-74.20862,Montclair,New Jersey,Spring,Workweek,Regular Day,1995,3,21,Tuesday
-265,Downtown Chapel Hill,1995-01-26,2,2,4,Yes,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,Winter,Workweek,Regular Day,1995,1,26,Thursday
-266,Massachusetts Abortion Clinic,1994-12-30,2,5,7,Yes,White,M,42.32427392,-71.14080012,Brookline,Massachusetts,Winter,Weekend,Regular Day,1994,12,30,Friday
-267,Wickliffe Middle School,1994-11-07,1,3,4,Yes,White,M,41.60713735,-81.46902046,Wickliffe,Ohio,Fall,Workweek,Regular Day,1994,11,7,Monday
-268,Fairchild Air Force Base Hospital,1994-06-20,5,23,27,Yes,White,M,47.618456,-117.644099,Fairchild Air Force Base,Washington,Spring,Workweek,Regular Day,1994,6,20,Monday
-269,"Residence in Union, Kentucky",1994-05-26,4,0,4,No,White,M,38.95130818,-84.67066339,Union,Kentucky,Spring,Workweek,Regular Day,1994,5,26,Thursday
-270,Chelsea High School,1993-12-16,1,2,3,Yes,White,M,42.31319376,-84.01868108,Chelsea,Michigan,Fall,Workweek,Regular Day,1993,12,16,Thursday
-271,Chuck E. Cheese in Aurora,1993-12-14,4,1,5,Yes,Black,M,39.69892933,-104.7871863,Aurora,Colorado,Fall,Workweek,Regular Day,1993,12,14,Tuesday
-272,Long Island Rail Road Commuter Train,1993-12-07,6,19,25,No,Black,M,40.72662266,-73.644712,Garden City,New York,Fall,Workweek,Regular Day,1993,12,7,Tuesday
-273,Central Middle School,1993-09-17,1,4,4,No,White,M,44.79051074,-106.9599165,Sheridan,Wyoming,Summer,Weekend,Regular Day,1993,9,17,Friday
-274,Luigi's Restaurant in Fayetteville,1993-08-06,4,8,12,No,White,M,35.07997086,-79.03796125,Fayetteville,North Carolina,Summer,Weekend,Regular Day,1993,8,6,Friday
-275,Weber State University,1993-07-08,1,3,3,No,Asian,M,41.2281367,-111.9675317,Ogden,Utah,Summer,Workweek,Regular Day,1993,7,8,Thursday
-276,Offices of Pettit & Martin in San Francisco,1993-07-01,9,6,14,No,White,M,37.75457839,-122.4424343,San Francisco,California,Summer,Workweek,Regular Day,1993,7,1,Thursday
-277,Dearborn Post Office,1993-05-06,2,2,3,Unknown,Unknown,M,42.31269522,-83.21293244,Dearborn,Michigan,Spring,Workweek,Regular Day,1993,5,6,Thursday
-278,Dana Point Post Office,1993-05-06,1,5,6,Yes,White,M,33.47316083,-117.696399,Dana Point,California,Spring,Workweek,Regular Day,1993,5,6,Thursday
-279,Simon's Rock College of Bard,1992-12-14,2,4,6,No,Asian,M,42.19358268,-73.36216339,Great Barrington,Massachusetts,Fall,Workweek,Regular Day,1992,12,14,Monday
-280,Schuyler County Office Building,1992-10-15,5,0,4,No,White,M,42.38013875,-76.86724659,Watkins Glen,New York,Fall,Workweek,Regular Day,1992,10,15,Thursday
-281,Palo Duro High School,1992-09-11,0,6,6,Unknown,Unknown,M,35.18322484,-101.8805688,Amarillo,Texas,Summer,Weekend,Regular Day,1992,9,11,Friday
-282,Lindhurst High School,1992-05-01,4,10,14,Yes,White,M,39.08174985,-121.55495390000002,Olivehurst,California,Spring,Weekend,Regular Day,1992,5,1,Friday
-283,Royal Oak Post Office,1991-11-14,5,5,9,Yes,White,M,42.50840203,-83.15387427,Royal Oak,Michigan,Fall,Workweek,Regular Day,1991,11,14,Thursday
-284,University of Iowa,1991-11-01,6,1,6,No,Asian,M,41.65589405,-91.53117986,Iowa City,Iowa,Fall,Weekend,Regular Day,1991,11,1,Friday
-285,"Luby's Cafeteria in Killeen, Texas",1991-10-16,24,20,43,Yes,White,M,31.07925506,-97.73392317,Killeen,Texas,Fall,Workweek,Regular Day,1991,10,16,Wednesday
-286,Ridgewood Post Office,1991-10-10,3,0,3,Yes,Black,M,40.98213277,-74.11264731,Ridgewood,New Jersey,Fall,Workweek,Regular Day,1991,10,10,Thursday
-287,Wat Promkunaram Buddhist Temple,1991-08-09,9,0,9,No,Asian,M,33.57145875,-112.0904854,Phoenix,Arizona,Summer,Weekend,Regular Day,1991,8,9,Friday
-288,GMAC Loan Office,1990-06-17,12,6,17,No,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,Spring,Weekend,Regular Day,1990,6,17,Sunday
-289,Standard Gravure Corporation,1989-09-14,9,12,20,Yes,White,M,38.249432,-85.72624300000003,Louisville,Kentucky,Summer,Workweek,Regular Day,1989,9,14,Thursday
-290,Orange Glenn Post Office,1989-08-10,4,1,4,No,White,M,33.13439925,-117.0722528,Escondido,California,Summer,Workweek,Regular Day,1989,8,10,Thursday
-291,Cleveland Elementary School,1989-01-17,6,30,35,Yes,White,M,37.96631812,-121.3018775,Stockton,California,Winter,Workweek,Regular Day,1989,1,17,Tuesday
-292,New Orleans Downtown Post Office,1988-12-14,0,4,4,Unknown,Unknown,M,30.0687242,-89.93147412,New Orleans,Louisiana,Fall,Workweek,Regular Day,1988,12,14,Wednesday
-293,Oakland Elementary School,1988-09-26,2,9,11,Yes,White,M,34.1928952,-82.15355508,Greenwood,South Carolina,Fall,Workweek,Regular Day,1988,9,26,Monday
-294,Comet Auto Parts and Montefiore School,1988-09-22,5,2,6,No,Black,M,41.83928045,-87.68818145,Chicago,Illinois,Fall,Workweek,Regular Day,1988,9,22,Thursday
-295,Hubbard Woods Elementary School,1988-05-20,2,7,8,Yes,White,F,42.10648807,-87.74211141,Winnetka,Illinois,Spring,Weekend,Regular Day,1988,5,20,Friday
-296,Electromagnetic Systems Laboratory (ESL),1988-02-16,7,4,11,Yes,White,M,37.38344257,-122.0256185,Sunnyvale,California,Winter,Workweek,Regular Day,1988,2,16,Tuesday
-297,Pinellas Park High School,1988-02-11,1,2,3,No,White,M,27.84887061,-82.71058000000002,Pinellas Park,Florida,Winter,Workweek,Regular Day,1988,2,11,Thursday
-298,Palm Bay Shopping Centers,1987-04-23,6,14,20,Yes,White,M,27.98388983,-80.66662713,Palm Bay,Florida,Spring,Workweek,Regular Day,1987,4,23,Thursday
-299,Fergus County High School,1986-12-04,1,3,4,Yes,White,M,47.03740653,-109.4844918,Lewistown,Montana,Fall,Workweek,Regular Day,1986,12,4,Thursday
-300,"Post office in Edmond, Oklahoma",1986-08-20,15,6,20,Yes,White,M,35.66889223,-97.41438792,Edmond,Oklahoma,Summer,Workweek,Regular Day,1986,8,20,Wednesday
-301,New York Technical College,1986-08-12,1,4,5,Yes,Black,M,40.679276,-73.939513,Brooklyn,New York,Summer,Workweek,Regular Day,1986,8,12,Tuesday
-302,Atlanta Post Office,1985-03-06,2,1,3,Yes,Black,M,33.7629969,-84.4231328,Atlanta,Georgia,Winter,Workweek,Regular Day,1985,3,6,Wednesday
-303,Goddard Junior High School,1985-01-21,1,3,4,Yes,White,M,37.67129418,-97.55070476,Goddard,Kansas,Winter,Workweek,Regular Day,1985,1,21,Monday
-304,McDonald's restaurant in San Ysidro,1984-07-18,22,19,40,Yes,White,M,32.555556,-117.047656,San Ysidro,California,Summer,Workweek,Regular Day,1984,7,18,Wednesday
-305,Ianni's Club in Dallas,1984-06-29,6,1,7,Yes,White,M,32.79480596,-96.76631094,Dallas,Texas,Summer,Weekend,Regular Day,1984,6,29,Friday
-306,49th Street Elementary School,1984-02-24,3,12,14,Yes,Black,M,34.17622092,-118.5399542,Los Angeles,California,Winter,Weekend,Regular Day,1984,2,24,Friday
-307,Johnston Post Office,1983-08-19,1,3,4,Yes,White,M,33.83272887,-81.8051584,Johnston,South Carolina,Summer,Weekend,Regular Day,1983,8,19,Friday
-308,Wah Mee Club in Seattle,1983-02-18,13,1,14,Unknown,Asian,M,47.62199575,-122.323646,Seattle,Washington,Winter,Weekend,Regular Day,1983,2,18,Friday
-309,Welding shop in Miami,1982-08-20,9,3,11,Yes,White,M,25.79653943,-80.20840397,Miami,Florida,Summer,Weekend,Regular Day,1982,8,20,Friday
-310,Valley High School,1982-03-19,1,2,3,Yes,White,M,36.18931923,-115.3264875,Las Vegas,Nevada,Winter,Weekend,Regular Day,1982,3,19,Friday
-311,University of South Carolina,1979-10-06,2,5,7,Unknown,Black,M,34.05098834,-80.82077527,Columbia,South Carolina,Fall,Weekend,Regular Day,1979,10,6,Saturday
-312,Grover Cleveland Elementary School,1979-01-29,2,9,11,Yes,White,F,32.86357277,-117.1281628,San Diego,California,Winter,Workweek,Regular Day,1979,1,29,Monday
-313,Cal State Fullerton,1976-07-12,7,2,9,Yes,White,M,33.88404244,-117.92785,Fullerton,California,Summer,Workweek,Regular Day,1976,7,12,Monday
-314,Los Angeles Computer Learning Center,1976-02-19,1,7,8,Unknown,White,M,34.17622092,-118.5399542,Los Angeles,California,Winter,Workweek,Regular Day,1976,2,19,Thursday
-315,Olean High School,1974-12-30,3,7,10,No,White,M,42.08185369,-78.43213922,Olean,New York,Winter,Workweek,Regular Day,1974,12,30,Monday
-316,Clara Barton Elementary School,1974-01-17,1,3,4,Yes,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,Winter,Workweek,Regular Day,1974,1,17,Thursday
-317,New Orleans Police Shootings,1972-12-31,10,13,22,Yes,Black,M,30.0687242,-89.93147412,New Orleans,Louisiana,Winter,Weekend,Regular Day,1972,12,31,Sunday
-318,St. Aloysius Church,1971-11-11,2,4,5,Yes,White,M,47.67367375,-117.4159843,Spokane,Washington,Fall,Workweek,Holiday,1971,11,11,Thursday
-319,Rose-Mar College of Beauty,1966-11-12,5,1,6,Yes,White,M,33.42268696,-111.8163202,Mesa,Arizona,Fall,Weekend,Regular Day,1966,11,12,Saturday
-320,University of Texas at Austin,1966-08-01,17,32,48,Yes,White,M,30.198887300000006,-97.84415949,Austin,Texas,Summer,Workweek,Regular Day,1966,8,1,Monday
+S#,Title,Date,Fatalities,Injured,Total victims,Mental Health Issues,Race,Gender,Latitude,Longitude,Cities,State,Gun law,Party affiliation,Season,DayType,Holiday,Year,Month,Day,Weekday
+1,Las Vegas Strip mass shooting,2017-10-01,58,527,585,Unknown,White,M,36.181271,-115.134132,Las Vegas,Nevada,C,Democrat,Fall,Weekend,Regular Day,2017,10,1,Sunday
+150,Nellis Plaza,2014-06-08,5,0,3,No,White,Unknown,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat,Spring,Weekend,Regular Day,2014,6,8,Sunday
+160,Sparks Middle School,2013-10-21,2,2,3,Unknown,Unknown,M,39.54058388,-119.748291,Sparks,Nevada,C,Democrat,Fall,Workweek,Regular Day,2013,10,21,Monday
+190,IHOP shooting,2011-09-06,5,7,12,Yes,Latino,M,39.1637984,-119.7674034,Carson City,Nevada,C,Democrat,Summer,Workweek,Regular Day,2011,9,6,Tuesday
+212,Mojave High School Bus,2007-12-11,0,6,6,No,Black,M,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat,Fall,Workweek,Regular Day,2007,12,11,Tuesday
+310,Valley High School,1982-03-19,1,2,3,Yes,White,M,36.18931923,-115.3264875,Las Vegas,Nevada,C,Democrat,Winter,Weekend,Regular Day,1982,3,19,Friday
+2,San Francisco UPS shooting,2017-06-14,3,2,5,Yes,Asian,M,,,San Francisco,California,A,Democrat,Spring,Workweek,Regular Day,2017,6,14,Wednesday
+6,Fresno downtown shooting,2017-04-18,3,0,3,Unknown,Black,M,,,Fresno,California,A,Democrat,Spring,Workweek,Regular Day,2017,4,18,Tuesday
+19,Long Beach Street murder,2016-04-18,0,3,4,Unknown,Unknown,Unknown,33.77005,-118.193739,,California,A,Democrat,Spring,Workweek,Regular Day,2016,4,18,Monday
+46,Riverside restaurant shooting,2016-02-28,1,3,4,Unknown,Unknown,M,33.997197,-117.48548,,California,A,Democrat,Winter,Weekend,Regular Day,2016,2,28,Sunday
+59,"Vallejo, CA car shooting",2016-02-19,2,2,4,Unknown,Unknown,Unknown,38.104086,-122.256637,,California,A,Democrat,Winter,Weekend,Regular Day,2016,2,19,Friday
+72,Los Angeles Drive-by,2016-01-23,2,2,4,Unknown,Unknown,Unknown,34.05223400000001,-118.243685,,California,A,Democrat,Winter,Weekend,Regular Day,2016,1,23,Saturday
+78,San Bernardino mass shooting,2015-12-02,14,21,35,Unknown,Unknown,Unknown,,,San Bernardino,California,A,Democrat,Fall,Workweek,Regular Day,2015,12,2,Wednesday
+79,"San Bernardino, California",2015-12-02,16,21,35,Unknown,Asian,Unknown,34.13973446,-117.2942444,San Bernardino,California,A,Democrat,Fall,Workweek,Regular Day,2015,12,2,Wednesday
+152,Isla Vista mass murder,2014-05-23,6,13,19,Yes,White,M,,,Santa Barbara,California,A,Democrat,Spring,Weekend,Regular Day,2014,5,23,Friday
+156,San Francisco Tenderloin,2014-03-23,0,8,8,No,Black,M,37.75457839,-122.4424343,San Francisco,California,A,Democrat,Spring,Weekend,Regular Day,2014,3,23,Sunday
+157,Cedarville Rancheria Tribe,2014-02-20,4,2,6,No,Native,F,41.4911123,-120.549091,Alturas,California,A,Democrat,Winter,Workweek,Regular Day,2014,2,20,Thursday
+159,Los Angeles International Airport (LAX),2013-11-01,1,3,4,No,White,M,34.17622092,-118.5399542,Los Angeles,California,A,Democrat,Fall,Weekend,Regular Day,2013,11,1,Friday
+166,Santa Monica College,2013-06-07,6,3,8,Yes,White,M,34.02319149,-118.4815644,Santa Monica,California,A,Democrat,Spring,Weekend,Regular Day,2013,6,7,Friday
+170,"Ladera Ranch, Santa Ana, Tustin and Orange",2013-02-19,4,3,6,Yes,White,M,33.54961059,-117.6415707,Ladera Ranch,California,A,Democrat,Winter,Workweek,Regular Day,2013,2,19,Tuesday
+171,Los Angeles Police Department,2013-02-03,4,2,7,Yes,Black,M,33.67803464,-117.773628,Irvine,California,A,Democrat,Winter,Weekend,Regular Day,2013,2,3,Sunday
+185,Oikos University killings,2012-04-02,7,3,10,Yes,Asian,M,37.8043808,-122.2708166,Oakland,California,A,Democrat,Spring,Workweek,Regular Day,2012,4,2,Monday
+189,Salon Meritage,2011-10-12,8,1,9,Yes,White,M,33.75432632,-118.0715378,Seal Beach,California,A,Democrat,Fall,Workweek,Regular Day,2011,10,12,Wednesday
+202,"Rivermark, Santa Clara, California",2009-03-29,6,1,6,No,Asian,M,37.36463172,-121.9679315,Santa Clara,California,A,Democrat,Spring,Weekend,Regular Day,2009,3,29,Sunday
+205,"Covina, California",2008-12-24,10,2,11,No,White,M,34.09026669,-117.88199579999998,Covina,California,A,Democrat,Winter,Workweek,Regular Day,2008,12,24,Wednesday
+227,Goleta Post Office,2006-01-30,8,0,7,Yes,White,F,34.43606107,-119.8593619,Goleta,California,A,Democrat,Winter,Workweek,Regular Day,2006,1,30,Monday
+238,Santana High School,2001-03-05,2,13,15,No,White,M,32.86357277,-117.1281628,"Santee, San Diego",California,A,Democrat,Winter,Workweek,Regular Day,2001,3,5,Monday
+248,Riverside City Hall,1998-10-06,0,6,6,No,Black,M,33.93814348,-117.3948409,Riverside,California,A,Democrat,Fall,Workweek,Regular Day,1998,10,6,Tuesday
+254,Caltrans Maintenance Yard,1997-12-18,5,2,6,No,Unknown,M,33.78935598,-117.820412,Orange,California,A,Democrat,Fall,Workweek,Regular Day,1997,12,18,Thursday
+259,San Diego State University,1996-08-15,3,0,3,No,White,M,32.86357277,-117.1281628,San Diego,California,A,Democrat,Summer,Workweek,Regular Day,1996,8,15,Thursday
+276,Offices of Pettit & Martin in San Francisco,1993-07-01,9,6,14,No,White,M,37.75457839,-122.4424343,San Francisco,California,A,Democrat,Summer,Workweek,Regular Day,1993,7,1,Thursday
+278,Dana Point Post Office,1993-05-06,1,5,6,Yes,White,M,33.47316083,-117.696399,Dana Point,California,A,Democrat,Spring,Workweek,Regular Day,1993,5,6,Thursday
+282,Lindhurst High School,1992-05-01,4,10,14,Yes,White,M,39.08174985,-121.55495390000002,Olivehurst,California,A,Democrat,Spring,Weekend,Regular Day,1992,5,1,Friday
+290,Orange Glenn Post Office,1989-08-10,4,1,4,No,White,M,33.13439925,-117.0722528,Escondido,California,A,Democrat,Summer,Workweek,Regular Day,1989,8,10,Thursday
+291,Cleveland Elementary School,1989-01-17,6,30,35,Yes,White,M,37.96631812,-121.3018775,Stockton,California,A,Democrat,Winter,Workweek,Regular Day,1989,1,17,Tuesday
+296,Electromagnetic Systems Laboratory (ESL),1988-02-16,7,4,11,Yes,White,M,37.38344257,-122.0256185,Sunnyvale,California,A,Democrat,Winter,Workweek,Regular Day,1988,2,16,Tuesday
+304,McDonald's restaurant in San Ysidro,1984-07-18,22,19,40,Yes,White,M,32.555556,-117.047656,San Ysidro,California,A,Democrat,Summer,Workweek,Regular Day,1984,7,18,Wednesday
+306,49th Street Elementary School,1984-02-24,3,12,14,Yes,Black,M,34.17622092,-118.5399542,Los Angeles,California,A,Democrat,Winter,Weekend,Regular Day,1984,2,24,Friday
+312,Grover Cleveland Elementary School,1979-01-29,2,9,11,Yes,White,F,32.86357277,-117.1281628,San Diego,California,A,Democrat,Winter,Workweek,Regular Day,1979,1,29,Monday
+313,Cal State Fullerton,1976-07-12,7,2,9,Yes,White,M,33.88404244,-117.92785,Fullerton,California,A,Democrat,Summer,Workweek,Regular Day,1976,7,12,Monday
+314,Los Angeles Computer Learning Center,1976-02-19,1,7,8,Unknown,White,M,34.17622092,-118.5399542,Los Angeles,California,A,Democrat,Winter,Workweek,Regular Day,1976,2,19,Thursday
+3,Pennsylvania supermarket shooting,2017-06-07,3,0,3,Unknown,White,M,,,Tunkhannock,Pennsylvania,C,Democrat,Spring,Workweek,Regular Day,2017,6,7,Wednesday
+37,"Pittsburgh, Pennsylvania",2016-03-09,6,3,9,Unknown,Unknown,M,40.440625,-79.995886,Pittsburgh,Pennsylvania,C,Democrat,Winter,Workweek,Regular Day,2016,3,9,Wednesday
+38,Wilkinsburg BBQ cookout shootout,2016-03-09,5,3,8,Unknown,Unknown,M,40.441736,-79.88199399999998,,Pennsylvania,C,Democrat,Winter,Workweek,Regular Day,2016,3,9,Wednesday
+135,Monroeville Macy's,2015-02-07,0,3,3,No,Black,M,40.42574550000001,-79.76092565,Monroeville,Pennsylvania,C,Democrat,Winter,Weekend,Regular Day,2015,2,7,Saturday
+144,"Pennsburg, Souderton, Lansdale, Harleysville",2014-12-15,7,1,7,Yes,White,M,40.39359306,-75.49640881,"Pennsburg, Souderton, Lansdale, Harleysville",Pennsylvania,C,Democrat,Fall,Workweek,Regular Day,2014,12,15,Monday
+164,Ross Township Supervisor Council Meeting,2013-08-05,3,3,6,No,White,M,39.75344279,-79.08435956,Salisbury ,Pennsylvania,C,Democrat,Summer,Workweek,Regular Day,2013,8,5,Monday
+221,Amish school shooting,2006-10-02,6,5,11,No,White,M,39.9589,-76.0806,Lancaster County,Pennsylvania,C,Democrat,Fall,Workweek,Regular Day,2006,10,2,Monday
+222,West Nickel Mines Amish School,2006-10-02,6,5,10,Unknown,White,M,40.04214385,-76.30100872,"Nickel Mines, Lancaster",Pennsylvania,C,Democrat,Fall,Workweek,Regular Day,2006,10,2,Monday
+223,Duquesne University,2006-09-17,0,5,5,Unknown,Black,M,40.43948548,-79.97631581,Pittsburgh,Pennsylvania,C,Democrat,Summer,Weekend,Regular Day,2006,9,17,Sunday
+250,Parker Middle School Dance,1998-04-24,1,3,4,Yes,White,M,41.87617136,-80.12459632,Edinboro,Pennsylvania,C,Democrat,Spring,Weekend,Regular Day,1998,4,24,Friday
+4,Florida awning manufacturer shooting,2017-06-05,5,0,5,Unknown,Unknown,M,,,Orlando,Florida,F,Democrat,Spring,Workweek,Regular Day,2017,6,5,Monday
+7,Fort Lauderdale airport shooting,2017-01-06,5,6,11,Yes,Latino,M,,,Fort Lauderdale,Florida,F,Democrat,Winter,Weekend,Regular Day,2017,1,6,Friday
+11,Orlando nightclub massacre,2016-06-12,49,53,102,Unknown,Unknown,M,,,Orlando,Florida,F,Democrat,Spring,Weekend,Regular Day,2016,6,12,Sunday
+30,"Plantation, Florida",2016-03-19,1,4,5,Unknown,Unknown,Unknown,26.127586,-80.233104,Plantation,Florida,F,Democrat,Spring,Weekend,Regular Day,2016,3,19,Saturday
+33,Florida Family celebration ends in shooting,2016-03-13,0,4,4,Unknown,Unknown,Unknown,26.640628000000003,-81.87230799999998,,Florida,F,Democrat,Winter,Weekend,Regular Day,2016,3,13,Sunday
+57,Florida Hookah Bar Shooting,2016-02-20,1,3,4,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,F,Democrat,Winter,Weekend,Regular Day,2016,2,20,Saturday
+61,"Orlando, Florida",2016-02-07,2,10,12,Unknown,Unknown,M,28.4541,-81.4646,Orlando,Florida,F,Democrat,Winter,Weekend,Regular Day,2016,2,7,Sunday
+63,"Tampa, FL Strip club shooting",2016-02-06,2,6,8,Unknown,Unknown,Unknown,27.950575,-82.457178,,Florida,F,Democrat,Winter,Weekend,Regular Day,2016,2,6,Saturday
+71,Florida family murder,2016-01-23,3,0,3,Unknown,White,M,30.754181,-86.572799,,Florida,F,Democrat,Winter,Weekend,Regular Day,2016,1,23,Saturday
+76,"Residence in Lakeland, Florida",2016-01-06,3,1,4,Unknown,Black,M,28.039465000000003,-81.949804,,Florida,F,Democrat,Winter,Workweek,Regular Day,2016,1,6,Wednesday
+84,"Jacksonville, Florida",2015-11-13,4,1,4,Unknown,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,F,Democrat,Fall,Weekend,Regular Day,2015,11,13,Friday
+91,"Inglis, Florida",2015-10-01,3,1,3,Unknown,White,M,29.03270634,-82.65919302,Inglis,Florida,F,Democrat,Fall,Workweek,Regular Day,2015,10,1,Thursday
+105,Miami Gardens,2015-06-16,0,4,4,Unknown,Black,M,25.94326707,-80.24253243,Miami Gardens,Florida,F,Democrat,Spring,Workweek,Regular Day,2015,6,16,Tuesday
+120,Daytona Beach,2015-04-03,0,4,4,No,Black,M,29.19313443,-81.10173014,Daytona Beach,Florida,F,Democrat,Spring,Weekend,Regular Day,2015,4,3,Friday
+122,Panama City Beach,2015-03-28,0,7,7,No,Black,M,30.22540212,-85.87371301,Panama City Beach,Florida,F,Democrat,Spring,Weekend,Regular Day,2015,3,28,Saturday
+134,Moon Lake,2015-02-09,3,1,4,No,White,Unknown,28.24653304,-82.71690259,New Port Richey,Florida,F,Democrat,Winter,Workweek,Regular Day,2015,2,9,Monday
+146,Florida State University,2014-11-19,1,3,3,Yes,Black,M,30.4549394,-84.25264151,Tallahassee,Florida,F,Democrat,Fall,Workweek,Regular Day,2014,11,19,Wednesday
+165,Hialeah apartment shooting,2013-07-26,7,0,7,Unknown,Latino,M,25.867010500000006,-80.29146268,Hialeah,Florida,F,Democrat,Summer,Weekend,Regular Day,2013,7,26,Friday
+177,The Spot Nightclub,2012-09-28,0,15,15,Unknown,Black,M,25.79653943,-80.20840397,Miami,Florida,F,Democrat,Fall,Weekend,Regular Day,2012,9,28,Friday
+241,Radisson Bay Harbor Inn,1999-12-30,5,3,8,No,Unknown,M,27.99601861,-82.44503769,Tampa,Florida,F,Democrat,Winter,Workweek,Regular Day,1999,12,30,Thursday
+260,Fort Lauderdale revenge shooting,1996-02-09,6,1,7,Yes,Black,M,26.1223084,-80.14337859999998,Fort Lauderdale,Florida,F,Democrat,Winter,Weekend,Regular Day,1996,2,9,Friday
+288,GMAC Loan Office,1990-06-17,12,6,17,No,Black,M,30.33216122,-81.67576993,Jacksonville,Florida,F,Democrat,Spring,Weekend,Regular Day,1990,6,17,Sunday
+297,Pinellas Park High School,1988-02-11,1,2,3,No,White,M,27.84887061,-82.71058000000002,Pinellas Park,Florida,F,Democrat,Winter,Workweek,Regular Day,1988,2,11,Thursday
+298,Palm Bay Shopping Centers,1987-04-23,6,14,20,Yes,White,M,27.98388983,-80.66662713,Palm Bay,Florida,F,Democrat,Spring,Workweek,Regular Day,1987,4,23,Thursday
+309,Welding shop in Miami,1982-08-20,9,3,11,Yes,White,M,25.79653943,-80.20840397,Miami,Florida,F,Democrat,Summer,Weekend,Regular Day,1982,8,20,Friday
+5,Rural Ohio nursing home shooting,2017-05-12,3,0,3,Yes,White,M,,,Kirkersville,Ohio,D,Republican,Spring,Weekend,Regular Day,2017,5,12,Friday
+81,"Columbus, Ohio",2015-11-23,4,1,4,Unknown,White,M,39.98861445,-82.98904135,Columbus,Ohio,D,Republican,Fall,Workweek,Regular Day,2015,11,23,Monday
+88,"Colerain Township, Ohio",2015-10-21,2,1,3,Unknown,White,M,39.253268,-84.599655,Colerain Township,Ohio,D,Republican,Fall,Workweek,Regular Day,2015,10,21,Wednesday
+108,Cleveland,2015-05-31,3,1,3,Unknown,Unknown,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican,Spring,Weekend,Regular Day,2015,5,31,Sunday
+186,Chardon High School,2012-02-27,3,3,6,Yes,White,M,41.58025541,-81.20812625,Chardon,Ohio,D,Republican,Winter,Workweek,Regular Day,2012,2,27,Monday
+193,Youngstown State University,2011-02-06,1,11,12,Unknown,Black,M,41.09933958,-80.64631705,Youngstown,Ohio,D,Republican,Winter,Weekend,Regular Day,2011,2,6,Sunday
+216,SuccessTech Academy,2007-10-11,1,4,4,Yes,White,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican,Fall,Workweek,Regular Day,2007,10,11,Thursday
+231,Damageplan show at the Alrosa Villa Nightclub,2004-12-08,5,7,11,Yes,White,M,39.98861445,-82.98904135,Columbus,Ohio,D,Republican,Fall,Workweek,Regular Day,2004,12,8,Wednesday
+235,Case Western Reserve University,2003-05-09,1,2,3,No,Asian,M,41.47657557,-81.68051502,Cleveland,Ohio,D,Republican,Spring,Weekend,Regular Day,2003,5,9,Friday
+267,Wickliffe Middle School,1994-11-07,1,3,4,Yes,White,M,41.60713735,-81.46902046,Wickliffe,Ohio,D,Republican,Fall,Workweek,Regular Day,1994,11,7,Monday
+8,Cascade Mall shooting,2016-09-23,5,0,5,Yes,Unknown,M,,,Burlington,Washington,B,Democrat,Fall,Weekend,Regular Day,2016,9,23,Friday
+48,"Belfair, Washington",2016-02-26,5,0,4,Unknown,White,M,47.5033,-122.931,Belfair,Washington,B,Democrat,Winter,Weekend,Regular Day,2016,2,26,Friday
+51,"Belfair, WA Family murder-suicide",2016-02-25,5,0,4,Unknown,White,M,47.451459,-122.826946,,Washington,B,Democrat,Winter,Workweek,Regular Day,2016,2,25,Thursday
+147,Marysville-Pilchuck High School,2014-10-24,5,1,5,No,Native,M,48.04802409,-122.1359622,Marysville,Washington,B,Democrat,Fall,Weekend,Regular Day,2014,10,24,Friday
+151,Seattle Pacific University,2014-06-05,1,2,3,Yes,Unknown,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat,Spring,Workweek,Regular Day,2014,6,5,Thursday
+161,Washington Navy Yard,2013-09-16,13,3,15,Yes,Black,M,38.90480894,-77.01629717,Washington,Washington,B,Democrat,Summer,Workweek,Regular Day,2013,9,16,Monday
+168,Pinewood Village Apartments,2013-04-21,5,0,4,Unknown,Black,M,47.30909721,-122.3357553,Federal Way,Washington,B,Democrat,Spring,Weekend,Regular Day,2013,4,21,Sunday
+182,Cafe in Seattle,2012-05-30,6,1,6,Yes,White,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat,Spring,Workweek,Regular Day,2012,5,30,Wednesday
+183,Seattle cafe shooting,2012-05-20,6,1,7,Yes,White,M,47.6038321,-122.3300624,Seattle,Washington,B,Democrat,Spring,Weekend,Regular Day,2012,5,20,Sunday
+197,Coffee shop police killings,2009-11-29,4,1,5,Yes,Black,M,47.155846,-122.437031,Parkland,Washington,B,Democrat,Fall,Weekend,Regular Day,2009,11,29,Sunday
+198,Parkland Coffee Shop,2009-11-29,5,0,4,Yes,Black,M,47.16267579,-122.5296574,Lakewood,Washington,B,Democrat,Fall,Weekend,Regular Day,2009,11,29,Sunday
+211,"Carnation, Washington",2007-12-24,6,0,6,No,White,Unknown,47.64628742,-121.9088524,Carnation,Washington,B,Democrat,Winter,Workweek,Regular Day,2007,12,24,Monday
+226,Capitol Hill massacre,2006-03-25,7,2,9,No,White,M,47.6229,-122.3165,Seattle,Washington,B,Democrat,Spring,Weekend,Regular Day,2006,3,25,Saturday
+261,Frontier Junior High School,1996-02-02,3,1,4,Yes,White,M,47.12189424,-119.2750699,Moses Lake,Washington,B,Democrat,Winter,Weekend,Regular Day,1996,2,2,Friday
+268,Fairchild Air Force Base Hospital,1994-06-20,5,23,27,Yes,White,M,47.618456,-117.644099,Fairchild Air Force Base,Washington,B,Democrat,Spring,Workweek,Regular Day,1994,6,20,Monday
+308,Wah Mee Club in Seattle,1983-02-18,13,1,14,Unknown,Asian,M,47.62199575,-122.323646,Seattle,Washington,B,Democrat,Winter,Weekend,Regular Day,1983,2,18,Friday
+318,St. Aloysius Church,1971-11-11,2,4,5,Yes,White,M,47.67367375,-117.4159843,Spokane,Washington,B,Democrat,Fall,Workweek,Holiday,1971,11,11,Thursday
+9,Baton Rouge police shooting,2016-07-17,3,3,6,Yes,Black,M,,,Baton Rouge,Louisiana,F,Democrat,Summer,Weekend,Regular Day,2016,7,17,Sunday
+40,"Lafayette, LA drive by",2016-03-07,0,4,4,Unknown,Unknown,Unknown,30.224090000000004,-92.019843,,Louisiana,F,Democrat,Winter,Workweek,Regular Day,2016,3,7,Monday
+66,New Orleans gas station shoot-out,2016-01-31,0,3,3,Unknown,Black,M,29.951066,-90.07153199999998,,Louisiana,F,Democrat,Winter,Weekend,Regular Day,2016,1,31,Sunday
+99,"Grand 16 Theatre, Louisiana",2015-07-23,3,9,11,Yes,White,M,30.21233538,-92.0316453,Lafayette,Louisiana,F,Democrat,Summer,Workweek,Regular Day,2015,7,23,Thursday
+149,Bourbon Street New Orleans,2014-06-29,1,9,10,No,Mixed,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat,Summer,Weekend,Regular Day,2014,6,29,Sunday
+292,New Orleans Downtown Post Office,1988-12-14,0,4,4,Unknown,Unknown,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat,Fall,Workweek,Regular Day,1988,12,14,Wednesday
+317,New Orleans Police Shootings,1972-12-31,10,13,22,Yes,Black,M,30.0687242,-89.93147412,New Orleans,Louisiana,F,Democrat,Winter,Weekend,Regular Day,1972,12,31,Sunday
+10,Dallas police shooting,2016-07-07,5,11,16,Unknown,Black,M,,,Dallas,Texas,F,Democrat,Summer,Workweek,Regular Day,2016,7,7,Thursday
+17,Texas family murder-suicide,2016-04-19,4,0,4,Unknown,White,M,29.785785,-95.824396,,Texas,F,Democrat,Spring,Workweek,Regular Day,2016,4,19,Tuesday
+28,"Sherman, Texas Family Murder-Suicide",2016-03-21,4,0,3,Unknown,Unknown,M,33.635662,-96.60888,Sherman,Texas,F,Democrat,Spring,Workweek,Regular Day,2016,3,21,Monday
+54,Houston Drive-by,2016-02-21,0,5,5,Unknown,Unknown,Unknown,29.760427000000004,-95.369803,,Texas,F,Democrat,Winter,Weekend,Regular Day,2016,2,21,Sunday
+65,Texas teen commits family murder suicide,2016-02-06,4,0,3,Unknown,White,M,29.209684000000006,-99.786168,,Texas,F,Democrat,Winter,Weekend,Regular Day,2016,2,6,Saturday
+83,"Tennessee Colony, Texas",2015-11-15,6,0,6,Unknown,White,M,31.8076,-95.8069,Tennessee Colony,Texas,F,Democrat,Fall,Weekend,Regular Day,2015,11,15,Sunday
+98,"Houston, Texas",2015-08-08,8,0,8,Unknown,Black,M,29.79705548,-95.36763856,Houston,Texas,F,Democrat,Summer,Weekend,Regular Day,2015,8,8,Saturday
+116,Killeen,2015-04-21,2,3,5,Unknown,Black,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,Spring,Workweek,Regular Day,2015,4,21,Tuesday
+132,Killeen,2015-02-22,4,1,4,No,Black,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,Winter,Weekend,Regular Day,2015,2,22,Sunday
+154,Fort Hood shooting 2,2014-04-03,3,12,15,Unknown,Latino,M,,,Fort Hood,Texas,F,Democrat,Spring,Workweek,Regular Day,2014,4,3,Thursday
+155,Fort Hood,2014-04-02,4,16,19,Yes,Unknown,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,Spring,Workweek,Regular Day,2014,4,2,Wednesday
+163,Homes in Desoto and Dallas,2013-08-07,4,4,8,Unknown,Black,M,32.79480596,-96.76631094,Dallas,Texas,F,Democrat,Summer,Workweek,Regular Day,2013,8,7,Wednesday
+199,Fort Hood Army Base,2009-11-05,13,32,45,Yes,White,M,31.13814354,-97.77797804,Fort Hood,Texas,F,Democrat,Fall,Workweek,Regular Day,2009,11,5,Thursday
+230,Tyler Courthouse,2005-02-24,3,4,6,Unknown,Unknown,M,32.3154272,-95.30501087,Tyler,Texas,F,Democrat,Winter,Workweek,Regular Day,2005,2,24,Thursday
+244,Wedgwood Baptist Church,1999-09-15,8,7,14,Yes,White,M,32.74802142,-97.31305148,Fort Worth,Texas,F,Democrat,Summer,Workweek,Regular Day,1999,9,15,Wednesday
+263,Walter Rossler Company,1995-04-03,6,0,5,No,Unknown,M,27.73907518,-97.43073352,Corpus Christi,Texas,F,Democrat,Spring,Workweek,Regular Day,1995,4,3,Monday
+281,Palo Duro High School,1992-09-11,0,6,6,Unknown,Unknown,M,35.18322484,-101.8805688,Amarillo,Texas,F,Democrat,Summer,Weekend,Regular Day,1992,9,11,Friday
+285,"Luby's Cafeteria in Killeen, Texas",1991-10-16,24,20,43,Yes,White,M,31.07925506,-97.73392317,Killeen,Texas,F,Democrat,Fall,Workweek,Regular Day,1991,10,16,Wednesday
+305,Ianni's Club in Dallas,1984-06-29,6,1,7,Yes,White,M,32.79480596,-96.76631094,Dallas,Texas,F,Democrat,Summer,Weekend,Regular Day,1984,6,29,Friday
+320,University of Texas at Austin,1966-08-01,17,32,48,Yes,White,M,30.198887300000006,-97.84415949,Austin,Texas,F,Democrat,Summer,Workweek,Regular Day,1966,8,1,Monday
+12,"Ferguson, MO Drive by",2016-04-29,0,4,4,Unknown,Unknown,Unknown,38.744217,-90.305391,Ferguson,Missouri,F,Democrat,Spring,Weekend,Regular Day,2016,4,29,Friday
+53,Missouri Highway shooting,2016-02-21,1,3,4,Unknown,Black,M,38.77144000000001,-90.370949,,Missouri,F,Democrat,Winter,Weekend,Regular Day,2016,2,21,Sunday
+129,Tyrone,2015-02-26,8,1,8,No,White,M,37.204442,-91.876583,Tyrone,Missouri,F,Democrat,Winter,Workweek,Regular Day,2015,2,26,Thursday
+210,Kirkwood City Hall,2008-02-07,6,2,7,No,Black,M,38.57889169,-90.42023754,Kirkwood,Missouri,F,Democrat,Winter,Workweek,Regular Day,2008,2,7,Thursday
+13,"Forestville, Maryland Drive-by",2016-04-26,1,4,5,Unknown,Unknown,Unknown,38.845113,-76.874972,,Maryland,A,Democrat,Spring,Workweek,Regular Day,2016,4,26,Tuesday
+15,Tire-Slashing revenge escalation,2016-04-21,0,4,4,Unknown,Black,M,39.290385,-76.612189,,Maryland,A,Democrat,Spring,Workweek,Regular Day,2016,4,21,Thursday
+14,"Halifax County, VA",2016-04-24,0,6,6,Unknown,Black,M,36.765971,-78.928344,,Virginia,D,Republican,Spring,Weekend,Regular Day,2016,4,24,Sunday
+24,"Richmond, Virginia",2016-03-31,2,2,3,Unknown,Black,M,37.540725,-77.436048,Richmond,Virginia,D,Republican,Spring,Workweek,Regular Day,2016,3,31,Thursday
+47,"Woodbridge, Virginia",2016-02-27,2,2,4,Unknown,Black,M,38.6697,-77.3524,Woodbridge,Virginia,D,Republican,Winter,Weekend,Regular Day,2016,2,27,Saturday
+68,"Caroline County, VA Family Murder Suicide",2016-01-29,2,2,3,Unknown,Unknown,M,38.044556,-77.286488,,Virginia,D,Republican,Winter,Weekend,Regular Day,2016,1,29,Friday
+69,"Chesapeake, Virginia",2016-01-27,6,0,5,Yes,White,M,36.7921,-76.3293,Chesapeake,Virginia,D,Republican,Winter,Workweek,Regular Day,2016,1,27,Wednesday
+73,"Gloucester County, VA, House Party",2016-01-17,1,3,4,Unknown,Black,M,37.40264000000001,-76.458559,,Virginia,D,Republican,Winter,Weekend,Regular Day,2016,1,17,Sunday
+96,Virginia WDBJ live TV interview shooting,2015-08-26,3,1,3,Unknown,Black,M,37.27823366,-79.95816104,Roanoke,Virginia,D,Republican,Summer,Workweek,Regular Day,2015,8,26,Wednesday
+218,Virginia Tech massacre,2007-04-16,32,23,55,Yes,Asian,M,37.2295733,-80.4139393,Blacksburg,Virginia,D,Republican,Spring,Workweek,Regular Day,2007,4,16,Monday
+237,Appalachian School of Law,2002-01-16,3,3,6,No,Black,M,37.27537712,-82.09877234,Grundy,Virginia,D,Republican,Winter,Workweek,Regular Day,2002,1,16,Wednesday
+16,Chicago Rap video Shootout,2016-04-19,1,4,5,Unknown,Unknown,Unknown,41.878114,-87.629798,,Illinois,B,Democrat,Spring,Workweek,Regular Day,2016,4,19,Tuesday
+22,Chicago Birthday Party Bus Shooting,2016-04-07,0,5,5,Unknown,Unknown,Unknown,41.878114,-87.629798,,Illinois,B,Democrat,Spring,Workweek,Regular Day,2016,4,7,Thursday
+102,River Forest,2015-07-12,2,3,4,Unknown,Unknown,M,41.89499946,-87.81941392,River Forest,Illinois,B,Democrat,Summer,Weekend,Regular Day,2015,7,12,Sunday
+110,Club Maxey's,2015-05-25,1,4,5,Unknown,Black,M,39.85566372,-88.93346458,Decatur,Illinois,B,Democrat,Spring,Workweek,Holiday,2015,5,25,Monday
+167,Village of Manchester in Illinois,2013-04-24,7,1,7,Unknown,White,M,39.54231335,-90.33029852,Manchester,Illinois,B,Democrat,Spring,Workweek,Regular Day,2013,4,24,Wednesday
+209,Northern Illinois University shooting,2008-02-14,5,21,26,Yes,White,M,41.9294736,-88.7503647,DeKalb,Illinois,B,Democrat,Winter,Workweek,Regular Day,2008,2,14,Thursday
+233,Windy City Core Supply Warehouse,2003-08-27,7,0,6,No,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat,Summer,Workweek,Regular Day,2003,8,27,Wednesday
+239,Navistar International,2001-02-05,6,4,9,No,Black,M,41.90289602,-87.86430209999997,Melrose Park,Illinois,B,Democrat,Winter,Workweek,Regular Day,2001,2,5,Monday
+294,Comet Auto Parts and Montefiore School,1988-09-22,5,2,6,No,Black,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat,Fall,Workweek,Regular Day,1988,9,22,Thursday
+295,Hubbard Woods Elementary School,1988-05-20,2,7,8,Yes,White,F,42.10648807,-87.74211141,Winnetka,Illinois,B,Democrat,Spring,Weekend,Regular Day,1988,5,20,Friday
+316,Clara Barton Elementary School,1974-01-17,1,3,4,Yes,Unknown,M,41.83928045,-87.68818145,Chicago,Illinois,B,Democrat,Winter,Workweek,Regular Day,1974,1,17,Thursday
+20,"Albuquerque, NM House party shooting",2016-04-09,0,4,4,Unknown,White,M,35.085334,-106.605553,,New Mexico,F,Democrat,Spring,Weekend,Regular Day,2016,4,9,Saturday
+23,"Albuquerque, NM Family restaurant shooting",2016-04-01,3,1,3,Unknown,Asian,M,35.085334,-106.605553,,New Mexico,F,Democrat,Spring,Weekend,Regular Day,2016,4,1,Friday
+123,Little Water,2015-03-19,2,2,3,Unknown,Unknown,M,36.44329000000001,-108.723281,Little Water,New Mexico,F,Democrat,Winter,Workweek,Regular Day,2015,3,19,Thursday
+148,Albuquerque Auto Shop,2014-08-08,2,3,4,No,Unknown,M,35.15290522,-106.7791378,Albuquerque,New Mexico,F,Democrat,Summer,Weekend,Regular Day,2014,8,8,Friday
+173,South Valley Residence,2013-01-19,5,0,5,Yes,Unknown,M,35.15290522,-106.7791378,"South Valley, Albuquerque",New Mexico,F,Democrat,Winter,Weekend,Regular Day,2013,1,19,Saturday
+21,"Memphis, TN gas station shooting",2016-04-09,0,4,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,F,Republican,Spring,Weekend,Regular Day,2016,4,9,Saturday
+26,"Lawrenceburg, Tennessee",2016-03-25,2,2,3,Unknown,Unknown,M,35.242302,-87.334739,Lawrenceburg,Tennessee,F,Republican,Spring,Weekend,Regular Day,2016,3,25,Friday
+75,"Roadside in Memphis, Tennessee",2016-01-07,1,3,4,Unknown,Unknown,Unknown,35.149534,-90.04898,,Tennessee,F,Republican,Winter,Workweek,Regular Day,2016,1,7,Thursday
+95,"Bristol, Tennessee",2015-08-29,3,1,4,Unknown,White,M,36.55605824,-82.21429551,Bristol,Tennessee,F,Republican,Summer,Weekend,Regular Day,2015,8,29,Saturday
+101,"Amnicola Training Center, Chattanooga",2015-07-16,5,3,7,Yes,White,M,35.09318123,-85.23676751,Chattanooga,Tennessee,F,Republican,Summer,Workweek,Regular Day,2015,7,16,Thursday
+143,Memphis,2015-01-01,0,5,5,No,Black,M,35.10528976,-89.97734924,Memphis,Tennessee,F,Republican,Winter,Workweek,Holiday,2015,1,1,Thursday
+262,Richland High School,1995-11-15,2,1,3,Yes,White,M,35.37810374,-87.00610559,Lynnville,Tennessee,F,Republican,Fall,Workweek,Regular Day,1995,11,15,Wednesday
+25,"Louisburg, North Carolina",2016-03-26,3,0,3,Unknown,Black,M,36.09903900000001,-78.301106,Louisburg,North Carolina,D,Democrat,Spring,Weekend,Regular Day,2016,3,26,Saturday
+103,Boom Boom Room,2015-06-20,0,4,4,Unknown,Black,M,34.86379864,-79.9996781,Morven,North Carolina,D,Democrat,Spring,Weekend,Regular Day,2015,6,20,Saturday
+127,Tarboro,2015-02-28,4,0,3,Yes,Black,M,35.90434471,-77.55639964,Tarboro,North Carolina,D,Democrat,Winter,Weekend,Regular Day,2015,2,28,Saturday
+130,Charlotte,2015-02-24,3,0,3,No,Unknown,M,35.226354,-80.836788,Charlotte,North Carolina,D,Democrat,Winter,Workweek,Regular Day,2015,2,24,Tuesday
+133,Chapel Hill,2015-02-10,3,0,3,No,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,D,Democrat,Winter,Workweek,Regular Day,2015,2,10,Tuesday
+137,"King, North Carolina",2015-02-04,4,0,3,Unknown,White,M,36.27617912,-80.35501402,King,North Carolina,D,Democrat,Winter,Workweek,Regular Day,2015,2,4,Wednesday
+201,Carthage nursing home shooting,2009-03-29,8,3,11,Yes,White,M,35.345802,-79.41705429999998,Carthage,North Carolina,D,Democrat,Spring,Weekend,Regular Day,2009,3,29,Sunday
+203,Pinelake Health and Rehab nursing home,2009-03-29,8,2,10,Yes,White,M,35.33985609,-79.41381725,Carthage,North Carolina,D,Democrat,Spring,Weekend,Regular Day,2009,3,29,Sunday
+224,Orange High School,2006-08-30,1,2,3,Yes,Unknown,M,36.04099857,-79.09701201,Hillsborough,North Carolina,D,Democrat,Summer,Workweek,Regular Day,2006,8,30,Wednesday
+265,Downtown Chapel Hill,1995-01-26,2,2,4,Yes,White,M,35.92681467,-79.03850407,Chapel Hill,North Carolina,D,Democrat,Winter,Workweek,Regular Day,1995,1,26,Thursday
+274,Luigi's Restaurant in Fayetteville,1993-08-06,4,8,12,No,White,M,35.07997086,-79.03796125,Fayetteville,North Carolina,D,Democrat,Summer,Weekend,Regular Day,1993,8,6,Friday
+27,"Greenhill, AL Family murder-suicide",2016-03-25,2,2,3,Yes,White,M,34.759257,-86.60249300000002,,Alabama,F,Republican,Spring,Weekend,Regular Day,2016,3,25,Friday
+31,Wetumpka Drive-by,2016-03-19,2,2,4,Unknown,Black,M,32.543745,-86.211913,Wetumpka,Alabama,F,Republican,Spring,Weekend,Regular Day,2016,3,19,Saturday
+125,Cottonwood,2015-03-15,3,1,3,No,White,M,31.0549687,-85.30100084,Cottonwood,Alabama,F,Republican,Winter,Weekend,Regular Day,2015,3,15,Sunday
+128,Birmingham's Washington Park,2015-02-27,1,2,3,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,F,Republican,Winter,Weekend,Regular Day,2015,2,27,Friday
+158,Centennial Hill Bar & Grill,2013-12-28,3,5,8,No,Black,M,32.34729571,-86.26730242,Montgomery,Alabama,F,Republican,Winter,Weekend,Regular Day,2013,12,28,Saturday
+181,University Heights Apartments in Auburn,2012-06-09,3,3,6,Unknown,Black,M,32.60598014,-85.48989253,Auburn,Alabama,F,Republican,Spring,Weekend,Regular Day,2012,6,9,Saturday
+188,Ensley Birmingham,2012-01-29,5,0,5,No,Black,M,33.5282865,-86.79550448,Birmingham,Alabama,F,Republican,Winter,Weekend,Regular Day,2012,1,29,Sunday
+192,Southern Union State Community College,2011-04-06,1,3,4,Yes,White,M,32.66240106,-85.37706931,Opelika,Alabama,F,Republican,Spring,Workweek,Regular Day,2011,4,6,Wednesday
+196,University of Alabama in Huntsville,2010-02-12,0,3,6,No,White,F,34.72827538,-86.67230550000002,Huntsville,Alabama,F,Republican,Winter,Weekend,Regular Day,2010,2,12,Friday
+204,"Geneva County, Alabama",2009-03-10,11,6,16,No,White,M,31.04367594,-85.87634659999998,Geneva,Alabama,F,Republican,Winter,Workweek,Regular Day,2009,3,10,Tuesday
+29,"Louisville, KY Family Murder-Suicide",2016-03-20,4,0,3,Yes,White,M,38.252665,-85.75845600000002,Louisville,Kentucky,F,Republican,Spring,Weekend,Regular Day,2016,3,20,Sunday
+208,Atlantis Plastics,2008-06-25,7,1,7,No,White,M,37.84040411,-87.57853755,Henderson,Kentucky,F,Republican,Summer,Workweek,Regular Day,2008,6,25,Wednesday
+255,Heath High School,1997-12-01,3,5,8,Yes,White,M,37.08506,-88.74422,West Paducah,Kentucky,F,Republican,Fall,Workweek,Regular Day,1997,12,1,Monday
+269,"Residence in Union, Kentucky",1994-05-26,4,0,4,No,White,M,38.95130818,-84.67066339,Union,Kentucky,F,Republican,Spring,Workweek,Regular Day,1994,5,26,Thursday
+289,Standard Gravure Corporation,1989-09-14,9,12,20,Yes,White,M,38.249432,-85.72624300000003,Louisville,Kentucky,F,Republican,Summer,Workweek,Regular Day,1989,9,14,Thursday
+32,Atlanta Nightclub shooting,2016-03-15,0,4,4,Unknown,Unknown,Unknown,33.748995,-84.387982,,Georgia,F,Neutral,Winter,Workweek,Regular Day,2016,3,15,Tuesday
+34,"Elberton, Georgia murder-suicide",2016-03-12,2,2,3,Unknown,Unknown,M,34.111222999999995,-82.86708399999998,,Georgia,F,Neutral,Winter,Weekend,Regular Day,2016,3,12,Saturday
+43,"Roswell, GA Hookah shootout",2016-03-06,0,4,4,Unknown,Black,M,34.023243,-84.36155600000002,,Georgia,F,Neutral,Winter,Weekend,Regular Day,2016,3,6,Sunday
+85,"Waycross, GA",2015-11-07,1,2,3,Yes,Black,M,31.21094544,-82.35793452,Waycross,Georgia,F,Neutral,Fall,Weekend,Regular Day,2015,11,7,Saturday
+92,Hill Haven Event Center (Formerly Club CJ's),2015-09-27,0,10,10,Unknown,Black,M,33.02912644,-84.7143335,Greenville,Georgia,F,Neutral,Fall,Weekend,Regular Day,2015,9,27,Sunday
+100,Suwanee,2015-07-22,4,1,4,Unknown,White,M,34.05057545,-84.06872262,Suwanee,Georgia,F,Neutral,Summer,Workweek,Regular Day,2015,7,22,Wednesday
+109,Conyers,2015-05-31,3,2,4,Unknown,White,M,33.66086267,-84.02688527,Conyers,Georgia,F,Neutral,Spring,Weekend,Regular Day,2015,5,31,Sunday
+118,Rome,2015-04-07,1,3,4,No,Black,M,34.26779152,-85.18822422,Rome,Georgia,F,Neutral,Spring,Workweek,Regular Day,2015,4,7,Tuesday
+131,Clarkesville,2015-02-22,3,2,4,No,White,M,34.61025711,-83.52918091,Clarkesville,Georgia,F,Neutral,Winter,Weekend,Regular Day,2015,2,22,Sunday
+136,Douglasville,2015-02-07,5,2,6,No,Black,M,33.71059292,-84.71564276,Douglasville,Georgia,F,Neutral,Winter,Weekend,Regular Day,2015,2,7,Saturday
+139,LaGrange,2015-01-28,5,0,5,No,White,M,33.03607062,-85.0287065,LaGrange,Georgia,F,Neutral,Winter,Workweek,Regular Day,2015,1,28,Wednesday
+153,Kennesaw FedEx,2014-04-29,1,6,6,No,White,M,34.02529674,-84.61766831,Kennesaw,Georgia,F,Neutral,Spring,Workweek,Regular Day,2014,4,29,Tuesday
+187,Su Jung Health Sauna shooting,2012-02-22,5,0,5,Yes,Asian,M,33.9412127,-84.2135309,Norcross,Georgia,F,Neutral,Winter,Workweek,Regular Day,2012,2,22,Wednesday
+245,Offices of All-Tech Investment Group and Momentum Securities,1999-07-29,10,12,21,Yes,White,M,33.7629969,-84.4231328,Atlanta,Georgia,F,Neutral,Summer,Workweek,Regular Day,1999,7,29,Thursday
+246,Heritage High School,1999-05-20,0,6,6,No,White,M,33.66086267,-84.02688527,Conyers,Georgia,F,Neutral,Spring,Workweek,Regular Day,1999,5,20,Thursday
+302,Atlanta Post Office,1985-03-06,2,1,3,Yes,Black,M,33.7629969,-84.4231328,Atlanta,Georgia,F,Neutral,Winter,Workweek,Regular Day,1985,3,6,Wednesday
+36,Detroit Drive-by,2016-03-11,2,2,4,Unknown,Unknown,Unknown,42.33142700000001,-83.045754,,Michigan,C,Democrat,Winter,Weekend,Regular Day,2016,3,11,Friday
+45,Detroit Strip Club Shootout,2016-02-28,0,5,5,Unknown,Black,M,42.33142700000001,-83.045754,,Michigan,C,Democrat,Winter,Weekend,Regular Day,2016,2,28,Sunday
+55,Kalamazoo shooting spree,2016-02-20,6,2,8,Unknown,White,M,,,Kalamazoo County,Michigan,C,Democrat,Winter,Weekend,Regular Day,2016,2,20,Saturday
+58,Kalamazoo Uber Driver Spree Killing,2016-02-20,6,2,8,No,White,M,42.291707,-85.58722900000002,,Michigan,C,Democrat,Winter,Weekend,Regular Day,2016,2,20,Saturday
+60,Michigan school shooting,2016-02-09,0,3,3,Unknown,Black,M,43.201126,-86.238946,,Michigan,C,Democrat,Winter,Workweek,Regular Day,2016,2,9,Tuesday
+191,Residences in Grand Rapids,2011-07-07,8,2,9,Yes,Black,M,42.96920434,-85.66008902,Grand Rapids,Michigan,C,Democrat,Summer,Workweek,Regular Day,2011,7,7,Thursday
+215,South Middle School Football Game,2007-10-25,0,4,4,No,Black,M,43.41929117,-83.95032759,Saginaw,Michigan,C,Democrat,Fall,Workweek,Regular Day,2007,10,25,Thursday
+270,Chelsea High School,1993-12-16,1,2,3,Yes,White,M,42.31319376,-84.01868108,Chelsea,Michigan,C,Democrat,Fall,Workweek,Regular Day,1993,12,16,Thursday
+277,Dearborn Post Office,1993-05-06,2,2,3,Unknown,Unknown,M,42.31269522,-83.21293244,Dearborn,Michigan,C,Democrat,Spring,Workweek,Regular Day,1993,5,6,Thursday
+283,Royal Oak Post Office,1991-11-14,5,5,9,Yes,White,M,42.50840203,-83.15387427,Royal Oak,Michigan,C,Democrat,Fall,Workweek,Regular Day,1991,11,14,Thursday
+39,"Kansas City, Kansas",2016-03-07,5,0,5,Unknown,Unknown,M,39.11405300000001,-94.627464,Kansas City,Kansas,F,Republican,Winter,Workweek,Regular Day,2016,3,7,Monday
+41,Kansas City Home Invasion,2016-03-07,4,0,4,Unknown,Unknown,M,39.11405300000001,-94.627464,,Kansas,F,Republican,Winter,Workweek,Regular Day,2016,3,7,Monday
+44,Wichita Nightclub shooting,2016-03-05,0,4,4,Unknown,Unknown,Unknown,37.687176,-97.330053,,Kansas,F,Republican,Winter,Weekend,Regular Day,2016,3,5,Saturday
+49,Excel Industries mass shooting,2016-02-25,3,14,17,Unknown,Black,M,,,Hesston,Kansas,F,Republican,Winter,Workweek,Regular Day,2016,2,25,Thursday
+50,"Hesston, Kansas",2016-02-25,4,14,17,Unknown,Black,M,38.1368,-97.4268,Hesston,Kansas,F,Republican,Winter,Workweek,Regular Day,2016,2,25,Thursday
+303,Goddard Junior High School,1985-01-21,1,3,4,Yes,White,M,37.67129418,-97.55070476,Goddard,Kansas,F,Republican,Winter,Workweek,Regular Day,1985,1,21,Monday
+42,"Chelsea, MA empty apartment party shooting",2016-03-06,1,6,7,Unknown,Unknown,M,42.391764,-71.03282800000002,Chelsea,Massachusetts,A,Democrat,Winter,Weekend,Regular Day,2016,3,6,Sunday
+240,Wakefield massacre,2000-12-26,7,0,7,Yes,White,M,42.506484,-71.0728306,Wakefield,Massachusetts,A,Democrat,Winter,Workweek,Regular Day,2000,12,26,Tuesday
+266,Massachusetts Abortion Clinic,1994-12-30,2,5,7,Yes,White,M,42.32427392,-71.14080012,Brookline,Massachusetts,A,Democrat,Winter,Weekend,Regular Day,1994,12,30,Friday
+279,Simon's Rock College of Bard,1992-12-14,2,4,6,No,Asian,M,42.19358268,-73.36216339,Great Barrington,Massachusetts,A,Democrat,Fall,Workweek,Regular Day,1992,12,14,Monday
+52,Arizona Family Murder,2016-02-23,5,0,4,Unknown,White,M,33.448377,-112.074037,Glendale,Arizona,F,Republican,Winter,Workweek,Regular Day,2016,2,23,Tuesday
+67,"Glendale, AZ House Party shooting",2016-01-30,3,5,8,Unknown,Unknown,M,33.538652,-112.185987,,Arizona,F,Republican,Winter,Weekend,Regular Day,2016,1,30,Saturday
+89,Northern Arizona University at Flagstaff Campus,2015-10-09,1,3,4,Unknown,White,M,35.1725658,-111.6585435,Flagstaff,Arizona,F,Republican,Fall,Weekend,Regular Day,2015,10,9,Friday
+111,Tucson,2015-05-12,5,0,4,Yes,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,F,Republican,Spring,Workweek,Regular Day,2015,5,12,Tuesday
+117,Phoenix,2015-04-16,5,0,4,Unknown,Unknown,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,Spring,Workweek,Regular Day,2015,4,16,Thursday
+124,Mesa,2015-03-18,1,5,6,No,White,M,33.42268696,-111.8163202,Mesa,Arizona,F,Republican,Winter,Workweek,Regular Day,2015,3,18,Wednesday
+172,Phoenix Law Firm,2013-01-30,3,1,3,Unknown,White,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,Winter,Workweek,Regular Day,2013,1,30,Wednesday
+194,Tucson shooting,2011-01-08,6,13,19,Yes,White,M,32.2217429,-110.926479,Tucson,Arizona,F,Republican,Winter,Weekend,Regular Day,2011,1,8,Saturday
+207,South Mountain Community College,2008-07-24,0,3,3,No,Black,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,Summer,Workweek,Regular Day,2008,7,24,Thursday
+236,University of Arizona College of Nursing,2002-10-28,4,0,3,No,Unknown,M,32.15358905,-110.96776470000002,Tucson,Arizona,F,Republican,Fall,Workweek,Regular Day,2002,10,28,Monday
+287,Wat Promkunaram Buddhist Temple,1991-08-09,9,0,9,No,Asian,M,33.57145875,-112.0904854,Phoenix,Arizona,F,Republican,Summer,Weekend,Regular Day,1991,8,9,Friday
+319,Rose-Mar College of Beauty,1966-11-12,5,1,6,Yes,White,M,33.42268696,-111.8163202,Mesa,Arizona,F,Republican,Fall,Weekend,Regular Day,1966,11,12,Saturday
+56,"Iuka, Mississippi",2016-02-20,2,3,4,Unknown,White,M,34.7404,-88.1383,Iuka,Mississippi,F,Republican,Winter,Weekend,Regular Day,2016,2,20,Saturday
+126,Brookhaven,2015-03-13,2,3,5,Unknown,Black,M,31.58036482,-90.44323475,Brookhaven,Mississippi,F,Republican,Winter,Weekend,Regular Day,2015,3,13,Friday
+234,Lockheed Martin shooting,2003-07-08,7,8,15,Yes,White,M,32.376081,-88.68978002,Meridian,Mississippi,F,Republican,Summer,Workweek,Regular Day,2003,7,8,Tuesday
+256,Pearl High School,1997-10-01,2,7,9,Yes,White,M,32.27492783,-90.09470655,Pearl,Mississippi,F,Republican,Fall,Workweek,Regular Day,1997,10,1,Wednesday
+62,Nightclub fight turns into shootout,2016-02-07,1,7,8,Unknown,Unknown,Unknown,43.16103,-77.610922,,New York,A,Democrat,Winter,Weekend,Regular Day,2016,2,7,Sunday
+97,Parking lot near Boys and Girls Club,2015-08-19,3,4,7,Unknown,Black,M,43.16968370000001,-77.614337,Rochester,New York,A,Democrat,Summer,Workweek,Regular Day,2015,8,19,Wednesday
+115,Gates Pub,2015-04-25,1,6,7,Unknown,Black,M,43.15693027,-77.69300856,Gates,New York,A,Democrat,Spring,Weekend,Regular Day,2015,4,25,Saturday
+138,McAvan's Pub,2015-02-01,0,6,6,No,Black,M,43.04093416,-76.14376763,Syracuse,New York,A,Democrat,Winter,Weekend,Regular Day,2015,2,1,Sunday
+140,Queens,2015-01-24,4,1,4,No,Black,M,40.68996411,-73.8720502,New York City,New York,A,Democrat,Winter,Weekend,Regular Day,2015,1,24,Saturday
+169,Mohawk and Herkimer Villages in New York,2013-03-13,5,2,6,No,White,M,43.0104011,-75.00751190000003,Mohawk,New York,A,Democrat,Winter,Workweek,Regular Day,2013,3,13,Wednesday
+200,Binghamton shootings,2009-04-03,14,4,18,Yes,Asian,M,42.0986867,-75.9179738,Binghamton,New York,A,Democrat,Spring,Weekend,Regular Day,2009,4,3,Friday
+272,Long Island Rail Road Commuter Train,1993-12-07,6,19,25,No,Black,M,40.72662266,-73.644712,Garden City,New York,A,Democrat,Fall,Workweek,Regular Day,1993,12,7,Tuesday
+280,Schuyler County Office Building,1992-10-15,5,0,4,No,White,M,42.38013875,-76.86724659,Watkins Glen,New York,A,Democrat,Fall,Workweek,Regular Day,1992,10,15,Thursday
+301,New York Technical College,1986-08-12,1,4,5,Yes,Black,M,40.679276,-73.939513,Brooklyn,New York,A,Democrat,Summer,Workweek,Regular Day,1986,8,12,Tuesday
+315,Olean High School,1974-12-30,3,7,10,No,White,M,42.08185369,-78.43213922,Olean,New York,A,Democrat,Winter,Workweek,Regular Day,1974,12,30,Monday
+74,"Wilmington, DE robbery",2016-01-11,1,4,5,Unknown,Black,M,39.739072,-75.539788,,Delaware,B,Democrat,Winter,Workweek,Regular Day,2016,1,11,Monday
+77,"Omaha, Nebraska",2015-12-06,2,3,5,Unknown,Black,M,41.3138,-96.0814,Omaha,Nebraska,D,Republican,Fall,Weekend,Regular Day,2015,12,6,Sunday
+141,Omaha,2015-01-24,3,5,8,No,Black,M,41.265922,-96.05381421,Omaha,Nebraska,D,Republican,Winter,Weekend,Regular Day,2015,1,24,Saturday
+214,Westroads Mall shooting,2007-12-05,9,4,13,Yes,White,M,41.25873170000001,-95.9378732,Omaha,Nebraska,D,Republican,Fall,Workweek,Regular Day,2007,12,5,Wednesday
+80,Planned Parenthood clinic,2015-11-27,3,9,12,Unknown,White,M,,,Colorado Springs,Colorado,C,Democrat,Fall,Weekend,Regular Day,2015,11,27,Friday
+87,Colorado Springs,2015-10-31,4,0,3,Unknown,White,M,38.86730659,-104.7572279,Colorado Springs,Colorado,C,Democrat,Fall,Weekend,Regular Day,2015,10,31,Saturday
+180,Aurora theater shooting,2012-07-20,12,70,82,Yes,White,M,39.709283,-104.823488,Aurora,Colorado,C,Democrat,Summer,Weekend,Regular Day,2012,7,20,Friday
+213,Youth With A Mission and New Life Church,2007-12-09,5,5,9,No,White,M,39.81087474,-105.173715,Arvada,Colorado,C,Democrat,Fall,Weekend,Regular Day,2007,12,9,Sunday
+247,Columbine High School,1999-04-20,15,24,37,Yes,White,M,39.59358263,-105.0152112,Littleton,Colorado,C,Democrat,Spring,Workweek,Regular Day,1999,4,20,Tuesday
+271,Chuck E. Cheese in Aurora,1993-12-14,4,1,5,Yes,Black,M,39.69892933,-104.7871863,Aurora,Colorado,C,Democrat,Fall,Workweek,Regular Day,1993,12,14,Tuesday
+82,"Minneapolis, Minnesota",2015-11-23,0,5,5,Unknown,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,C,Democrat,Fall,Workweek,Regular Day,2015,11,23,Monday
+94,"Clearbrook (Greenwood), Minnesota",2015-09-10,5,0,4,Yes,White,M,47.69618799,-95.42844094,Clearbrook (Greenwood),Minnesota,C,Democrat,Summer,Workweek,Regular Day,2015,9,10,Thursday
+178,Accent Signage Systems in Minneapolis,2012-09-27,7,2,8,Yes,White,M,44.96358722,-93.26783687,Minneapolis,Minnesota,C,Democrat,Fall,Workweek,Regular Day,2012,9,27,Thursday
+228,Red Lake High School,2005-03-21,10,5,14,Yes,Native,M,47.87067289,-95.00529009,Red Lake,Minnesota,C,Democrat,Spring,Workweek,Regular Day,2005,3,21,Monday
+86,"Oakland, Maine",2015-11-04,4,0,3,Unknown,Unknown,M,44.54994725,-69.70782299,Oakland,Maine,F,Democrat,Fall,Workweek,Regular Day,2015,11,4,Wednesday
+90,Umpqua Community College,2015-10-01,10,7,16,Unknown,Mixed,M,43.22205555,-123.3522367,Roseburg,Oregon,C,Democrat,Fall,Workweek,Regular Day,2015,10,1,Thursday
+175,Clackamas Town Center,2012-12-11,3,1,3,No,Unknown,M,45.44853107,-122.5440133,Happy Valley,Oregon,C,Democrat,Fall,Workweek,Regular Day,2012,12,11,Tuesday
+219,Springwater Trail High School,2007-04-10,0,10,10,No,Unknown,M,45.50216511,-122.4412759,Gresham,Oregon,C,Democrat,Spring,Workweek,Regular Day,2007,4,10,Tuesday
+249,Thurston High School,1998-05-21,4,25,29,Yes,White,M,44.05489698,-123.0075562,Springfield,Oregon,C,Democrat,Spring,Workweek,Regular Day,1998,5,21,Thursday
+93,"Platte, South Dakota",2015-09-17,6,0,5,Unknown,White,M,43.38682722,-98.84357239,Platte,South Dakota,F,Republican,Summer,Workweek,Regular Day,2015,9,17,Thursday
+104,Charleston Church Shooting,2015-06-17,9,1,10,Unknown,White,M,32.788387,-79.933143,Charleston,South Carolina,F,Republican,Spring,Workweek,Regular Day,2015,6,17,Wednesday
+257,R.E. Phelon Company,1997-09-15,4,3,7,No,Black,M,33.47524551,-81.72595949,Aiken,South Carolina,F,Republican,Summer,Workweek,Regular Day,1997,9,15,Monday
+293,Oakland Elementary School,1988-09-26,2,9,11,Yes,White,M,34.1928952,-82.15355508,Greenwood,South Carolina,F,Republican,Fall,Workweek,Regular Day,1988,9,26,Monday
+307,Johnston Post Office,1983-08-19,1,3,4,Yes,White,M,33.83272887,-81.8051584,Johnston,South Carolina,F,Republican,Summer,Weekend,Regular Day,1983,8,19,Friday
+311,University of South Carolina,1979-10-06,2,5,7,Unknown,Black,M,34.05098834,-80.82077527,Columbia,South Carolina,F,Republican,Fall,Weekend,Regular Day,1979,10,6,Saturday
+106,Trestle Trail bridge shooting,2015-06-11,3,1,4,Yes,Latino,M,,,Menasha,Wisconsin,C,Neutral,Spring,Workweek,Regular Day,2015,6,11,Thursday
+113,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,2015-05-03,4,1,4,Yes,Unknown,M,44.20455909,-88.4484585,Menasha,Wisconsin,C,Neutral,Spring,Weekend,Regular Day,2015,5,3,Sunday
+114,Milwaukee,2015-05-01,2,3,5,No,Unknown,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,C,Neutral,Spring,Weekend,Regular Day,2015,5,1,Friday
+176,Azana Spa in Brookfield,2012-10-21,4,4,7,No,Black,M,43.06396691,-88.12299758,Brookfield,Wisconsin,C,Neutral,Fall,Weekend,Regular Day,2012,10,21,Sunday
+179,Sikh Temple in Wisconsin,2012-08-05,7,4,10,No,White,M,42.88027442,-87.90087079,Oak Creek,Wisconsin,C,Neutral,Summer,Weekend,Regular Day,2012,8,5,Sunday
+217,Crandon shooting,2007-10-07,6,1,7,Unknown,White,M,45.57190720000001,-88.9028922,Crandon,Wisconsin,C,Neutral,Fall,Weekend,Regular Day,2007,10,7,Sunday
+229,Living Church of God,2005-03-12,8,4,11,No,White,M,43.06396691,-88.12299758,Brookfield,Wisconsin,C,Neutral,Winter,Weekend,Regular Day,2005,3,12,Saturday
+232,"Birchwood, Wisconsin",2004-11-21,6,2,8,No,Asian,M,45.65773714,-91.55077175,Birchwood,Wisconsin,C,Neutral,Fall,Weekend,Regular Day,2004,11,21,Sunday
+253,Milwaukee Post Office,1997-12-19,2,2,3,No,Black,M,43.06420322,-87.96724385,Milwaukee,Wisconsin,C,Neutral,Fall,Weekend,Regular Day,1997,12,19,Friday
+107,Deer Lodge,2015-06-07,5,0,4,Unknown,White,M,46.39761858,-112.73293329999998,Deer Lodge,Montana,F,Republican,Spring,Weekend,Regular Day,2015,6,7,Sunday
+299,Fergus County High School,1986-12-04,1,3,4,Yes,White,M,47.03740653,-109.4844918,Lewistown,Montana,F,Republican,Fall,Workweek,Regular Day,1986,12,4,Thursday
+112,Annual motorcycle event in Newark,2015-05-10,1,3,4,Unknown,Black,M,40.73169648,-74.18417699,Newark,New Jersey,A,Democrat,Spring,Weekend,Regular Day,2015,5,10,Sunday
+264,Montclair Post Office,1995-03-21,4,1,5,No,White,M,40.82618400000001,-74.20862,Montclair,New Jersey,A,Democrat,Spring,Workweek,Regular Day,1995,3,21,Tuesday
+286,Ridgewood Post Office,1991-10-10,3,0,3,Yes,Black,M,40.98213277,-74.11264731,Ridgewood,New Jersey,A,Democrat,Fall,Workweek,Regular Day,1991,10,10,Thursday
+119,Indianapolis,2015-04-05,0,5,5,No,Unknown,M,39.77725479,-86.14635359,Indianapolis,Indiana,D,Republican,Spring,Weekend,Regular Day,2015,4,5,Sunday
+121,Tulsa,2015-03-30,4,0,3,Unknown,Asian,M,36.13543238,-95.91316117,Tulsa,Oklahoma,F,Republican,Spring,Workweek,Regular Day,2015,3,30,Monday
+162,Oklahoma City Residence,2013-08-14,4,0,4,Yes,White,M,35.46779189,-97.5191631,Oklahoma City,Oklahoma,F,Republican,Summer,Workweek,Regular Day,2013,8,14,Wednesday
+184,"North Tulsa, Oklahoma",2012-04-06,3,2,5,No,White,M,36.13543238,-95.91316117,Tulsa,Oklahoma,F,Republican,Spring,Weekend,Regular Day,2012,4,6,Friday
+242,Fort Gibson Middle School,1999-12-06,0,4,4,No,White,M,35.77669911,-95.25996596,Fort Gibson,Oklahoma,F,Republican,Fall,Workweek,Regular Day,1999,12,6,Monday
+300,"Post office in Edmond, Oklahoma",1986-08-20,15,6,20,Yes,White,M,35.66889223,-97.41438792,Edmond,Oklahoma,F,Republican,Summer,Workweek,Regular Day,1986,8,20,Wednesday
+142,Moscow,2015-01-10,3,1,4,No,Asian,M,46.73059479,-116.99900420000002,Moscow,Idaho,F,Republican,Winter,Weekend,Regular Day,2015,1,10,Saturday
+145,Morgantown,2014-12-01,5,0,4,No,White,M,39.63400851,-79.94839325,Morgantown,West Virginia,F,Republican,Fall,Workweek,Regular Day,2014,12,1,Monday
+174,Sandy Hook Elementary School,2012-12-14,28,2,29,Yes,White,M,41.41190846,-73.31196267,Newtown,Connecticut,A,Democrat,Fall,Weekend,Regular Day,2012,12,14,Friday
+195,Hartford Beer Distributor shooting,2010-08-03,9,2,11,No,Black,M,41.7759324,-72.5214755,Manchester,Connecticut,A,Democrat,Summer,Workweek,Regular Day,2010,8,3,Tuesday
+252,Connecticut State Lottery Headquarters,1998-03-06,5,0,4,Yes,White,M,41.68700845,-72.73083927,Newington,Connecticut,A,Democrat,Winter,Weekend,Regular Day,1998,3,6,Friday
+206,University of Central Arkansas,2008-10-26,0,1,3,No,Black,M,35.08130744,-92.43278275,Conway,Arkansas,F,Republican,Fall,Weekend,Regular Day,2008,10,26,Sunday
+251,Westside Middle School killings,1998-03-24,5,10,15,No,White,M,35.8209895,-90.6682606,Jonesboro,Arkansas,F,Republican,Spring,Workweek,Regular Day,1998,3,24,Tuesday
+220,Trolley Square,2007-02-12,6,4,9,Unknown,White,M,40.77787404,-111.9312168,Salt Lake City,Utah,F,Republican,Winter,Workweek,Regular Day,2007,2,12,Monday
+275,Weber State University,1993-07-08,1,3,3,No,Asian,M,41.2281367,-111.9675317,Ogden,Utah,F,Republican,Summer,Workweek,Regular Day,1993,7,8,Thursday
+225,Essex Elementary School,2006-08-24,2,2,4,Yes,Black,M,44.49022039,-73.11400628,Essex Junction,Vermont,F,Democrat,Summer,Workweek,Regular Day,2006,8,24,Thursday
+243,Xerox killings,1999-11-02,7,0,7,Yes,Asian,M,21.3255125,-157.8473055,Honolulu,Hawaii,A,Democrat,Fall,Workweek,Regular Day,1999,11,2,Tuesday
+258,Bethel Regional High School,1997-02-19,2,2,4,Yes,White,M,60.79053882,-161.7927517,Bethel,Alaska,F,Republican,Winter,Workweek,Regular Day,1997,2,19,Wednesday
+273,Central Middle School,1993-09-17,1,4,4,No,White,M,44.79051074,-106.9599165,Sheridan,Wyoming,F,Republican,Summer,Weekend,Regular Day,1993,9,17,Friday
+284,University of Iowa,1991-11-01,6,1,6,No,Asian,M,41.65589405,-91.53117986,Iowa City,Iowa,C,Republican,Fall,Weekend,Regular Day,1991,11,1,Friday
